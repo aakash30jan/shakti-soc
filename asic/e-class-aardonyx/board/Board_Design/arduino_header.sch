@@ -1,6 +1,5 @@
 EESchema Schematic File Version 4
-LIBS:Aardonyx-cache
-EELAYER 29 0
+EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -479,7 +478,7 @@ A5
 Wire Notes Line
 	500  3950 11200 3950
 Wire Notes Line
-	5850 3950 5850 7750
+	5900 4000 5900 7800
 Text Notes 7100 4200 0    100  ~ 20
 SKT32E - ARDUINO COMPATIBLE HEADERS\n
 Text Notes 3650 4500 0    100  ~ 20
@@ -675,22 +674,22 @@ Wire Wire Line
 Wire Wire Line
 	2650 5300 2650 5550
 Wire Wire Line
-	6450 4400 7050 4400
-Wire Wire Line
 	6450 4600 7050 4600
 Wire Wire Line
+	6450 4400 7050 4400
+Wire Wire Line
 	7050 4500 6450 4500
-Text Label 6600 4400 0    39   ~ 0
+Text Label 6700 4600 0    39   ~ 0
 SPI1_nCS
 Text Label 6600 4700 0    39   ~ 0
 SPI1_CLK
-Text Label 6600 4600 0    39   ~ 0
+Text Label 6600 4400 0    39   ~ 0
 SPI1_MISO
 Text Label 6600 4500 0    39   ~ 0
 SPI1_MOSI
-Text HLabel 6450 4400 0    50   Input ~ 0
+Text HLabel 6450 4600 0    50   Input ~ 0
 SPI1_nCS
-Text HLabel 6450 4600 0    50   Output ~ 0
+Text HLabel 6450 4400 0    50   Output ~ 0
 SPI1_MISO
 Text HLabel 6450 4500 0    50   Input ~ 0
 SPI1_MOSI
