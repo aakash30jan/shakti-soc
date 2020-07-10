@@ -761,7 +761,7 @@ Wire Wire Line
 Wire Wire Line
 	4300 1550 4700 1550
 Text Label 4300 1550 0    39   ~ 0
-QSPI0_NCS_H
+QSPI0_CLK
 Text HLabel 1250 1750 0    50   BiDi ~ 0
 QSPI0_IO0
 Text HLabel 1250 2150 0    50   BiDi ~ 0
@@ -773,7 +773,7 @@ QSPI0_CLK
 Text HLabel 2950 3100 0    50   Input ~ 0
 QSPI0_NCS
 Text Label 4300 1650 0    39   ~ 0
-QSPI0_CLK
+QSPI0_IO0
 Wire Wire Line
 	4700 1650 4300 1650
 Text Label 2950 3100 0    39   ~ 0
@@ -879,13 +879,13 @@ Wire Wire Line
 Wire Wire Line
 	4300 1750 4700 1750
 Text Label 4300 1750 0    39   ~ 0
-QSPI0_IO0
-Text Label 4300 1850 0    39   ~ 0
 QSPI0_IO1
-Text Label 4300 2050 0    39   ~ 0
-QSPI0_IO3
-Text Label 4300 1950 0    39   ~ 0
+Text Label 4300 1850 0    39   ~ 0
 QSPI0_IO2
+Text Label 4300 2050 0    39   ~ 0
+QSPI0_NCS_H
+Text Label 4300 1950 0    39   ~ 0
+QSPI0_IO3
 Text Label 3650 1750 2    39   ~ 0
 QSPI0_IO1
 Text Label 1250 1750 0    39   ~ 0
