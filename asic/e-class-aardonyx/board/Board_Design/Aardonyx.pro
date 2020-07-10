@@ -1,4 +1,4 @@
-update=07/04/20 13:56:55
+update=07/10/20 00:09:52
 version=1
 last_client=kicad
 [general]
@@ -86,7 +86,7 @@ Type=1
 Enabled=1
 [pcbnew/Layer.In2.Cu]
 Name=In2.Cu
-Type=1
+Type=0
 Enabled=1
 [pcbnew/Layer.In3.Cu]
 Name=In3.Cu
