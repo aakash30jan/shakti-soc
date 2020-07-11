@@ -17,73 +17,57 @@ Wire Wire Line
 	6950 1650 6950 1550
 Wire Wire Line
 	6950 1550 7450 1550
-Text Label 5900 2250 0    39   ~ 0
-IO_0
-Text Label 5900 2350 0    39   ~ 0
-IO_1
-Text Label 5900 2450 0    39   ~ 0
-IO_2
-Text Label 5900 2550 0    39   ~ 0
-IO_3
-Text Label 5900 2650 0    39   ~ 0
-IO_4
-Text Label 5900 2750 0    39   ~ 0
-IO_5
-Text Label 5900 2850 0    39   ~ 0
-IO_6
-Text Label 5900 2950 0    39   ~ 0
-IO_7
 Text Label 7700 2250 2    39   ~ 0
-AH_IO_0
-Text Label 7700 2350 2    39   ~ 0
-AH_IO_1
-Text Label 7700 2450 2    39   ~ 0
-AH_IO_2
-Text Label 7700 2550 2    39   ~ 0
-AH_IO_3
-Text Label 7700 2650 2    39   ~ 0
-AH_IO_4
-Text Label 7700 2750 2    39   ~ 0
-AH_IO_5
-Text Label 7700 2950 2    39   ~ 0
 AH_IO_7
-Text Label 7700 2850 2    39   ~ 0
+Text Label 7700 2350 2    39   ~ 0
 AH_IO_6
+Text Label 7700 2450 2    39   ~ 0
+AH_IO_5
+Text Label 7700 2550 2    39   ~ 0
+AH_IO_4
+Text Label 7700 2650 2    39   ~ 0
+AH_IO_3
+Text Label 7700 2750 2    39   ~ 0
+AH_IO_2
+Text Label 7700 2950 2    39   ~ 0
+AH_IO_0
+Text Label 7700 2850 2    39   ~ 0
+AH_IO_1
 Wire Wire Line
 	9900 1700 9900 1600
 Wire Wire Line
 	9900 1600 10400 1600
-Text Label 8750 2300 0    39   ~ 0
-IO_8
-Text Label 8750 2400 0    39   ~ 0
-IO_9
-Text Label 8750 2500 0    39   ~ 0
-IO_10
-Text Label 8750 2600 0    39   ~ 0
-IO_11
-Text Label 8750 2700 0    39   ~ 0
-IO_12
-Text Label 8750 2800 0    39   ~ 0
-IO_13
-Text Label 8750 2900 0    39   ~ 0
-I2C1_SCL
 Text Label 8750 3000 0    39   ~ 0
+IO_8
+Text Label 8750 2900 0    39   ~ 0
+IO_9
+Text Label 8750 2800 0    39   ~ 0
+IO_10
+Text Label 8750 2700 0    39   ~ 0
+IO_11
+Text Label 8750 2600 0    39   ~ 0
+IO_12
+Text Label 8750 2500 0    39   ~ 0
+IO_13
+Text Label 8750 2300 0    39   ~ 0
+I2C1_SCL
+Text Label 8750 2400 0    39   ~ 0
 I2C1_SDA
-Text Label 10750 2300 2    39   ~ 0
-AH_IO_8
-Text Label 10750 2400 2    39   ~ 0
-AH_IO_9
-Text Label 10750 2500 2    39   ~ 0
-AH_IO_10
-Text Label 10750 2600 2    39   ~ 0
-AH_IO_11
-Text Label 10750 2700 2    39   ~ 0
-AH_IO_12
-Text Label 10750 2800 2    39   ~ 0
-AH_IO_13
 Text Label 10750 3000 2    39   ~ 0
-AH_I2C1_SDA
+AH_IO_8
 Text Label 10750 2900 2    39   ~ 0
+AH_IO_9
+Text Label 10750 2800 2    39   ~ 0
+AH_IO_10
+Text Label 10750 2700 2    39   ~ 0
+AH_IO_11
+Text Label 10750 2600 2    39   ~ 0
+AH_IO_12
+Text Label 10750 2500 2    39   ~ 0
+AH_IO_13
+Text Label 10750 2400 2    39   ~ 0
+AH_I2C1_SDA
+Text Label 10750 2300 2    39   ~ 0
 AH_I2C1_SCL
 Wire Wire Line
 	7450 2050 7450 1550
@@ -320,37 +304,37 @@ Wire Wire Line
 	7700 5950 8550 5950
 Wire Wire Line
 	8300 6050 8550 6050
-Text Label 10200 5600 0    50   ~ 0
-AH_IO_7
-Text Label 10200 5700 0    50   ~ 0
-AH_IO_6
-Text Label 10200 5800 0    50   ~ 0
-AH_IO_5
-Text Label 10200 5900 0    50   ~ 0
-AH_IO_4
-Text Label 10200 6000 0    50   ~ 0
-AH_IO_3
-Text Label 10200 6100 0    50   ~ 0
-AH_IO_2
-Text Label 10200 6200 0    50   ~ 0
-AH_IO_1
 Text Label 10200 6300 0    50   ~ 0
+AH_IO_7
+Text Label 10200 6200 0    50   ~ 0
+AH_IO_6
+Text Label 10200 6100 0    50   ~ 0
+AH_IO_5
+Text Label 10200 6000 0    50   ~ 0
+AH_IO_4
+Text Label 10200 5900 0    50   ~ 0
+AH_IO_3
+Text Label 10200 5800 0    50   ~ 0
+AH_IO_2
+Text Label 10200 5700 0    50   ~ 0
+AH_IO_1
+Text Label 10200 5600 0    50   ~ 0
 AH_IO_0
-Text Label 10200 5250 0    50   ~ 0
+Text Label 10200 4350 0    50   ~ 0
 AH_IO_8
-Text Label 10200 5150 0    50   ~ 0
+Text Label 10200 4450 0    50   ~ 0
 AH_IO_9
-Text Label 10200 5050 0    50   ~ 0
+Text Label 10200 4550 0    50   ~ 0
 AH_IO_10
-Text Label 10200 4950 0    50   ~ 0
+Text Label 10200 4650 0    50   ~ 0
 AH_IO_11
-Text Label 10200 4850 0    50   ~ 0
-AH_IO_12
 Text Label 10200 4750 0    50   ~ 0
+AH_IO_12
+Text Label 10200 4850 0    50   ~ 0
 AH_IO_13
-Text Label 10200 4350 0    39   ~ 0
+Text Label 10200 5250 0    39   ~ 0
 AH_I2C1_SCL
-Text Label 10200 4450 0    39   ~ 0
+Text Label 10200 5150 0    39   ~ 0
 AH_I2C1_SDA
 $Comp
 L Aardonyx-rescue:GND-aardonyx #PWR084
@@ -364,11 +348,7 @@ F 3 "" H 8700 5150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	9950 4650 9950 4700
-Wire Wire Line
-	9950 4650 10550 4650
-Wire Wire Line
-	9950 4550 10550 4550
+	9950 5050 10550 5050
 Text Label 9200 4800 0    50   ~ 0
 RESET
 Wire Wire Line
@@ -384,10 +364,6 @@ Wire Wire Line
 	9300 5100 9450 5100
 Wire Wire Line
 	8950 4700 9450 4700
-Wire Wire Line
-	9450 4600 9050 4600
-Wire Wire Line
-	9450 5300 9050 5300
 Text Label 9250 5700 0    50   ~ 0
 A0
 Text Label 9250 5800 0    50   ~ 0
@@ -400,17 +376,6 @@ Text Label 9250 6100 0    50   ~ 0
 A4
 Text Label 9250 6200 0    50   ~ 0
 A5
-$Comp
-L Aardonyx-rescue:GND-aardonyx #PWR091
-U 1 1 5EC0024C
-P 9950 4700
-F 0 "#PWR091" H 9950 4450 50  0001 C CNN
-F 1 "GND" H 9955 4527 50  0000 C CNN
-F 2 "" H 9950 4700 50  0001 C CNN
-F 3 "" H 9950 4700 50  0001 C CNN
-	1    9950 4700
-	1    0    0    -1  
-$EndComp
 Text Label 5350 5950 2    39   ~ 0
 SPI0_MOSI
 Text Label 5350 5850 2    39   ~ 0
@@ -523,38 +488,26 @@ Entry Wire Line
 Entry Wire Line
 	5800 3050 5900 2950
 Wire Wire Line
+	9150 3000 8750 3000
+Wire Wire Line
+	8750 2900 9150 2900
+Wire Wire Line
+	9150 2800 8750 2800
+Wire Wire Line
+	8750 2700 9150 2700
+Wire Wire Line
+	9150 2600 8750 2600
+Wire Wire Line
+	8750 2500 9150 2500
+Wire Wire Line
 	9150 2300 8750 2300
 Wire Wire Line
 	8750 2400 9150 2400
-Wire Wire Line
-	9150 2500 8750 2500
-Wire Wire Line
-	8750 2600 9150 2600
-Wire Wire Line
-	9150 2700 8750 2700
-Wire Wire Line
-	8750 2800 9150 2800
-Wire Wire Line
-	9150 2900 8750 2900
-Wire Wire Line
-	8750 3000 9150 3000
-Entry Wire Line
-	8750 2300 8650 2200
-Entry Wire Line
-	8750 2400 8650 2300
-Entry Wire Line
-	8750 2500 8650 2400
-Entry Wire Line
-	8750 2600 8650 2500
-Entry Wire Line
-	8750 2700 8650 2600
-Entry Wire Line
-	8750 2800 8650 2700
-Text HLabel 8650 2150 0    50   BiDi ~ 0
+Text HLabel 8650 2550 0    50   BiDi ~ 0
 IO_[8..13]
-Text HLabel 8750 2900 0    50   BiDi ~ 0
+Text HLabel 8750 2300 0    50   BiDi ~ 0
 I2C1_SCL
-Text HLabel 8750 3000 0    50   BiDi ~ 0
+Text HLabel 8750 2400 0    50   BiDi ~ 0
 I2C1_SDA
 Text HLabel 5400 5750 2    50   Input ~ 0
 SPI0_CLK
@@ -602,21 +555,21 @@ Wire Wire Line
 Wire Wire Line
 	7700 2950 7400 2950
 Wire Wire Line
+	10350 3000 10750 3000
+Wire Wire Line
+	10750 2900 10350 2900
+Wire Wire Line
+	10350 2800 10750 2800
+Wire Wire Line
+	10750 2700 10350 2700
+Wire Wire Line
+	10350 2600 10750 2600
+Wire Wire Line
+	10750 2500 10350 2500
+Wire Wire Line
 	10350 2300 10750 2300
 Wire Wire Line
 	10750 2400 10350 2400
-Wire Wire Line
-	10350 2500 10750 2500
-Wire Wire Line
-	10750 2600 10350 2600
-Wire Wire Line
-	10350 2700 10750 2700
-Wire Wire Line
-	10750 2800 10350 2800
-Wire Wire Line
-	10350 2900 10750 2900
-Wire Wire Line
-	10750 3000 10350 3000
 Wire Wire Line
 	9250 5700 9500 5700
 Wire Wire Line
@@ -630,45 +583,45 @@ Wire Wire Line
 Wire Wire Line
 	9500 6200 9250 6200
 Wire Wire Line
-	10200 5600 10550 5600
+	10200 6300 10550 6300
 Wire Wire Line
-	10550 5700 10200 5700
+	10550 6200 10200 6200
 Wire Wire Line
-	10200 5800 10550 5800
+	10200 6100 10550 6100
 Wire Wire Line
-	10550 5900 10200 5900
+	10550 6000 10200 6000
 Wire Wire Line
-	10200 6000 10550 6000
+	10200 5900 10550 5900
 Wire Wire Line
-	10550 6100 10200 6100
+	10550 5800 10200 5800
 Wire Wire Line
-	10200 6200 10550 6200
+	10200 5700 10550 5700
 Wire Wire Line
-	10550 6300 10200 6300
+	10550 5600 10200 5600
 Wire Wire Line
-	10200 4350 10550 4350
+	10200 5250 10550 5250
 Wire Wire Line
-	10550 4450 10200 4450
+	10550 5150 10200 5150
 Wire Wire Line
-	10200 4750 10550 4750
+	10200 4850 10550 4850
 Wire Wire Line
-	10550 4850 10200 4850
+	10550 4750 10200 4750
 Wire Wire Line
-	10200 4950 10550 4950
+	10200 4650 10550 4650
 Wire Wire Line
-	10550 5050 10200 5050
+	10550 4550 10200 4550
 Wire Wire Line
-	10200 5150 10550 5150
+	10200 4450 10550 4450
 Wire Notes Line
 	500  7750 6950 7750
 Wire Wire Line
-	10550 5250 10200 5250
+	10550 4350 10200 4350
 Text HLabel 5800 2250 0    50   BiDi ~ 0
 IO_[0..7]
 Text Label 3450 6150 0    50   ~ 0
-A7
+A6
 Text Label 3450 6250 0    50   ~ 0
-A8
+A7
 Wire Wire Line
 	2650 5000 2650 4850
 Wire Wire Line
@@ -859,9 +812,9 @@ F 3 "" H 6900 6150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text Label 6650 5400 0    50   ~ 0
-A7
+A6
 Text Label 6650 5500 0    50   ~ 0
-A8
+A7
 Wire Wire Line
 	6650 5400 7050 5400
 Wire Wire Line
@@ -923,8 +876,7 @@ Wire Wire Line
 	4200 4900 4200 5250
 Wire Wire Line
 	3700 5150 3700 5200
-NoConn ~ 9050 4600
-NoConn ~ 9050 5300
+NoConn ~ 9450 4600
 $Comp
 L Aardonyx-rescue:GND-skt32e_asic #PWR0145
 U 1 1 5EE696CA
@@ -1239,21 +1191,8 @@ F 3 "" H 8700 4800 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	8700 4900 8700 4800
-$Comp
-L Aardonyx-rescue:V3P3 #PWR?
-U 1 1 5F2C2F06
-P 9950 4450
-AR Path="/5D8B3761/5F2C2F06" Ref="#PWR?"  Part="1" 
-AR Path="/5D8B37DE/5F2C2F06" Ref="#PWR0186"  Part="1" 
-F 0 "#PWR0186" H 10100 4400 50  0001 C CNN
-F 1 "V3P3" H 9955 4623 50  0000 C CNN
-F 2 "" H 9950 4450 50  0001 C CNN
-F 3 "" H 9950 4450 50  0001 C CNN
-	1    9950 4450
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
-	9950 4550 9950 4450
+	9950 5050 9950 5150
 $Comp
 L Aardonyx-rescue:VREF_AH #PWR0193
 U 1 1 5F61B32C
@@ -1281,17 +1220,6 @@ $EndComp
 Wire Wire Line
 	9900 1150 9900 1100
 Connection ~ 9900 1150
-$Comp
-L Aardonyx-rescue:VREF_AH #PWR0195
-U 1 1 5F63E770
-P 8300 5800
-F 0 "#PWR0195" H 8450 5750 50  0001 C CNN
-F 1 "VREF_AH" H 8305 5973 50  0000 C CNN
-F 2 "" H 8300 5800 50  0001 C CNN
-F 3 "" H 8300 5800 50  0001 C CNN
-	1    8300 5800
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	8300 5800 8300 6050
 $Comp
@@ -1832,8 +1760,175 @@ $EndComp
 Connection ~ 4200 4900
 Wire Wire Line
 	4200 4750 4200 4900
+Text Label 5900 2950 0    39   ~ 0
+IO_0
+Text Label 5900 2850 0    39   ~ 0
+IO_1
+Text Label 5900 2750 0    39   ~ 0
+IO_2
+Text Label 5900 2650 0    39   ~ 0
+IO_3
+Text Label 5900 2550 0    39   ~ 0
+IO_4
+Text Label 5900 2450 0    39   ~ 0
+IO_5
+Text Label 5900 2350 0    39   ~ 0
+IO_6
+Text Label 5900 2250 0    39   ~ 0
+IO_7
+Entry Wire Line
+	8650 3100 8750 3000
+Entry Wire Line
+	8650 3000 8750 2900
+Entry Wire Line
+	8650 2900 8750 2800
+Entry Wire Line
+	8650 2800 8750 2700
+Entry Wire Line
+	8650 2700 8750 2600
+Entry Wire Line
+	8650 2600 8750 2500
+$Comp
+L Aardonyx-rescue:VREF_AH #PWR0195
+U 1 1 5F63E770
+P 8300 5800
+F 0 "#PWR0195" H 8450 5750 50  0001 C CNN
+F 1 "VREF_AH" H 8305 5973 50  0000 C CNN
+F 2 "" H 8300 5800 50  0001 C CNN
+F 3 "" H 8300 5800 50  0001 C CNN
+	1    8300 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Aardonyx-rescue:VAC #PWR011
+U 1 1 5F69B838
+P 9950 5150
+F 0 "#PWR011" H 10100 5100 50  0001 C CNN
+F 1 "VAC" H 9955 5323 50  0000 C CNN
+F 2 "" H 9950 5150 50  0001 C CNN
+F 3 "" H 9950 5150 50  0001 C CNN
+	1    9950 5150
+	1    0    0    1   
+$EndComp
+$Comp
+L Aardonyx-rescue:GND-aardonyx #PWR091
+U 1 1 5EC0024C
+P 9950 4900
+F 0 "#PWR091" H 9950 4650 50  0001 C CNN
+F 1 "GND" H 9955 4727 50  0000 C CNN
+F 2 "" H 9950 4900 50  0001 C CNN
+F 3 "" H 9950 4900 50  0001 C CNN
+	1    9950 4900
+	1    0    0    1   
+$EndComp
+Wire Wire Line
+	9950 4950 10550 4950
+Wire Wire Line
+	9950 4950 9950 4900
+$Comp
+L Aardonyx-rescue:VREF_AH #PWR05
+U 1 1 5F725EAA
+P 8950 4550
+F 0 "#PWR05" H 9100 4500 50  0001 C CNN
+F 1 "VREF_AH" H 8955 4723 50  0000 C CNN
+F 2 "" H 8950 4550 50  0001 C CNN
+F 3 "" H 8950 4550 50  0001 C CNN
+	1    8950 4550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9200 5300 9450 5300
+$Comp
+L Aardonyx-rescue:V12P0 #PWR?
+U 1 1 5F74D224
+P 9200 5300
+AR Path="/5DB8A7DC/5F74D224" Ref="#PWR?"  Part="1" 
+AR Path="/5D8B37DE/5F74D224" Ref="#PWR07"  Part="1" 
+F 0 "#PWR07" H 9350 5250 50  0001 C CNN
+F 1 "V12P0" H 9205 5473 50  0000 C CNN
+F 2 "" H 9200 5300 50  0001 C CNN
+F 3 "" H 9200 5300 50  0001 C CNN
+	1    9200 5300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Aardonyx-rescue:C_Small-aardonyx C?
+U 1 1 5F781C57
+P 7750 5050
+AR Path="/5DB8A7DC/5F781C57" Ref="C?"  Part="1" 
+AR Path="/5E6E93B2/5F781C57" Ref="C?"  Part="1" 
+AR Path="/5D8B37DE/5F781C57" Ref="C97"  Part="1" 
+F 0 "C97" H 7750 5150 50  0000 L CNN
+F 1 "1UF,0805" V 7700 4650 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 7750 5050 50  0001 C CNN
+F 3 "https://www.digikey.in/product-detail/en/kemet/C0805C105J3RACTU/399-10060-6-ND/3739580" H 7750 5050 50  0001 C CNN
+F 4 "CAP CER 1UF 25V X7R 0805" H 7750 5050 50  0001 C CNN "Description"
+F 5 "399-10060-6-ND" H 7750 5050 50  0001 C CNN "Digikey PartNumber"
+F 6 "C0805C105J3RACTU" H 7750 5050 50  0001 C CNN "Manufactured Part Number"
+F 7 "Kemet" H 7750 5050 50  0001 C CNN "Maufaturer"
+	1    7750 5050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Aardonyx-rescue:C_Small-aardonyx C?
+U 1 1 5F781C61
+P 8100 5050
+AR Path="/5DB8A7DC/5F781C61" Ref="C?"  Part="1" 
+AR Path="/5E6E93B2/5F781C61" Ref="C?"  Part="1" 
+AR Path="/5D8B37DE/5F781C61" Ref="C98"  Part="1" 
+F 0 "C98" H 8100 5150 50  0000 L CNN
+F 1 "0.1UF,0402" V 8300 4750 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 8100 5050 50  0001 C CNN
+F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 8100 5050 50  0001 C CNN
+F 4 "CAP CER 0.1UF 25V X7R 0402" H 8100 5050 50  0001 C CNN "Description"
+F 5 "478-10050-1-ND" H 8100 5050 50  0001 C CNN "Digikey PartNumber"
+F 6 "04023C104JAT2A" H 8100 5050 50  0001 C CNN "Manufactured Part Number"
+F 7 "AVX Corporation" H 8100 5050 50  0001 C CNN "Maufaturer"
+	1    8100 5050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Aardonyx-rescue:V12P0 #PWR?
+U 1 1 5F7930C0
+P 7750 4850
+AR Path="/5DB8A7DC/5F7930C0" Ref="#PWR?"  Part="1" 
+AR Path="/5D8B37DE/5F7930C0" Ref="#PWR02"  Part="1" 
+F 0 "#PWR02" H 7900 4800 50  0001 C CNN
+F 1 "V12P0" H 7755 5023 50  0000 C CNN
+F 2 "" H 7750 4850 50  0001 C CNN
+F 3 "" H 7750 4850 50  0001 C CNN
+	1    7750 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Aardonyx-rescue:GND-aardonyx #PWR04
+U 1 1 5F7C6A73
+P 8100 5400
+F 0 "#PWR04" H 8100 5150 50  0001 C CNN
+F 1 "GND" H 8105 5227 50  0000 C CNN
+F 2 "" H 8100 5400 50  0001 C CNN
+F 3 "" H 8100 5400 50  0001 C CNN
+	1    8100 5400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8100 5150 8100 5400
+Wire Wire Line
+	7750 4850 7750 4900
+Wire Wire Line
+	8100 4950 8100 4900
+Wire Wire Line
+	8100 4900 7750 4900
+Connection ~ 7750 4900
+Wire Wire Line
+	7750 4900 7750 4950
+Wire Wire Line
+	7750 5400 8100 5400
+Wire Wire Line
+	7750 5150 7750 5400
 Wire Bus Line
-	8650 2150 8650 2700
+	8650 2550 8650 3100
 Wire Bus Line
 	5800 2250 5800 3050
+Connection ~ 8100 5400
 $EndSCHEMATC
