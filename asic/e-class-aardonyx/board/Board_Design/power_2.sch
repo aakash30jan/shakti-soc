@@ -1352,8 +1352,6 @@ F 7 "KOA Speer Electronics, Inc." H 5000 6800 50  0001 C CNN "Maufaturer"
 	1    5000 6800
 	0    1    1    0   
 $EndComp
-Wire Wire Line
-	5250 6800 5150 6800
 $Comp
 L Aardonyx-rescue:R_US-aardonyx R?
 U 1 1 5F119D12
@@ -1702,7 +1700,7 @@ Wire Wire Line
 Wire Wire Line
 	5100 6450 5600 6450
 Wire Wire Line
-	5600 7150 5600 6450
+	5600 7150 5600 6800
 Wire Wire Line
 	5150 7150 5600 7150
 Connection ~ 5600 6450
@@ -1839,4 +1837,9 @@ F 3 "" H 3950 4850 50  0001 C CNN
 	1    3950 4850
 	0    1    1    0   
 $EndComp
+Wire Wire Line
+	5150 6800 5600 6800
+Connection ~ 5600 6800
+Wire Wire Line
+	5600 6800 5600 6450
 $EndSCHEMATC
