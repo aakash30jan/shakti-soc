@@ -1486,11 +1486,11 @@ F 3 "" H 7650 1300 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	7650 1400 7650 1300
+Connection ~ 7650 1400
 Wire Bus Line
 	1550 5700 1550 6100
 Wire Bus Line
 	1550 4150 1550 5550
 Wire Bus Line
 	4650 3000 4650 6600
-Connection ~ 7650 1400
 $EndSCHEMATC

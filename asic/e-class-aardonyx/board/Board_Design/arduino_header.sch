@@ -1926,9 +1926,9 @@ Wire Wire Line
 	7750 5400 8100 5400
 Wire Wire Line
 	7750 5150 7750 5400
+Connection ~ 8100 5400
 Wire Bus Line
 	8650 2550 8650 3100
 Wire Bus Line
 	5800 2250 5800 3050
-Connection ~ 8100 5400
 $EndSCHEMATC

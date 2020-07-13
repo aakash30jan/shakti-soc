@@ -1622,16 +1622,12 @@ Wire Wire Line
 	1100 2200 1100 2350
 Wire Wire Line
 	1100 2350 1000 2350
-Text Label 2100 3650 0    50   ~ 0
-USB_DM
-Text Label 2100 3750 0    50   ~ 0
-USB_DP
 Wire Wire Line
 	1550 1200 1800 1200
 Text Label 1700 1750 0    50   ~ 0
-USB_DP
+USB_D+
 Text Label 1700 1850 0    50   ~ 0
-USB_DM
+USB_D-
 $Comp
 L Aardonyx-rescue:Conn_1x3_M-aardonyx J?
 U 1 1 5F28F40A
@@ -2124,4 +2120,12 @@ Wire Wire Line
 	3300 2450 3300 2350
 Text Label 9300 3350 0    39   ~ 0
 TMS
+Text Label 4050 3750 0    50   ~ 0
+D+
+Text Label 4050 3650 0    50   ~ 0
+D-
+Text Label 2100 3750 0    50   ~ 0
+USB_D+
+Text Label 2100 3650 0    50   ~ 0
+USB_D-
 $EndSCHEMATC
