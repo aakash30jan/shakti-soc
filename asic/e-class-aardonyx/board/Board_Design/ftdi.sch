@@ -789,14 +789,10 @@ Wire Wire Line
 Wire Wire Line
 	3800 4450 4100 4450
 Connection ~ 3800 4450
-Text Label 9300 3250 0    39   ~ 0
-TRST
 Text Label 9300 3450 0    39   ~ 0
-TDO
+TMS
 Text Label 9300 3550 0    39   ~ 0
-TDI
-Text Label 9300 3650 0    39   ~ 0
-TCK
+TDO
 $Comp
 L Aardonyx-rescue:R_US-aardonyx R5
 U 1 1 5E864C53
@@ -2119,7 +2115,7 @@ $EndComp
 Wire Wire Line
 	3300 2450 3300 2350
 Text Label 9300 3350 0    39   ~ 0
-TMS
+TCK
 Text Label 4050 3750 0    50   ~ 0
 D+
 Text Label 4050 3650 0    50   ~ 0
@@ -2128,4 +2124,8 @@ Text Label 2100 3750 0    50   ~ 0
 USB_D+
 Text Label 2100 3650 0    50   ~ 0
 USB_D-
+Text Label 9300 3650 0    39   ~ 0
+TDI
+Text Label 9300 3250 0    39   ~ 0
+TRST
 $EndSCHEMATC
