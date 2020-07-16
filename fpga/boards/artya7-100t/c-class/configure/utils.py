@@ -5,6 +5,7 @@ import argparse
 import operator
 import shutil
 import sys
+import os
 
 import ruamel
 from ruamel.yaml import YAML
@@ -107,7 +108,7 @@ def which(program):
         logger.error(program+' not found')
         sys.exit(0)
     else:
-        return x
+        return os.path.realpath(x)
 
 def find_packages(file_contents):
     file_lines = file_contents.split('\n')
