@@ -1205,24 +1205,6 @@ Wire Wire Line
 	8500 4900 8750 4900
 Wire Wire Line
 	9150 4650 9150 4900
-$Comp
-L Aardonyx-rescue:Conn_1x3_M-aardonyx J?
-U 1 1 5E52467C
-P 9400 4550
-AR Path="/5D8B37DE/5E52467C" Ref="J?"  Part="1" 
-AR Path="/5DB8A7DC/5E52467C" Ref="J6"  Part="1" 
-AR Path="/5E6E93B2/5E52467C" Ref="J?"  Part="1" 
-F 0 "J6" H 9400 4750 50  0000 L CNN
-F 1 "Conn_1x3_M" H 9300 4350 50  0000 L CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 9400 4550 50  0001 C CNN
-F 3 "https://www.digikey.com/product-detail/en/amphenol-icc-fci/68000-203HLF/609-3464-ND/2023305" H 9400 4550 50  0001 C CNN
-F 4 "CONN HEADER VERT 3POS 2.54MM" H 9400 4550 50  0001 C CNN "Description"
-F 5 "609-3464-ND" H 9400 4550 50  0001 C CNN "Digikey PartNumber"
-F 6 "68000-203HLF" H 9400 4550 50  0001 C CNN "Manufactured Part Number"
-F 7 "Amphenol ICC (FCI)" H 9400 4550 50  0001 C CNN "Maufaturer"
-	1    9400 4550
-	1    0    0    1   
-$EndComp
 Wire Wire Line
 	8100 4750 8100 4900
 $Comp
@@ -1306,6 +1288,24 @@ F 1 "VCC5V" H 9655 6073 50  0000 C CNN
 F 2 "" H 9650 5900 50  0001 C CNN
 F 3 "" H 9650 5900 50  0001 C CNN
 	1    9650 5900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Aardonyx-rescue:Conn_1x3_M-aardonyx J?
+U 1 1 5E52467C
+P 9400 4550
+AR Path="/5D8B37DE/5E52467C" Ref="J?"  Part="1" 
+AR Path="/5DB8A7DC/5E52467C" Ref="J6"  Part="1" 
+AR Path="/5E6E93B2/5E52467C" Ref="J?"  Part="1" 
+F 0 "J6" H 9400 4750 50  0000 L CNN
+F 1 "Conn_1x3_M" H 9300 4350 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 9400 4550 50  0001 C CNN
+F 3 "https://www.digikey.com/product-detail/en/amphenol-icc-fci/68000-203HLF/609-3464-ND/2023305" H 9400 4550 50  0001 C CNN
+F 4 "CONN HEADER VERT 3POS 2.54MM" H 9400 4550 50  0001 C CNN "Description"
+F 5 "609-3464-ND" H 9400 4550 50  0001 C CNN "Digikey PartNumber"
+F 6 "68000-203HLF" H 9400 4550 50  0001 C CNN "Manufactured Part Number"
+F 7 "Amphenol ICC (FCI)" H 9400 4550 50  0001 C CNN "Maufaturer"
+	1    9400 4550
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
