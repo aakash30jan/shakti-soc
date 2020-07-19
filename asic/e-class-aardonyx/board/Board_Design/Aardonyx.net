@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source E:\users\kottee\iitm\aardonyx\sch\latest\shakti-soc\asic\e-class-aardonyx\board\Board_Design\Aardonyx.sch)
-    (date "07/18/20 08:58:50")
+    (date "07/18/20 23:05:31")
     (tool "Eeschema (5.1.6)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -4860,7 +4860,7 @@
       (uri "C:\\Program Files\\KiCad\\share\\kicad\\library/Mechanical.lib")))
   (nets
     (net (code 1) (name /arduino_header/I2C0_SDA)
-      (node (ref J7) (pin 3))
+      (node (ref J7) (pin 2))
       (node (ref U15) (pin 37))
       (node (ref R33) (pin 2))
       (node (ref U5) (pin 5)))
@@ -5011,7 +5011,7 @@
     (net (code 38) (name /arduino_header/I2C0_SCL)
       (node (ref U15) (pin 38))
       (node (ref U5) (pin 6))
-      (node (ref J7) (pin 2))
+      (node (ref J7) (pin 3))
       (node (ref R34) (pin 2)))
     (net (code 39) (name "Net-(R93-Pad2)")
       (node (ref U15) (pin 70))

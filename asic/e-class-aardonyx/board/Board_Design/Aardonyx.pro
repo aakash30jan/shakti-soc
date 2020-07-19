@@ -1,4 +1,4 @@
-update=07/15/20 13:55:36
+update=07/19/20 12:44:04
 version=1
 last_client=kicad
 [general]
@@ -256,6 +256,17 @@ Enabled=0
 [pcbnew/Netclasses/Default]
 Name=Default
 Clearance=0.2
+TrackWidth=0.2032
+ViaDiameter=0.4064
+ViaDrill=0.2032
+uViaDiameter=0.1524
+uViaDrill=0.1016
+dPairWidth=0.2032
+dPairGap=0.2032
+dPairViaGap=0.25
+[pcbnew/Netclasses/1]
+Name=sdram
+Clearance=0.2032
 TrackWidth=0.2032
 ViaDiameter=0.4064
 ViaDrill=0.2032

@@ -448,7 +448,7 @@ Text Notes 7100 4200 0    100  ~ 20
 SKT32E - ARDUINO COMPATIBLE HEADERS\n
 Text Notes 3650 4500 0    100  ~ 20
 SKT32E SPI - 8 CHANNEL \nADC INTERFACE\n
-Text HLabel 2300 7100 0    50   BiDi ~ 0
+Text HLabel 2300 7000 0    50   BiDi ~ 0
 I2C0_SDA
 Connection ~ 2150 1950
 Connection ~ 1900 2050
@@ -678,9 +678,9 @@ Wire Wire Line
 Wire Wire Line
 	4650 2150 4650 2250
 Wire Wire Line
-	2300 7000 2700 7000
+	2300 7100 2700 7100
 Wire Wire Line
-	2700 7100 2300 7100
+	2700 7000 2300 7000
 $Comp
 L Aardonyx-rescue:GND-aardonyx #PWR053
 U 1 1 5E2A97E9
@@ -753,9 +753,9 @@ Wire Wire Line
 	2950 3300 3350 3300
 Text Label 2950 3300 0    39   ~ 0
 QSPI0_NCS_H
-Text HLabel 2300 7000 0    50   BiDi ~ 0
+Text HLabel 2300 7100 0    50   BiDi ~ 0
 I2C0_SCL
-Text Label 2300 7100 0    39   ~ 0
+Text Label 2300 7000 0    39   ~ 0
 I2C0_SDA
 Text Label 6650 5700 0    39   ~ 0
 IO_15
@@ -819,7 +819,7 @@ Wire Wire Line
 	6650 5400 7050 5400
 Wire Wire Line
 	6650 5500 7050 5500
-Text Label 2300 7000 0    39   ~ 0
+Text Label 2300 7100 0    39   ~ 0
 I2C0_SCL
 Text Label 2050 5550 0    39   ~ 0
 I2C0_SCL
