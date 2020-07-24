@@ -789,10 +789,6 @@ Wire Wire Line
 Wire Wire Line
 	3800 4450 4100 4450
 Connection ~ 3800 4450
-Text Label 9300 3450 0    39   ~ 0
-TMS
-Text Label 9300 3550 0    39   ~ 0
-TDO
 $Comp
 L Aardonyx-rescue:R_US-aardonyx R5
 U 1 1 5E864C53
@@ -955,16 +951,6 @@ F 7 "Panasonic Electronic Components" H 10750 3000 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	9750 3250 9750 3150
-Connection ~ 9750 3250
-Wire Wire Line
-	9750 3250 9750 3750
-Wire Wire Line
-	10000 3150 10000 3350
-Connection ~ 10000 3350
-Wire Wire Line
-	10000 3350 10000 3750
-Wire Wire Line
 	9300 3650 10750 3650
 Connection ~ 10750 3650
 Wire Wire Line
@@ -975,14 +961,7 @@ Connection ~ 10500 3550
 Wire Wire Line
 	10500 3550 10500 3750
 Wire Wire Line
-	9300 3450 10250 3450
-Wire Wire Line
-	10250 3450 10250 3750
-Wire Wire Line
 	10500 3150 10500 3550
-Wire Wire Line
-	10250 3450 10250 3150
-Connection ~ 10250 3450
 Wire Wire Line
 	9750 2850 9750 2800
 Wire Wire Line
@@ -1151,10 +1130,6 @@ F 7 "Vishay Dale" H 7150 4550 50  0001 C CNN "Maufaturer"
 $EndComp
 Wire Wire Line
 	9300 3550 10500 3550
-Wire Wire Line
-	9300 3350 10000 3350
-Wire Wire Line
-	9300 3250 9750 3250
 Wire Wire Line
 	6850 2650 7350 2650
 Wire Wire Line
@@ -2114,8 +2089,6 @@ F 3 "" H 3300 2350 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	3300 2450 3300 2350
-Text Label 9300 3350 0    39   ~ 0
-TCK
 Text Label 4050 3750 0    50   ~ 0
 D+
 Text Label 4050 3650 0    50   ~ 0
@@ -2124,8 +2097,35 @@ Text Label 2100 3750 0    50   ~ 0
 USB_D+
 Text Label 2100 3650 0    50   ~ 0
 USB_D-
-Text Label 9300 3650 0    39   ~ 0
-TDI
-Text Label 9300 3250 0    39   ~ 0
+Wire Wire Line
+	9750 3150 9750 3250
+Wire Wire Line
+	9300 3250 9750 3250
+Connection ~ 9750 3250
+Text Label 9500 3250 2    50   ~ 0
+TCK
+Wire Wire Line
+	10000 3150 10000 3350
+Wire Wire Line
+	10000 3350 9300 3350
+Connection ~ 10000 3350
+Wire Wire Line
+	10000 3350 10000 3750
+Text Label 9500 3350 2    50   ~ 0
 TRST
+Wire Wire Line
+	9750 3250 9750 3750
+Wire Wire Line
+	10250 3150 10250 3450
+Wire Wire Line
+	9300 3450 10250 3450
+Connection ~ 10250 3450
+Wire Wire Line
+	10250 3450 10250 3750
+Text Label 9450 3450 2    50   ~ 0
+TMS
+Text Label 9450 3550 2    50   ~ 0
+TDI
+Text Label 9500 3650 2    50   ~ 0
+TDO
 $EndSCHEMATC

@@ -204,23 +204,8 @@ F 3 "" H 2300 2600 50  0001 C CNN
 $EndComp
 Text Notes 2000 900  0    100  ~ 20
 5V TO 3.3V LDO
-$Comp
-L Aardonyx-rescue:TPS7A7002DDAR-aardonyx U10
-U 1 1 5EC15037
-P 2300 1950
-F 0 "U10" H 2300 2565 50  0000 C CNN
-F 1 "TPS7A7002DDAR" H 2300 2474 50  0000 C CNN
-F 2 "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm_ThermalVias" H 2300 1950 50  0001 C CNN
-F 3 "https://www.digikey.in/product-detail/en/texas-instruments/TPS7A7002DDAR/296-40977-1-ND/5178854" H 2300 1950 50  0001 C CNN
-F 4 "IC REG LIN POS ADJ 3A 8SO PWRPAD" H 2300 1950 50  0001 C CNN "Description"
-F 5 "296-40977-1-ND" H 2300 1950 50  0001 C CNN "Digikey PartNumber"
-F 6 "TPS7A7002DDAR" H 2300 1950 50  0001 C CNN "Manufactured Part Number"
-F 7 "Texas Instruments" H 2300 1950 50  0001 C CNN "Maufaturer"
-	1    2300 1950
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
-	2750 1650 3000 1650
+	2750 1650 2900 1650
 Wire Wire Line
 	3000 1650 3000 1700
 Wire Wire Line
@@ -252,9 +237,7 @@ Connection ~ 1650 1350
 Wire Wire Line
 	1300 1600 1300 1650
 Wire Wire Line
-	1650 1350 1650 1850
-Wire Wire Line
-	6650 1550 6650 2050
+	6650 1550 6650 1850
 Wire Wire Line
 	6300 1800 6300 1850
 Connection ~ 6650 1550
@@ -287,8 +270,6 @@ Wire Wire Line
 	8000 2200 8000 2250
 Wire Wire Line
 	8000 1850 8000 1900
-Wire Wire Line
-	7750 1850 8000 1850
 $Comp
 L Aardonyx-rescue:TPS7A7002DDAR-aardonyx U13
 U 1 1 5EC50BBC
@@ -1856,4 +1837,60 @@ Wire Wire Line
 Connection ~ 7300 2750
 Wire Wire Line
 	7300 2750 7300 2800
+Wire Wire Line
+	1650 1350 1650 1650
+$Comp
+L Aardonyx-rescue:TPS7A7002DDAR-aardonyx U10
+U 1 1 5EC15037
+P 2300 1950
+F 0 "U10" H 2300 2565 50  0000 C CNN
+F 1 "TPS7A7002DDAR" H 2300 2474 50  0000 C CNN
+F 2 "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm_ThermalVias" H 2300 1950 50  0001 C CNN
+F 3 "https://www.digikey.in/product-detail/en/texas-instruments/TPS7A7002DDAR/296-40977-1-ND/5178854" H 2300 1950 50  0001 C CNN
+F 4 "IC REG LIN POS ADJ 3A 8SO PWRPAD" H 2300 1950 50  0001 C CNN "Description"
+F 5 "296-40977-1-ND" H 2300 1950 50  0001 C CNN "Digikey PartNumber"
+F 6 "TPS7A7002DDAR" H 2300 1950 50  0001 C CNN "Manufactured Part Number"
+F 7 "Texas Instruments" H 2300 1950 50  0001 C CNN "Maufaturer"
+	1    2300 1950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1650 1650 1850 1650
+Connection ~ 1650 1650
+Wire Wire Line
+	1650 1650 1650 1850
+Wire Wire Line
+	1850 2250 1700 2250
+Wire Wire Line
+	1700 2250 1700 2550
+Wire Wire Line
+	1700 2550 2300 2550
+Wire Wire Line
+	2750 1800 2900 1800
+Wire Wire Line
+	2900 1800 2900 1650
+Connection ~ 2900 1650
+Wire Wire Line
+	2900 1650 3000 1650
+Wire Wire Line
+	7750 2000 7850 2000
+Wire Wire Line
+	7850 2000 7850 1850
+Wire Wire Line
+	7750 1850 7850 1850
+Connection ~ 7850 1850
+Wire Wire Line
+	7850 1850 8000 1850
+Wire Wire Line
+	7300 2750 6700 2750
+Wire Wire Line
+	6700 2750 6700 2450
+Wire Wire Line
+	6700 2450 6850 2450
+Wire Wire Line
+	6850 1850 6650 1850
+Connection ~ 6650 1850
+Wire Wire Line
+	6650 1850 6650 2050
+Connection ~ 9700 2450
 $EndSCHEMATC

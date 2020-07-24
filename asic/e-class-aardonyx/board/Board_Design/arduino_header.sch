@@ -448,8 +448,6 @@ Text Notes 7100 4200 0    100  ~ 20
 SKT32E - ARDUINO COMPATIBLE HEADERS\n
 Text Notes 3650 4500 0    100  ~ 20
 SKT32E SPI - 8 CHANNEL \nADC INTERFACE\n
-Text HLabel 2300 7000 0    50   BiDi ~ 0
-I2C0_SDA
 Connection ~ 2150 1950
 Connection ~ 1900 2050
 Connection ~ 1650 2150
@@ -677,10 +675,6 @@ Wire Wire Line
 	4700 2150 4650 2150
 Wire Wire Line
 	4650 2150 4650 2250
-Wire Wire Line
-	2300 7100 2700 7100
-Wire Wire Line
-	2700 7000 2300 7000
 $Comp
 L Aardonyx-rescue:GND-aardonyx #PWR053
 U 1 1 5E2A97E9
@@ -709,12 +703,6 @@ Wire Wire Line
 	2650 7200 2700 7200
 Wire Wire Line
 	2650 6900 2700 6900
-Wire Wire Line
-	4300 1850 4700 1850
-Wire Wire Line
-	4300 1550 4700 1550
-Text Label 4300 1550 0    39   ~ 0
-QSPI0_CLK
 Text HLabel 1250 1750 0    50   BiDi ~ 0
 QSPI0_IO0
 Text HLabel 1250 2150 0    50   BiDi ~ 0
@@ -725,10 +713,6 @@ Text HLabel 1250 1850 0    50   Input ~ 0
 QSPI0_CLK
 Text HLabel 2950 3100 0    50   Input ~ 0
 QSPI0_NCS
-Text Label 4300 1650 0    39   ~ 0
-QSPI0_IO0
-Wire Wire Line
-	4700 1650 4300 1650
 Text Label 2950 3100 0    39   ~ 0
 QSPI0_NCS
 Wire Wire Line
@@ -753,22 +737,18 @@ Wire Wire Line
 	2950 3300 3350 3300
 Text Label 2950 3300 0    39   ~ 0
 QSPI0_NCS_H
-Text HLabel 2300 7100 0    50   BiDi ~ 0
-I2C0_SCL
-Text Label 2300 7000 0    39   ~ 0
-I2C0_SDA
-Text Label 6650 5700 0    39   ~ 0
-IO_15
 Text Label 6650 5600 0    39   ~ 0
+IO_15
+Text Label 6650 5500 0    39   ~ 0
+IO_14
+Text HLabel 6650 5500 0    50   BiDi ~ 0
 IO_14
 Text HLabel 6650 5600 0    50   BiDi ~ 0
-IO_14
-Text HLabel 6650 5700 0    50   BiDi ~ 0
 IO_15
 Wire Wire Line
-	6650 5600 7050 5600
+	6650 5500 7050 5500
 Wire Wire Line
-	6650 5700 7050 5700
+	6650 5600 7050 5600
 Wire Wire Line
 	7050 4900 6850 4900
 Wire Wire Line
@@ -791,12 +771,6 @@ F 3 "" H 6950 5050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	6650 6050 6850 6050
-Wire Wire Line
-	6850 6050 6850 5800
-Wire Wire Line
-	6850 5800 7050 5800
-Wire Wire Line
 	7050 5900 6900 5900
 Wire Wire Line
 	6900 5900 6900 6150
@@ -811,34 +785,18 @@ F 3 "" H 6900 6150 50  0001 C CNN
 	1    6900 6150
 	1    0    0    -1  
 $EndComp
-Text Label 6650 5400 0    50   ~ 0
+Text Label 6650 5700 0    50   ~ 0
 A6
-Text Label 6650 5500 0    50   ~ 0
+Text Label 6650 5800 0    50   ~ 0
 A7
 Wire Wire Line
-	6650 5400 7050 5400
+	6650 5700 7050 5700
 Wire Wire Line
-	6650 5500 7050 5500
-Text Label 2300 7100 0    39   ~ 0
-I2C0_SCL
+	6650 5800 7050 5800
 Text Label 2050 5550 0    39   ~ 0
 I2C0_SCL
 Text Label 2050 5750 0    39   ~ 0
 I2C0_SDA
-Wire Wire Line
-	4300 1950 4700 1950
-Wire Wire Line
-	4300 2050 4700 2050
-Wire Wire Line
-	4300 1750 4700 1750
-Text Label 4300 1750 0    39   ~ 0
-QSPI0_IO1
-Text Label 4300 1850 0    39   ~ 0
-QSPI0_IO2
-Text Label 4300 2050 0    39   ~ 0
-QSPI0_NCS_H
-Text Label 4300 1950 0    39   ~ 0
-QSPI0_IO3
 Text Label 3650 1750 2    39   ~ 0
 QSPI0_IO1
 Text Label 1250 1750 0    39   ~ 0
@@ -1149,18 +1107,18 @@ Wire Wire Line
 $Comp
 L Aardonyx-rescue:V3P3 #PWR?
 U 1 1 5F2908DF
-P 6650 5950
+P 6650 5300
 AR Path="/5D8B3761/5F2908DF" Ref="#PWR?"  Part="1" 
 AR Path="/5D8B37DE/5F2908DF" Ref="#PWR0181"  Part="1" 
-F 0 "#PWR0181" H 6800 5900 50  0001 C CNN
-F 1 "V3P3" H 6655 6123 50  0000 C CNN
-F 2 "" H 6650 5950 50  0001 C CNN
-F 3 "" H 6650 5950 50  0001 C CNN
-	1    6650 5950
+F 0 "#PWR0181" H 6800 5250 50  0001 C CNN
+F 1 "V3P3" H 6655 5473 50  0000 C CNN
+F 2 "" H 6650 5300 50  0001 C CNN
+F 3 "" H 6650 5300 50  0001 C CNN
+	1    6650 5300
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	6650 6050 6650 5950
+	6650 5400 6650 5300
 $Comp
 L Aardonyx-rescue:V3P3 #PWR?
 U 1 1 5F2A15DE
@@ -1927,6 +1885,44 @@ Wire Wire Line
 Wire Wire Line
 	7750 5150 7750 5400
 Connection ~ 8100 5400
+Wire Wire Line
+	6650 5400 7050 5400
+Text Label 4300 1950 0    39   ~ 0
+QSPI0_IO3
+Text Label 4300 2050 0    39   ~ 0
+QSPI0_NCS_H
+Text Label 4300 1850 0    39   ~ 0
+QSPI0_IO2
+Text Label 4300 1750 0    39   ~ 0
+QSPI0_IO1
+Wire Wire Line
+	4300 1750 4700 1750
+Wire Wire Line
+	4300 2050 4700 2050
+Wire Wire Line
+	4300 1950 4700 1950
+Wire Wire Line
+	4700 1650 4300 1650
+Text Label 4300 1650 0    39   ~ 0
+QSPI0_IO0
+Text Label 4300 1550 0    39   ~ 0
+QSPI0_CLK
+Wire Wire Line
+	4300 1550 4700 1550
+Wire Wire Line
+	4300 1850 4700 1850
+Text Label 2300 7100 0    39   ~ 0
+I2C0_SDA
+Wire Wire Line
+	2700 7100 2300 7100
+Text HLabel 2300 7100 0    50   BiDi ~ 0
+I2C0_SDA
+Text Label 2300 7000 0    39   ~ 0
+I2C0_SCL
+Text HLabel 2300 7000 0    50   BiDi ~ 0
+I2C0_SCL
+Wire Wire Line
+	2300 7000 2700 7000
 Wire Bus Line
 	8650 2550 8650 3100
 Wire Bus Line
