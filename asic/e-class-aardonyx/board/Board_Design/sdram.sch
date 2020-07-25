@@ -793,10 +793,10 @@ Wire Wire Line
 	7150 1950 7150 2050
 Text Label 10200 2600 0    50   ~ 0
 CLK
-Text Notes 7300 900  0    200  ~ 40
+Text Notes 10050 850  2    200  ~ 40
 CLOCK MULTIPLIER\n
 Wire Wire Line
-	8600 1350 7850 1350
+	8600 1350 8050 1350
 Wire Wire Line
 	7850 1350 7850 1700
 Wire Wire Line
@@ -1356,7 +1356,7 @@ U 1 1 5ED5EB9F
 P 8750 2200
 AR Path="/5ED5EB9F" Ref="U3"  Part="1" 
 AR Path="/5D8B37B8/5ED5EB9F" Ref="U3"  Part="1" 
-F 0 "U3" H 8750 2970 50  0000 C CNN
+F 0 "U3" H 8250 2850 50  0000 C CNN
 F 1 "CDCE913PW" H 9100 2850 50  0000 C CNN
 F 2 "Package_SO:TSSOP-14_4.4x5mm_P0.65mm" H 8900 2000 50  0001 L BNN
 F 3 "https://www.digikey.com/product-detail/en/texas-instruments/CDCE913PWR/296-38908-1-ND/5143014" H 8750 2200 50  0001 L BNN
@@ -1487,10 +1487,78 @@ $EndComp
 Wire Wire Line
 	7650 1400 7650 1300
 Connection ~ 7650 1400
+$Comp
+L Aardonyx-rescue:C_Small-aardonyx C?
+U 1 1 5F202590
+P 9950 1350
+F 0 "C?" H 9950 1450 50  0000 L CNN
+F 1 "18PF,0402" H 9950 1250 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 9950 1350 50  0001 C CNN
+F 3 "https://www.digikey.in/product-detail/en/yageo/CC0201JRNPO9BN180/311-1386-1-ND/2833692" H 9950 1350 50  0001 C CNN
+F 4 "311-1386-1-ND " H 9950 1350 50  0001 C CNN "Digikey PartNumber"
+F 5 "CAP CER 18PF 50V C0G/NPO 0201 " H 9950 1350 50  0001 C CNN "Description"
+F 6 "CC0201JRNPO9BN180 " H 9950 1350 50  0001 C CNN "Manufactured Part Number"
+F 7 "Yageo" H 9950 1350 50  0001 C CNN "Maufaturer"
+	1    9950 1350
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	9850 1350 9650 1350
+Connection ~ 9650 1350
+$Comp
+L Aardonyx-rescue:GND-aardonyx #PWR?
+U 1 1 5F21B9C6
+P 10050 1350
+AR Path="/5D8B3740/5F21B9C6" Ref="#PWR?"  Part="1" 
+AR Path="/5D8B37B8/5F21B9C6" Ref="#PWR?"  Part="1" 
+F 0 "#PWR?" H 10050 1100 50  0001 C CNN
+F 1 "GND" H 10055 1177 50  0000 C CNN
+F 2 "" H 10050 1350 50  0001 C CNN
+F 3 "" H 10050 1350 50  0001 C CNN
+	1    10050 1350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Aardonyx-rescue:C_Small-aardonyx C?
+U 1 1 5F229012
+P 8350 1000
+F 0 "C?" H 8350 1100 50  0000 L CNN
+F 1 "18PF,0402" H 8350 900 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 8350 1000 50  0001 C CNN
+F 3 "https://www.digikey.in/product-detail/en/yageo/CC0201JRNPO9BN180/311-1386-1-ND/2833692" H 8350 1000 50  0001 C CNN
+F 4 "311-1386-1-ND " H 8350 1000 50  0001 C CNN "Digikey PartNumber"
+F 5 "CAP CER 18PF 50V C0G/NPO 0201 " H 8350 1000 50  0001 C CNN "Description"
+F 6 "CC0201JRNPO9BN180 " H 8350 1000 50  0001 C CNN "Manufactured Part Number"
+F 7 "Yageo" H 8350 1000 50  0001 C CNN "Maufaturer"
+	1    8350 1000
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8250 1000 8050 1000
+Wire Wire Line
+	8750 1000 8450 1000
+$Comp
+L Aardonyx-rescue:GND-aardonyx #PWR?
+U 1 1 5F24315B
+P 8750 1000
+AR Path="/5D8B3740/5F24315B" Ref="#PWR?"  Part="1" 
+AR Path="/5D8B37B8/5F24315B" Ref="#PWR?"  Part="1" 
+F 0 "#PWR?" H 8750 750 50  0001 C CNN
+F 1 "GND" H 8755 827 50  0000 C CNN
+F 2 "" H 8750 1000 50  0001 C CNN
+F 3 "" H 8750 1000 50  0001 C CNN
+	1    8750 1000
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8050 1000 8050 1350
 Wire Bus Line
 	1550 5700 1550 6100
 Wire Bus Line
 	1550 4150 1550 5550
 Wire Bus Line
 	4650 3000 4650 6600
+Connection ~ 8050 1350
+Wire Wire Line
+	8050 1350 7850 1350
 $EndSCHEMATC
