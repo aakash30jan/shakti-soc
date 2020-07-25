@@ -1488,10 +1488,10 @@ Wire Wire Line
 	7650 1400 7650 1300
 Connection ~ 7650 1400
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C?
+L Aardonyx-rescue:C_Small-aardonyx C100
 U 1 1 5F202590
 P 9950 1350
-F 0 "C?" H 9950 1450 50  0000 L CNN
+F 0 "C100" H 9950 1450 50  0000 L CNN
 F 1 "18PF,0402" H 9950 1250 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 9950 1350 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/yageo/CC0201JRNPO9BN180/311-1386-1-ND/2833692" H 9950 1350 50  0001 C CNN
@@ -1510,8 +1510,8 @@ L Aardonyx-rescue:GND-aardonyx #PWR?
 U 1 1 5F21B9C6
 P 10050 1350
 AR Path="/5D8B3740/5F21B9C6" Ref="#PWR?"  Part="1" 
-AR Path="/5D8B37B8/5F21B9C6" Ref="#PWR?"  Part="1" 
-F 0 "#PWR?" H 10050 1100 50  0001 C CNN
+AR Path="/5D8B37B8/5F21B9C6" Ref="#PWR0186"  Part="1" 
+F 0 "#PWR0186" H 10050 1100 50  0001 C CNN
 F 1 "GND" H 10055 1177 50  0000 C CNN
 F 2 "" H 10050 1350 50  0001 C CNN
 F 3 "" H 10050 1350 50  0001 C CNN
@@ -1519,10 +1519,10 @@ F 3 "" H 10050 1350 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C?
+L Aardonyx-rescue:C_Small-aardonyx C99
 U 1 1 5F229012
 P 8350 1000
-F 0 "C?" H 8350 1100 50  0000 L CNN
+F 0 "C99" H 8350 1100 50  0000 L CNN
 F 1 "18PF,0402" H 8350 900 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 8350 1000 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/yageo/CC0201JRNPO9BN180/311-1386-1-ND/2833692" H 8350 1000 50  0001 C CNN
@@ -1542,8 +1542,8 @@ L Aardonyx-rescue:GND-aardonyx #PWR?
 U 1 1 5F24315B
 P 8750 1000
 AR Path="/5D8B3740/5F24315B" Ref="#PWR?"  Part="1" 
-AR Path="/5D8B37B8/5F24315B" Ref="#PWR?"  Part="1" 
-F 0 "#PWR?" H 8750 750 50  0001 C CNN
+AR Path="/5D8B37B8/5F24315B" Ref="#PWR0232"  Part="1" 
+F 0 "#PWR0232" H 8750 750 50  0001 C CNN
 F 1 "GND" H 8755 827 50  0000 C CNN
 F 2 "" H 8750 1000 50  0001 C CNN
 F 3 "" H 8750 1000 50  0001 C CNN
@@ -1552,13 +1552,13 @@ F 3 "" H 8750 1000 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	8050 1000 8050 1350
+Connection ~ 8050 1350
+Wire Wire Line
+	8050 1350 7850 1350
 Wire Bus Line
 	1550 5700 1550 6100
 Wire Bus Line
 	1550 4150 1550 5550
 Wire Bus Line
 	4650 3000 4650 6600
-Connection ~ 8050 1350
-Wire Wire Line
-	8050 1350 7850 1350
 $EndSCHEMATC
