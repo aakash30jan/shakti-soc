@@ -1298,20 +1298,6 @@ F 7 "Amphenol ICC (FCI)" H 1600 3650 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	1100 3450 900  3450
-Wire Wire Line
-	900  3450 900  3550
-Wire Wire Line
-	1100 3550 900  3550
-Connection ~ 900  3550
-Wire Wire Line
-	900  3550 900  3650
-Wire Wire Line
-	1100 3650 900  3650
-Connection ~ 900  3650
-Wire Wire Line
-	900  3650 900  3750
-Wire Wire Line
 	1100 3750 900  3750
 Wire Wire Line
 	1100 3850 900  3850
@@ -1590,10 +1576,6 @@ Wire Wire Line
 Wire Wire Line
 	1700 2000 1700 2350
 Wire Wire Line
-	1100 2200 1100 2350
-Wire Wire Line
-	1100 2350 1000 2350
-Wire Wire Line
 	1550 1200 1800 1200
 Text Label 1700 1750 0    50   ~ 0
 USB_D+
@@ -1771,29 +1753,25 @@ F 7 "Wurth Elektronik" H 800 3750 50  0001 C CNN "Maufaturer"
 	1    800  3750
 	0    -1   -1   0   
 $EndComp
-Connection ~ 1100 2350
 $Comp
 L Aardonyx-rescue:Ferrite_Bead_Small-aardonyx FB3
 U 1 1 5EF19677
-P 1500 2350
-F 0 "FB3" H 1400 2250 50  0000 C CNN
-F 1 "47E,FB,0402" V 1600 2350 50  0000 C CNN
-F 2 "Inductor_SMD:L_0402_1005Metric" V 1430 2350 50  0001 C CNN
-F 3 "https://www.digikey.in/product-detail/en/w%C3%BCrth-elektronik/742792608/732-1596-1-ND/1639540" H 1500 2350 50  0001 C CNN
-F 4 "FERRITE BEAD 47 OHM 0603 1LN" H 1500 2350 50  0001 C CNN "Description"
-F 5 "732-1596-1-ND" H 1500 2350 50  0001 C CNN "Digikey PartNumber"
-F 6 "742792608" H 1500 2350 50  0001 C CNN "Manufactured Part Number"
-F 7 "Wurth Elektronik" H 1500 2350 50  0001 C CNN "Maufaturer"
-	1    1500 2350
+P 1300 2350
+F 0 "FB3" H 1200 2250 50  0000 C CNN
+F 1 "47E,FB,0402" V 1400 2350 50  0000 C CNN
+F 2 "Inductor_SMD:L_0402_1005Metric" V 1230 2350 50  0001 C CNN
+F 3 "https://www.digikey.in/product-detail/en/w%C3%BCrth-elektronik/742792608/732-1596-1-ND/1639540" H 1300 2350 50  0001 C CNN
+F 4 "FERRITE BEAD 47 OHM 0603 1LN" H 1300 2350 50  0001 C CNN "Description"
+F 5 "732-1596-1-ND" H 1300 2350 50  0001 C CNN "Digikey PartNumber"
+F 6 "742792608" H 1300 2350 50  0001 C CNN "Manufactured Part Number"
+F 7 "Wurth Elektronik" H 1300 2350 50  0001 C CNN "Maufaturer"
+	1    1300 2350
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	1100 2350 1400 2350
-Wire Wire Line
 	1450 2000 1700 2000
 Wire Wire Line
-	1600 2350 1700 2350
-Connection ~ 900  3750
+	1400 2350 1700 2350
 $Comp
 L Aardonyx-rescue:GND-aardonyx #PWR0168
 U 1 1 5EFC7B53
@@ -2128,4 +2106,6 @@ Text Label 9450 3550 2    50   ~ 0
 TDI
 Text Label 9500 3650 2    50   ~ 0
 TDO
+Wire Wire Line
+	1000 2350 1200 2350
 $EndSCHEMATC
