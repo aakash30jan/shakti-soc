@@ -14,10 +14,10 @@ Comment3 "SKT32E - PERIPHERALS PINS"
 Comment4 "SKT32E - SDRAM PINS"
 $EndDescr
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C63
+L Aardonyx-rescue:C_Small-aardonyx C31
 U 1 1 5DD40122
 P 8500 1450
-F 0 "C63" H 8500 1550 50  0000 L CNN
+F 0 "C31" H 8500 1550 50  0000 L CNN
 F 1 "0.1UF,0402" V 8450 1000 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 8500 1450 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 8500 1450 50  0001 C CNN
@@ -29,10 +29,10 @@ F 7 "AVX Corporation" H 8500 1450 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C66
+L Aardonyx-rescue:C_Small-aardonyx C41
 U 1 1 5DD40128
 P 8750 1450
-F 0 "C66" H 8750 1550 50  0000 L CNN
+F 0 "C41" H 8750 1550 50  0000 L CNN
 F 1 "0.1UF,0402" V 8700 1000 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 8750 1450 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 8750 1450 50  0001 C CNN
@@ -44,10 +44,10 @@ F 7 "AVX Corporation" H 8750 1450 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C69
+L Aardonyx-rescue:C_Small-aardonyx C52
 U 1 1 5DD4012E
 P 9000 1450
-F 0 "C69" H 9000 1550 50  0000 L CNN
+F 0 "C52" H 9000 1550 50  0000 L CNN
 F 1 "0.1UF,0402" V 8950 1000 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 9000 1450 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 9000 1450 50  0001 C CNN
@@ -59,10 +59,10 @@ F 7 "AVX Corporation" H 9000 1450 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C72
+L Aardonyx-rescue:C_Small-aardonyx C54
 U 1 1 5DD40134
 P 9250 1450
-F 0 "C72" H 9250 1550 50  0000 L CNN
+F 0 "C54" H 9250 1550 50  0000 L CNN
 F 1 "0.1UF,0402" V 9200 1000 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 9250 1450 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 9250 1450 50  0001 C CNN
@@ -74,10 +74,10 @@ F 7 "AVX Corporation" H 9250 1450 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C75
+L Aardonyx-rescue:C_Small-aardonyx C48
 U 1 1 5DD4013A
 P 9500 1450
-F 0 "C75" H 9500 1550 50  0000 L CNN
+F 0 "C48" H 9500 1550 50  0000 L CNN
 F 1 "0.1UF,0402" V 9450 1000 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 9500 1450 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 9500 1450 50  0001 C CNN
@@ -89,10 +89,10 @@ F 7 "AVX Corporation" H 9500 1450 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C78
+L Aardonyx-rescue:C_Small-aardonyx C37
 U 1 1 5DD40140
 P 9750 1450
-F 0 "C78" H 9750 1550 50  0000 L CNN
+F 0 "C37" H 9750 1550 50  0000 L CNN
 F 1 "0.1UF,0402" V 9700 1000 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 9750 1450 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 9750 1450 50  0001 C CNN
@@ -104,10 +104,10 @@ F 7 "AVX Corporation" H 9750 1450 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C81
+L Aardonyx-rescue:C_Small-aardonyx C34
 U 1 1 5DD40146
 P 10000 1450
-F 0 "C81" H 10000 1550 50  0000 L CNN
+F 0 "C34" H 10000 1550 50  0000 L CNN
 F 1 "0.1UF,0402" V 9950 1000 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 10000 1450 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 10000 1450 50  0001 C CNN
@@ -119,10 +119,10 @@ F 7 "AVX Corporation" H 10000 1450 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C84
+L Aardonyx-rescue:C_Small-aardonyx C30
 U 1 1 5DD4014C
 P 10250 1450
-F 0 "C84" H 10250 1550 50  0000 L CNN
+F 0 "C30" H 10250 1550 50  0000 L CNN
 F 1 "0.1UF,0402" V 10200 1000 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 10250 1450 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 10250 1450 50  0001 C CNN
@@ -353,10 +353,10 @@ Connection ~ 8150 1750
 Wire Wire Line
 	8150 1750 8150 1850
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C64
+L Aardonyx-rescue:C_Small-aardonyx C13
 U 1 1 5F22D8AB
 P 8500 2500
-F 0 "C64" H 8500 2600 50  0000 L CNN
+F 0 "C13" H 8500 2600 50  0000 L CNN
 F 1 "0.1UF,0402" V 8450 2050 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 8500 2500 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 8500 2500 50  0001 C CNN
@@ -368,10 +368,10 @@ F 7 "AVX Corporation" H 8500 2500 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C67
+L Aardonyx-rescue:C_Small-aardonyx C9
 U 1 1 5F22D8B1
 P 8750 2500
-F 0 "C67" H 8750 2600 50  0000 L CNN
+F 0 "C9" H 8750 2600 50  0000 L CNN
 F 1 "0.1UF,0402" V 8700 2050 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 8750 2500 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 8750 2500 50  0001 C CNN
@@ -396,10 +396,10 @@ Wire Wire Line
 	8500 2750 8750 2750
 Connection ~ 8750 2750
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C65
+L Aardonyx-rescue:C_Small-aardonyx C19
 U 1 1 5F38ACB1
 P 8500 3550
-F 0 "C65" H 8500 3650 50  0000 L CNN
+F 0 "C19" H 8500 3650 50  0000 L CNN
 F 1 "0.1UF,0402" V 8450 3050 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 8500 3550 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 8500 3550 50  0001 C CNN
@@ -411,10 +411,10 @@ F 7 "AVX Corporation" H 8500 3550 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C68
+L Aardonyx-rescue:C_Small-aardonyx C32
 U 1 1 5F38ACB7
 P 8750 3550
-F 0 "C68" H 8750 3650 50  0000 L CNN
+F 0 "C32" H 8750 3650 50  0000 L CNN
 F 1 "0.1UF,0402" V 8700 3050 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 8750 3550 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 8750 3550 50  0001 C CNN
@@ -426,10 +426,10 @@ F 7 "AVX Corporation" H 8750 3550 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C71
+L Aardonyx-rescue:C_Small-aardonyx C42
 U 1 1 5F38ACBD
 P 9000 3550
-F 0 "C71" H 9000 3650 50  0000 L CNN
+F 0 "C42" H 9000 3650 50  0000 L CNN
 F 1 "0.1UF,0402" V 8950 3050 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 9000 3550 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 9000 3550 50  0001 C CNN
@@ -441,10 +441,10 @@ F 7 "AVX Corporation" H 9000 3550 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C74
+L Aardonyx-rescue:C_Small-aardonyx C51
 U 1 1 5F38ACC3
 P 9250 3550
-F 0 "C74" H 9250 3650 50  0000 L CNN
+F 0 "C51" H 9250 3650 50  0000 L CNN
 F 1 "0.1UF,0402" V 9200 3050 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 9250 3550 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 9250 3550 50  0001 C CNN
@@ -456,10 +456,10 @@ F 7 "AVX Corporation" H 9250 3550 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C77
+L Aardonyx-rescue:C_Small-aardonyx C53
 U 1 1 5F38ACC9
 P 9500 3550
-F 0 "C77" H 9500 3650 50  0000 L CNN
+F 0 "C53" H 9500 3650 50  0000 L CNN
 F 1 "0.1UF,0402" V 9450 3050 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 9500 3550 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 9500 3550 50  0001 C CNN
@@ -471,10 +471,10 @@ F 7 "AVX Corporation" H 9500 3550 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C80
+L Aardonyx-rescue:C_Small-aardonyx C39
 U 1 1 5F38ACCF
 P 9750 3550
-F 0 "C80" H 9750 3650 50  0000 L CNN
+F 0 "C39" H 9750 3650 50  0000 L CNN
 F 1 "0.1UF,0402" V 9700 3050 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 9750 3550 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 9750 3550 50  0001 C CNN
@@ -486,10 +486,10 @@ F 7 "AVX Corporation" H 9750 3550 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C83
+L Aardonyx-rescue:C_Small-aardonyx C33
 U 1 1 5F38ACD5
 P 10000 3550
-F 0 "C83" H 10000 3650 50  0000 L CNN
+F 0 "C33" H 10000 3650 50  0000 L CNN
 F 1 "0.1UF,0402" V 9950 3050 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 10000 3550 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 10000 3550 50  0001 C CNN
@@ -501,10 +501,10 @@ F 7 "AVX Corporation" H 10000 3550 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C86
+L Aardonyx-rescue:C_Small-aardonyx C25
 U 1 1 5F38ACDB
 P 10250 3550
-F 0 "C86" H 10250 3650 50  0000 L CNN
+F 0 "C25" H 10250 3650 50  0000 L CNN
 F 1 "0.1UF,0402" V 10200 3050 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 10250 3550 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 10250 3550 50  0001 C CNN
@@ -600,10 +600,10 @@ F 3 "" H 10750 3800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C88
+L Aardonyx-rescue:C_Small-aardonyx C10
 U 1 1 5F38AD12
 P 10500 3550
-F 0 "C88" H 10500 3650 50  0000 L CNN
+F 0 "C10" H 10500 3650 50  0000 L CNN
 F 1 "0.1UF,0402" V 10450 3050 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 10500 3550 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 10500 3550 50  0001 C CNN
@@ -615,10 +615,10 @@ F 7 "AVX Corporation" H 10500 3550 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C90
+L Aardonyx-rescue:C_Small-aardonyx C7
 U 1 1 5F38AD18
 P 10750 3550
-F 0 "C90" H 10750 3650 50  0000 L CNN
+F 0 "C7" H 10750 3650 50  0000 L CNN
 F 1 "0.1UF,0402" V 10900 3100 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 10750 3550 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 10750 3550 50  0001 C CNN
@@ -650,10 +650,10 @@ Wire Wire Line
 	10500 3800 10750 3800
 Connection ~ 10750 3800
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C70
+L Aardonyx-rescue:C_Small-aardonyx C8
 U 1 1 5F55509B
 P 9000 2500
-F 0 "C70" H 9000 2600 50  0000 L CNN
+F 0 "C8" H 9000 2600 50  0000 L CNN
 F 1 "0.1UF,0402" V 8950 2050 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 9000 2500 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 9000 2500 50  0001 C CNN
@@ -665,10 +665,10 @@ F 7 "AVX Corporation" H 9000 2500 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C87
+L Aardonyx-rescue:C_Small-aardonyx C24
 U 1 1 5F5550A1
 P 10500 1450
-F 0 "C87" H 10500 1550 50  0000 L CNN
+F 0 "C24" H 10500 1550 50  0000 L CNN
 F 1 "0.1UF,0402" V 10450 950 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 10500 1450 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 10500 1450 50  0001 C CNN
@@ -680,10 +680,10 @@ F 7 "AVX Corporation" H 10500 1450 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C89
+L Aardonyx-rescue:C_Small-aardonyx C20
 U 1 1 5F5550A7
 P 10750 1450
-F 0 "C89" H 10750 1550 50  0000 L CNN
+F 0 "C20" H 10750 1550 50  0000 L CNN
 F 1 "0.1UF,0402" V 10900 1000 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 10750 1450 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 10750 1450 50  0001 C CNN
@@ -732,10 +732,10 @@ F 3 "" H 10250 2800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C73
+L Aardonyx-rescue:C_Small-aardonyx C6
 U 1 1 5F5550C4
 P 9250 2500
-F 0 "C73" H 9250 2600 50  0000 L CNN
+F 0 "C6" H 9250 2600 50  0000 L CNN
 F 1 "0.1UF,0402" V 9200 2050 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 9250 2500 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 9250 2500 50  0001 C CNN
@@ -747,10 +747,10 @@ F 7 "AVX Corporation" H 9250 2500 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C76
+L Aardonyx-rescue:C_Small-aardonyx C5
 U 1 1 5F5550CA
 P 9500 2500
-F 0 "C76" H 9500 2600 50  0000 L CNN
+F 0 "C5" H 9500 2600 50  0000 L CNN
 F 1 "0.1UF,0402" V 9450 2050 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 9500 2500 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 9500 2500 50  0001 C CNN
@@ -799,10 +799,10 @@ Wire Wire Line
 Wire Wire Line
 	6450 1650 6250 1650
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R89
+L Aardonyx-rescue:R_US-aardonyx R24
 U 1 1 5E93944E
 P 2100 7150
-F 0 "R89" V 2050 7000 50  0000 C CNN
+F 0 "R24" V 2050 7000 50  0000 C CNN
 F 1 "22E,0402" V 2150 7350 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 2140 7140 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 2100 7150 50  0001 C CNN
@@ -814,10 +814,10 @@ F 7 "Yageo" H 2100 7150 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R88
+L Aardonyx-rescue:R_US-aardonyx R23
 U 1 1 5E939448
 P 2100 7050
-F 0 "R88" V 2050 6900 50  0000 C CNN
+F 0 "R23" V 2050 6900 50  0000 C CNN
 F 1 "22E,0402" V 2150 7250 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 2140 7040 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 2100 7050 50  0001 C CNN
@@ -829,10 +829,10 @@ F 7 "Yageo" H 2100 7050 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R87
+L Aardonyx-rescue:R_US-aardonyx R14
 U 1 1 5E939442
 P 2100 6950
-F 0 "R87" V 2050 6800 50  0000 C CNN
+F 0 "R14" V 2050 6800 50  0000 C CNN
 F 1 "22E,0402" V 2150 7150 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 2140 6940 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 2100 6950 50  0001 C CNN
@@ -844,10 +844,10 @@ F 7 "Yageo" H 2100 6950 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R86
+L Aardonyx-rescue:R_US-aardonyx R15
 U 1 1 5E93943C
 P 2100 6850
-F 0 "R86" V 2050 6700 50  0000 C CNN
+F 0 "R15" V 2050 6700 50  0000 C CNN
 F 1 "22E,0402" V 2150 7050 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 2140 6840 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 2100 6850 50  0001 C CNN
@@ -859,10 +859,10 @@ F 7 "Yageo" H 2100 6850 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R85
+L Aardonyx-rescue:R_US-aardonyx R16
 U 1 1 5E939436
 P 2100 6750
-F 0 "R85" V 2050 6600 50  0000 C CNN
+F 0 "R16" V 2050 6600 50  0000 C CNN
 F 1 "22E,0402" V 2150 6950 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 2140 6740 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 2100 6750 50  0001 C CNN
@@ -874,10 +874,10 @@ F 7 "Yageo" H 2100 6750 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R84
+L Aardonyx-rescue:R_US-aardonyx R17
 U 1 1 5E939430
 P 2100 6650
-F 0 "R84" V 2050 6500 50  0000 C CNN
+F 0 "R17" V 2050 6500 50  0000 C CNN
 F 1 "22E,0402" V 2150 6850 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 2140 6640 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 2100 6650 50  0001 C CNN
@@ -889,10 +889,10 @@ F 7 "Yageo" H 2100 6650 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R83
+L Aardonyx-rescue:R_US-aardonyx R11
 U 1 1 5E939424
 P 2100 6500
-F 0 "R83" V 2050 6350 50  0000 C CNN
+F 0 "R11" V 2050 6350 50  0000 C CNN
 F 1 "22E,0402" V 2150 6700 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 2140 6490 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 2100 6500 50  0001 C CNN
@@ -904,10 +904,10 @@ F 7 "Yageo" H 2100 6500 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R82
+L Aardonyx-rescue:R_US-aardonyx R10
 U 1 1 5E93941E
 P 2100 6400
-F 0 "R82" V 2050 6250 50  0000 C CNN
+F 0 "R10" V 2050 6250 50  0000 C CNN
 F 1 "22E,0402" V 2150 6600 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 2140 6390 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 2100 6400 50  0001 C CNN
@@ -919,10 +919,10 @@ F 7 "Yageo" H 2100 6400 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R81
+L Aardonyx-rescue:R_US-aardonyx R19
 U 1 1 5E939418
 P 2100 6250
-F 0 "R81" V 2050 6100 50  0000 C CNN
+F 0 "R19" V 2050 6100 50  0000 C CNN
 F 1 "22E,0402" V 2150 6450 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 2140 6240 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 2100 6250 50  0001 C CNN
@@ -934,10 +934,10 @@ F 7 "Yageo" H 2100 6250 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R80
+L Aardonyx-rescue:R_US-aardonyx R13
 U 1 1 5E939412
 P 2100 6150
-F 0 "R80" V 2050 6000 50  0000 C CNN
+F 0 "R13" V 2050 6000 50  0000 C CNN
 F 1 "22E,0402" V 2150 6350 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 2140 6140 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 2100 6150 50  0001 C CNN
@@ -949,10 +949,10 @@ F 7 "Yageo" H 2100 6150 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R79
+L Aardonyx-rescue:R_US-aardonyx R21
 U 1 1 5E93940C
 P 2100 6050
-F 0 "R79" V 2050 5900 50  0000 C CNN
+F 0 "R21" V 2050 5900 50  0000 C CNN
 F 1 "22E,0402" V 2150 6250 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 2140 6040 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 2100 6050 50  0001 C CNN
@@ -964,10 +964,10 @@ F 7 "Yageo" H 2100 6050 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R78
+L Aardonyx-rescue:R_US-aardonyx R12
 U 1 1 5E939406
 P 2100 5950
-F 0 "R78" V 2050 5800 50  0000 C CNN
+F 0 "R12" V 2050 5800 50  0000 C CNN
 F 1 "22E,0402" V 2150 6150 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 2140 5940 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 2100 5950 50  0001 C CNN
@@ -979,10 +979,10 @@ F 7 "Yageo" H 2100 5950 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R77
+L Aardonyx-rescue:R_US-aardonyx R73
 U 1 1 5E906F83
 P 2100 5600
-F 0 "R77" V 2050 5450 50  0000 C CNN
+F 0 "R73" V 2050 5450 50  0000 C CNN
 F 1 "22E,0402" V 2150 5800 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 2140 5590 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 2100 5600 50  0001 C CNN
@@ -1009,10 +1009,10 @@ F 7 "Yageo" H 2100 5500 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R75
+L Aardonyx-rescue:R_US-aardonyx R77
 U 1 1 5E906F77
 P 2100 5400
-F 0 "R75" V 2050 5250 50  0000 C CNN
+F 0 "R77" V 2050 5250 50  0000 C CNN
 F 1 "22E,0402" V 2150 5600 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 2140 5390 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 2100 5400 50  0001 C CNN
@@ -1024,10 +1024,10 @@ F 7 "Yageo" H 2100 5400 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R74
+L Aardonyx-rescue:R_US-aardonyx R87
 U 1 1 5E906F71
 P 2100 5300
-F 0 "R74" V 2050 5150 50  0000 C CNN
+F 0 "R87" V 2050 5150 50  0000 C CNN
 F 1 "22E,0402" V 2150 5500 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 2140 5290 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 2100 5300 50  0001 C CNN
@@ -1039,10 +1039,10 @@ F 7 "Yageo" H 2100 5300 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R73
+L Aardonyx-rescue:R_US-aardonyx R88
 U 1 1 5E906F6B
 P 2100 5200
-F 0 "R73" V 2050 5050 50  0000 C CNN
+F 0 "R88" V 2050 5050 50  0000 C CNN
 F 1 "22E,0402" V 2150 5400 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 2140 5190 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 2100 5200 50  0001 C CNN
@@ -1054,10 +1054,10 @@ F 7 "Yageo" H 2100 5200 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R72
+L Aardonyx-rescue:R_US-aardonyx R89
 U 1 1 5E906F65
 P 2100 5100
-F 0 "R72" V 2050 4950 50  0000 C CNN
+F 0 "R89" V 2050 4950 50  0000 C CNN
 F 1 "22E,0402" V 2150 5300 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 2140 5090 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 2100 5100 50  0001 C CNN
@@ -1069,10 +1069,10 @@ F 7 "Yageo" H 2100 5100 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R71
+L Aardonyx-rescue:R_US-aardonyx R90
 U 1 1 5E906F5F
 P 2100 5000
-F 0 "R71" V 2050 4850 50  0000 C CNN
+F 0 "R90" V 2050 4850 50  0000 C CNN
 F 1 "22E,0402" V 2150 5200 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 2140 4990 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 2100 5000 50  0001 C CNN
@@ -1084,10 +1084,10 @@ F 7 "Yageo" H 2100 5000 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R70
+L Aardonyx-rescue:R_US-aardonyx R91
 U 1 1 5E906F59
 P 2100 4900
-F 0 "R70" V 2050 4750 50  0000 C CNN
+F 0 "R91" V 2050 4750 50  0000 C CNN
 F 1 "22E,0402" V 2150 5100 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 2140 4890 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 2100 4900 50  0001 C CNN
@@ -1099,10 +1099,10 @@ F 7 "Yageo" H 2100 4900 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R69
+L Aardonyx-rescue:R_US-aardonyx R92
 U 1 1 5E906F53
 P 2100 4800
-F 0 "R69" V 2050 4650 50  0000 C CNN
+F 0 "R92" V 2050 4650 50  0000 C CNN
 F 1 "22E,0402" V 2150 5000 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 2140 4790 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 2100 4800 50  0001 C CNN
@@ -1114,10 +1114,10 @@ F 7 "Yageo" H 2100 4800 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R68
+L Aardonyx-rescue:R_US-aardonyx R93
 U 1 1 5E906F4D
 P 2100 4700
-F 0 "R68" V 2050 4550 50  0000 C CNN
+F 0 "R93" V 2050 4550 50  0000 C CNN
 F 1 "22E,0402" V 2150 4900 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 2140 4690 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 2100 4700 50  0001 C CNN
@@ -1129,10 +1129,10 @@ F 7 "Yageo" H 2100 4700 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R67
+L Aardonyx-rescue:R_US-aardonyx R94
 U 1 1 5E906F47
 P 2100 4600
-F 0 "R67" V 2050 4450 50  0000 C CNN
+F 0 "R94" V 2050 4450 50  0000 C CNN
 F 1 "22E,0402" V 2150 4800 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 2140 4590 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 2100 4600 50  0001 C CNN
@@ -1144,10 +1144,10 @@ F 7 "Yageo" H 2100 4600 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R66
+L Aardonyx-rescue:R_US-aardonyx R79
 U 1 1 5E906F41
 P 2100 4500
-F 0 "R66" V 2050 4350 50  0000 C CNN
+F 0 "R79" V 2050 4350 50  0000 C CNN
 F 1 "22E,0402" V 2150 4700 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 2140 4490 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 2100 4500 50  0001 C CNN
@@ -1159,10 +1159,10 @@ F 7 "Yageo" H 2100 4500 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R65
+L Aardonyx-rescue:R_US-aardonyx R78
 U 1 1 5E906F3B
 P 2100 4400
-F 0 "R65" V 2050 4250 50  0000 C CNN
+F 0 "R78" V 2050 4250 50  0000 C CNN
 F 1 "22E,0402" V 2150 4600 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 2140 4390 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 2100 4400 50  0001 C CNN
@@ -1174,10 +1174,10 @@ F 7 "Yageo" H 2100 4400 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R127
+L Aardonyx-rescue:R_US-aardonyx R74
 U 1 1 5E7A81DF
 P 4600 7500
-F 0 "R127" V 4550 7350 50  0000 C CNN
+F 0 "R74" V 4550 7350 50  0000 C CNN
 F 1 "22E,0402" V 4650 7750 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4640 7490 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 4600 7500 50  0001 C CNN
@@ -1189,10 +1189,10 @@ F 7 "Yageo" H 4600 7500 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R126
+L Aardonyx-rescue:R_US-aardonyx R71
 U 1 1 5E795474
 P 4600 7400
-F 0 "R126" V 4550 7250 50  0000 C CNN
+F 0 "R71" V 4550 7250 50  0000 C CNN
 F 1 "22E,0402" V 4650 7650 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4640 7390 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 4600 7400 50  0001 C CNN
@@ -1204,10 +1204,10 @@ F 7 "Yageo" H 4600 7400 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R125
+L Aardonyx-rescue:R_US-aardonyx R68
 U 1 1 5E79546E
 P 4600 7300
-F 0 "R125" V 4550 7150 50  0000 C CNN
+F 0 "R68" V 4550 7150 50  0000 C CNN
 F 1 "22E,0402" V 4650 7550 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4640 7290 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 4600 7300 50  0001 C CNN
@@ -1219,10 +1219,10 @@ F 7 "Yageo" H 4600 7300 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R118
+L Aardonyx-rescue:R_US-aardonyx R67
 U 1 1 5E7821FD
 P 4600 6600
-F 0 "R118" V 4550 6450 50  0000 C CNN
+F 0 "R67" V 4550 6450 50  0000 C CNN
 F 1 "22E,0402" V 4650 6850 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4640 6590 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 4600 6600 50  0001 C CNN
@@ -1234,10 +1234,10 @@ F 7 "Yageo" H 4600 6600 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R111
+L Aardonyx-rescue:R_US-aardonyx R41
 U 1 1 5E75C936
 P 4600 5900
-F 0 "R111" V 4550 5750 50  0000 C CNN
+F 0 "R41" V 4550 5750 50  0000 C CNN
 F 1 "22E,0402" V 4650 6150 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4640 5890 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 4600 5900 50  0001 C CNN
@@ -1249,10 +1249,10 @@ F 7 "Yageo" H 4600 5900 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R110
+L Aardonyx-rescue:R_US-aardonyx R40
 U 1 1 5E75C930
 P 4600 5800
-F 0 "R110" V 4550 5650 50  0000 C CNN
+F 0 "R40" V 4550 5650 50  0000 C CNN
 F 1 "22E,0402" V 4650 6050 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4640 5790 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 4600 5800 50  0001 C CNN
@@ -1264,10 +1264,10 @@ F 7 "Yageo" H 4600 5800 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R109
+L Aardonyx-rescue:R_US-aardonyx R38
 U 1 1 5E75C92A
 P 4600 5700
-F 0 "R109" V 4550 5550 50  0000 C CNN
+F 0 "R38" V 4550 5550 50  0000 C CNN
 F 1 "22E,0402" V 4650 5950 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4640 5690 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 4600 5700 50  0001 C CNN
@@ -1279,10 +1279,10 @@ F 7 "Yageo" H 4600 5700 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R124
+L Aardonyx-rescue:R_US-aardonyx R64
 U 1 1 5E54A406
 P 4600 7200
-F 0 "R124" V 4550 7050 50  0000 C CNN
+F 0 "R64" V 4550 7050 50  0000 C CNN
 F 1 "22E,0402" V 4650 7450 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4640 7190 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 4600 7200 50  0001 C CNN
@@ -1294,10 +1294,10 @@ F 7 "Yageo" H 4600 7200 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R123
+L Aardonyx-rescue:R_US-aardonyx R69
 U 1 1 5E53B3F2
 P 4600 7100
-F 0 "R123" V 4550 6950 50  0000 C CNN
+F 0 "R69" V 4550 6950 50  0000 C CNN
 F 1 "22E,0402" V 4650 7350 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4640 7090 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 4600 7100 50  0001 C CNN
@@ -1309,10 +1309,10 @@ F 7 "Yageo" H 4600 7100 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R122
+L Aardonyx-rescue:R_US-aardonyx R65
 U 1 1 5E52C580
 P 4600 7000
-F 0 "R122" V 4550 6850 50  0000 C CNN
+F 0 "R65" V 4550 6850 50  0000 C CNN
 F 1 "22E,0402" V 4650 7250 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4640 6990 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 4600 7000 50  0001 C CNN
@@ -1324,10 +1324,10 @@ F 7 "Yageo" H 4600 7000 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R121
+L Aardonyx-rescue:R_US-aardonyx R70
 U 1 1 5E51D743
 P 4600 6900
-F 0 "R121" V 4550 6750 50  0000 C CNN
+F 0 "R70" V 4550 6750 50  0000 C CNN
 F 1 "22E,0402" V 4650 7150 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4640 6890 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 4600 6900 50  0001 C CNN
@@ -1339,10 +1339,10 @@ F 7 "Yageo" H 4600 6900 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R120
+L Aardonyx-rescue:R_US-aardonyx R66
 U 1 1 5E50E860
 P 4600 6800
-F 0 "R120" V 4550 6650 50  0000 C CNN
+F 0 "R66" V 4550 6650 50  0000 C CNN
 F 1 "22E,0402" V 4650 7050 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4640 6790 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 4600 6800 50  0001 C CNN
@@ -1354,10 +1354,10 @@ F 7 "Yageo" H 4600 6800 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R119
+L Aardonyx-rescue:R_US-aardonyx R75
 U 1 1 5E4FF973
 P 4600 6700
-F 0 "R119" V 4550 6550 50  0000 C CNN
+F 0 "R75" V 4550 6550 50  0000 C CNN
 F 1 "22E,0402" V 4650 6950 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4640 6690 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 4600 6700 50  0001 C CNN
@@ -1369,10 +1369,10 @@ F 7 "Yageo" H 4600 6700 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R117
+L Aardonyx-rescue:R_US-aardonyx R62
 U 1 1 5E4F0A09
 P 4600 6500
-F 0 "R117" V 4550 6350 50  0000 C CNN
+F 0 "R62" V 4550 6350 50  0000 C CNN
 F 1 "22E,0402" V 4650 6750 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4640 6490 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 4600 6500 50  0001 C CNN
@@ -1384,10 +1384,10 @@ F 7 "Yageo" H 4600 6500 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R116
+L Aardonyx-rescue:R_US-aardonyx R58
 U 1 1 5E4E1A96
 P 4600 6400
-F 0 "R116" V 4550 6250 50  0000 C CNN
+F 0 "R58" V 4550 6250 50  0000 C CNN
 F 1 "22E,0402" V 4650 6650 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4640 6390 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 4600 6400 50  0001 C CNN
@@ -1399,10 +1399,10 @@ F 7 "Yageo" H 4600 6400 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R115
+L Aardonyx-rescue:R_US-aardonyx R59
 U 1 1 5E4D2C98
 P 4600 6300
-F 0 "R115" V 4550 6150 50  0000 C CNN
+F 0 "R59" V 4550 6150 50  0000 C CNN
 F 1 "22E,0402" V 4650 6550 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4640 6290 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 4600 6300 50  0001 C CNN
@@ -1414,10 +1414,10 @@ F 7 "Yageo" H 4600 6300 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R114
+L Aardonyx-rescue:R_US-aardonyx R57
 U 1 1 5E4C3D89
 P 4600 6200
-F 0 "R114" V 4550 6050 50  0000 C CNN
+F 0 "R57" V 4550 6050 50  0000 C CNN
 F 1 "22E,0402" V 4650 6450 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4640 6190 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 4600 6200 50  0001 C CNN
@@ -1429,10 +1429,10 @@ F 7 "Yageo" H 4600 6200 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R113
+L Aardonyx-rescue:R_US-aardonyx R49
 U 1 1 5E4B4FA8
 P 4600 6100
-F 0 "R113" V 4550 5950 50  0000 C CNN
+F 0 "R49" V 4550 5950 50  0000 C CNN
 F 1 "22E,0402" V 4650 6350 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4640 6090 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 4600 6100 50  0001 C CNN
@@ -1444,10 +1444,10 @@ F 7 "Yageo" H 4600 6100 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R112
+L Aardonyx-rescue:R_US-aardonyx R48
 U 1 1 5E4A616F
 P 4600 6000
-F 0 "R112" V 4550 5850 50  0000 C CNN
+F 0 "R48" V 4550 5850 50  0000 C CNN
 F 1 "22E,0402" V 4650 6250 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4640 5990 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 4600 6000 50  0001 C CNN
@@ -1459,10 +1459,10 @@ F 7 "Yageo" H 4600 6000 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R108
+L Aardonyx-rescue:R_US-aardonyx R37
 U 1 1 5E496E28
 P 4600 5600
-F 0 "R108" V 4550 5450 50  0000 C CNN
+F 0 "R37" V 4550 5450 50  0000 C CNN
 F 1 "22E,0402" V 4650 5850 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4640 5590 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 4600 5600 50  0001 C CNN
@@ -1474,10 +1474,10 @@ F 7 "Yageo" H 4600 5600 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R107
+L Aardonyx-rescue:R_US-aardonyx R34
 U 1 1 5E488081
 P 4600 5500
-F 0 "R107" V 4550 5350 50  0000 C CNN
+F 0 "R34" V 4550 5350 50  0000 C CNN
 F 1 "22E,0402" V 4650 5750 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4640 5490 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 4600 5500 50  0001 C CNN
@@ -1489,10 +1489,10 @@ F 7 "Yageo" H 4600 5500 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R106
+L Aardonyx-rescue:R_US-aardonyx R33
 U 1 1 5E4792DA
 P 4600 5400
-F 0 "R106" V 4550 5250 50  0000 C CNN
+F 0 "R33" V 4550 5250 50  0000 C CNN
 F 1 "22E,0402" V 4650 5650 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4640 5390 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 4600 5400 50  0001 C CNN
@@ -1504,10 +1504,10 @@ F 7 "Yageo" H 4600 5400 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R105
+L Aardonyx-rescue:R_US-aardonyx R31
 U 1 1 5E46A533
 P 4600 5300
-F 0 "R105" V 4550 5150 50  0000 C CNN
+F 0 "R31" V 4550 5150 50  0000 C CNN
 F 1 "22E,0402" V 4650 5550 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4640 5290 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 4600 5300 50  0001 C CNN
@@ -1519,10 +1519,10 @@ F 7 "Yageo" H 4600 5300 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R104
+L Aardonyx-rescue:R_US-aardonyx R30
 U 1 1 5E45B78C
 P 4600 5200
-F 0 "R104" V 4550 5050 50  0000 C CNN
+F 0 "R30" V 4550 5050 50  0000 C CNN
 F 1 "22E,0402" V 4650 5450 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4640 5190 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 4600 5200 50  0001 C CNN
@@ -1534,10 +1534,10 @@ F 7 "Yageo" H 4600 5200 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R103
+L Aardonyx-rescue:R_US-aardonyx R27
 U 1 1 5E44C8E4
 P 4600 5100
-F 0 "R103" V 4550 4950 50  0000 C CNN
+F 0 "R27" V 4550 4950 50  0000 C CNN
 F 1 "22E,0402" V 4650 5350 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4640 5090 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 4600 5100 50  0001 C CNN
@@ -1549,10 +1549,10 @@ F 7 "Yageo" H 4600 5100 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R102
+L Aardonyx-rescue:R_US-aardonyx R26
 U 1 1 5E43DB20
 P 4600 5000
-F 0 "R102" V 4550 4850 50  0000 C CNN
+F 0 "R26" V 4550 4850 50  0000 C CNN
 F 1 "22E,0402" V 4650 5250 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4640 4990 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 4600 5000 50  0001 C CNN
@@ -1564,10 +1564,10 @@ F 7 "Yageo" H 4600 5000 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R101
+L Aardonyx-rescue:R_US-aardonyx R25
 U 1 1 5E42EC91
 P 4600 4900
-F 0 "R101" V 4550 4750 50  0000 C CNN
+F 0 "R25" V 4550 4750 50  0000 C CNN
 F 1 "22E,0402" V 4650 5150 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4640 4890 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 4600 4900 50  0001 C CNN
@@ -1579,10 +1579,10 @@ F 7 "Yageo" H 4600 4900 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R100
+L Aardonyx-rescue:R_US-aardonyx R22
 U 1 1 5E41FEEA
 P 4600 4800
-F 0 "R100" V 4550 4650 50  0000 C CNN
+F 0 "R22" V 4550 4650 50  0000 C CNN
 F 1 "22E,0402" V 4650 5050 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4640 4790 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 4600 4800 50  0001 C CNN
@@ -1594,10 +1594,10 @@ F 7 "Yageo" H 4600 4800 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R99
+L Aardonyx-rescue:R_US-aardonyx R20
 U 1 1 5E4110C5
 P 4600 4700
-F 0 "R99" V 4550 4550 50  0000 C CNN
+F 0 "R20" V 4550 4550 50  0000 C CNN
 F 1 "22E,0402" V 4650 4950 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4640 4690 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 4600 4700 50  0001 C CNN
@@ -1609,10 +1609,10 @@ F 7 "Yageo" H 4600 4700 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R98
+L Aardonyx-rescue:R_US-aardonyx R9
 U 1 1 5E40223A
 P 4600 4600
-F 0 "R98" V 4550 4450 50  0000 C CNN
+F 0 "R9" V 4550 4450 50  0000 C CNN
 F 1 "22E,0402" V 4650 4850 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4640 4590 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 4600 4600 50  0001 C CNN
@@ -1624,10 +1624,10 @@ F 7 "Yageo" H 4600 4600 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R97
+L Aardonyx-rescue:R_US-aardonyx R8
 U 1 1 5E3F33F8
 P 4600 4500
-F 0 "R97" V 4550 4350 50  0000 C CNN
+F 0 "R8" V 4550 4350 50  0000 C CNN
 F 1 "22E,0402" V 4650 4750 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4640 4490 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 4600 4500 50  0001 C CNN
@@ -1639,10 +1639,10 @@ F 7 "Yageo" H 4600 4500 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R96
+L Aardonyx-rescue:R_US-aardonyx R7
 U 1 1 5E3B43DA
 P 4600 4400
-F 0 "R96" V 4550 4250 50  0000 C CNN
+F 0 "R7" V 4550 4250 50  0000 C CNN
 F 1 "22E,0402" V 4650 4650 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4640 4390 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 4600 4400 50  0001 C CNN
@@ -1899,10 +1899,10 @@ Wire Wire Line
 Text Notes 2400 750  0    100  ~ 20
 SKT32E - PERIPHERALS
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R57
+L Aardonyx-rescue:R_US-aardonyx R61
 U 1 1 5F567A40
 P 1750 1050
-F 0 "R57" V 1700 900 50  0000 C CNN
+F 0 "R61" V 1700 900 50  0000 C CNN
 F 1 "22E,0402" V 1800 1200 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 1790 1040 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 1750 1050 50  0001 C CNN
@@ -1914,10 +1914,10 @@ F 7 "Yageo" H 1750 1050 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R58
+L Aardonyx-rescue:R_US-aardonyx R56
 U 1 1 5F567A3A
 P 1750 1150
-F 0 "R58" V 1700 1000 50  0000 C CNN
+F 0 "R56" V 1700 1000 50  0000 C CNN
 F 1 "22E,0402" V 1800 1300 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 1790 1140 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 1750 1150 50  0001 C CNN
@@ -1929,10 +1929,10 @@ F 7 "Yageo" H 1750 1150 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R59
+L Aardonyx-rescue:R_US-aardonyx R55
 U 1 1 5F567A34
 P 1750 1250
-F 0 "R59" V 1700 1100 50  0000 C CNN
+F 0 "R55" V 1700 1100 50  0000 C CNN
 F 1 "22E,0402" V 1800 1400 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 1790 1240 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 1750 1250 50  0001 C CNN
@@ -1944,10 +1944,10 @@ F 7 "Yageo" H 1750 1250 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R60
+L Aardonyx-rescue:R_US-aardonyx R54
 U 1 1 5F567A2E
 P 1750 1350
-F 0 "R60" V 1700 1200 50  0000 C CNN
+F 0 "R54" V 1700 1200 50  0000 C CNN
 F 1 "22E,0402" V 1800 1500 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 1790 1340 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 1750 1350 50  0001 C CNN
@@ -2273,10 +2273,10 @@ UART0_TX
 Text HLabel 4900 1450 2    50   Input ~ 0
 UART0_RX
 $Comp
-L Aardonyx-rescue:SW_DIP_x03-aardonyx SW3
+L Aardonyx-rescue:SW_DIP_x03-aardonyx SW2
 U 1 1 60474CCF
 P 9950 5700
-F 0 "SW3" H 9900 6050 50  0000 C CNN
+F 0 "SW2" H 9900 6050 50  0000 C CNN
 F 1 "SW_DIP_x03" H 10150 5550 50  0000 C CNN
 F 2 "Button_Switch_THT:SW_DIP_SPSTx03_Slide_6.7x9.18mm_W7.62mm_P2.54mm_LowProfile" H 9950 5700 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/w%C3%BCrth-elektronik/418117270903/732-3833-5-ND/3174487" H 9950 5700 50  0001 C CNN
@@ -2301,10 +2301,10 @@ Wire Wire Line
 	10400 5700 10400 5600
 Connection ~ 10400 5600
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R132
+L Aardonyx-rescue:R_US-aardonyx R96
 U 1 1 605E3FF9
 P 10650 5500
-F 0 "R132" V 10550 5500 50  0000 C CNN
+F 0 "R96" V 10550 5500 50  0000 C CNN
 F 1 "0E, 0402" V 10700 5750 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 10690 5490 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/vishay-dale/CRCW04020000Z0ED/541-0-0JCT-ND/1182611" H 10650 5500 50  0001 C CNN
@@ -2327,10 +2327,10 @@ BOOT_MODE1
 Text Label 8850 5500 0    39   ~ 0
 TEST_MODE
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R131
+L Aardonyx-rescue:R_US-aardonyx R72
 U 1 1 6070079E
 P 10400 5300
-F 0 "R131" V 10350 5300 50  0000 C CNN
+F 0 "R72" V 10350 5300 50  0000 C CNN
 F 1 "0E, 0402" V 10500 5300 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 10440 5290 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/vishay-dale/CRCW04020000Z0ED/541-0-0JCT-ND/1182611" H 10400 5300 50  0001 C CNN
@@ -2342,10 +2342,10 @@ F 7 "Vishay Dale" H 10400 5300 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R130
+L Aardonyx-rescue:R_US-aardonyx R97
 U 1 1 6081E442
 P 9600 5900
-F 0 "R130" V 9550 6000 50  0000 C CNN
+F 0 "R97" V 9550 6000 50  0000 C CNN
 F 1 "10KE,0402" V 9650 5650 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 9640 5890 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/koa-speer-electronics-inc/SG73S1ETTP103J/2019-SG73S1ETTP103JCT-ND/10280218" H 9600 5900 50  0001 C CNN
@@ -2357,10 +2357,10 @@ F 7 "KOA Speer Electronics, Inc." H 9600 5900 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R129
+L Aardonyx-rescue:R_US-aardonyx R95
 U 1 1 6084D5E3
 P 9400 5900
-F 0 "R129" V 9350 6050 50  0000 C CNN
+F 0 "R95" V 9350 6050 50  0000 C CNN
 F 1 "10KE,0402" V 9450 5750 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 9440 5890 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/koa-speer-electronics-inc/SG73S1ETTP103J/2019-SG73S1ETTP103JCT-ND/10280218" H 9400 5900 50  0001 C CNN
@@ -2372,10 +2372,10 @@ F 7 "KOA Speer Electronics, Inc." H 9400 5900 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R128
+L Aardonyx-rescue:R_US-aardonyx R80
 U 1 1 6087C5F5
 P 9250 5900
-F 0 "R128" V 9150 6000 50  0000 C CNN
+F 0 "R80" V 9150 6000 50  0000 C CNN
 F 1 "10KE,0402" V 9200 5600 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 9290 5890 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/koa-speer-electronics-inc/SG73S1ETTP103J/2019-SG73S1ETTP103JCT-ND/10280218" H 9250 5900 50  0001 C CNN
@@ -2588,10 +2588,10 @@ IO_15
 Text Label 1950 3500 0    39   ~ 0
 IO_14
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R90
+L Aardonyx-rescue:R_US-aardonyx R84
 U 1 1 62428E83
 P 4550 1600
-F 0 "R90" V 4500 1450 50  0000 C CNN
+F 0 "R84" V 4500 1450 50  0000 C CNN
 F 1 "22E,0402" V 4600 1900 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4590 1590 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 4550 1600 50  0001 C CNN
@@ -2603,10 +2603,10 @@ F 7 "Yageo" H 4550 1600 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R91
+L Aardonyx-rescue:R_US-aardonyx R86
 U 1 1 62428E89
 P 4550 1700
-F 0 "R91" V 4500 1550 50  0000 C CNN
+F 0 "R86" V 4500 1550 50  0000 C CNN
 F 1 "22E,0402" V 4600 2000 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4590 1690 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 4550 1700 50  0001 C CNN
@@ -2618,10 +2618,10 @@ F 7 "Yageo" H 4550 1700 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R92
+L Aardonyx-rescue:R_US-aardonyx R83
 U 1 1 62428E8F
 P 4550 1800
-F 0 "R92" V 4500 1650 50  0000 C CNN
+F 0 "R83" V 4500 1650 50  0000 C CNN
 F 1 "22E,0402" V 4600 2100 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4590 1790 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 4550 1800 50  0001 C CNN
@@ -2633,10 +2633,10 @@ F 7 "Yageo" H 4550 1800 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R93
+L Aardonyx-rescue:R_US-aardonyx R82
 U 1 1 62428E95
 P 4550 1900
-F 0 "R93" V 4500 1750 50  0000 C CNN
+F 0 "R82" V 4500 1750 50  0000 C CNN
 F 1 "22E,0402" V 4600 2200 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4590 1890 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 4550 1900 50  0001 C CNN
@@ -2656,10 +2656,10 @@ Wire Wire Line
 Wire Wire Line
 	4400 1900 4300 1900
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R94
+L Aardonyx-rescue:R_US-aardonyx R85
 U 1 1 6272125A
 P 4550 2000
-F 0 "R94" V 4500 1850 50  0000 C CNN
+F 0 "R85" V 4500 1850 50  0000 C CNN
 F 1 "22E,0402" V 4600 2300 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4590 1990 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 4550 2000 50  0001 C CNN
@@ -2671,10 +2671,10 @@ F 7 "Yageo" H 4550 2000 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R95
+L Aardonyx-rescue:R_US-aardonyx R81
 U 1 1 62721260
 P 4550 2100
-F 0 "R95" V 4500 1950 50  0000 C CNN
+F 0 "R81" V 4500 1950 50  0000 C CNN
 F 1 "22E,0402" V 4600 2400 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4590 2090 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 4550 2100 50  0001 C CNN
@@ -2780,10 +2780,10 @@ F 3 "" H 10750 1750 50  0001 C CNN
 $EndComp
 Connection ~ 10750 1700
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C79
+L Aardonyx-rescue:C_Small-aardonyx C3
 U 1 1 5E8200AF
 P 9750 2500
-F 0 "C79" H 9750 2600 50  0000 L CNN
+F 0 "C3" H 9750 2600 50  0000 L CNN
 F 1 "0.1UF,0402" V 9700 2050 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 9750 2500 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 9750 2500 50  0001 C CNN
@@ -2795,10 +2795,10 @@ F 7 "AVX Corporation" H 9750 2500 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C82
+L Aardonyx-rescue:C_Small-aardonyx C2
 U 1 1 5E8200B5
 P 10000 2500
-F 0 "C82" H 10000 2600 50  0000 L CNN
+F 0 "C2" H 10000 2600 50  0000 L CNN
 F 1 "0.1UF,0402" V 9950 2050 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 10000 2500 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 10000 2500 50  0001 C CNN
@@ -2862,10 +2862,10 @@ Wire Wire Line
 Wire Wire Line
 	4300 3200 4900 3200
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R61
+L Aardonyx-rescue:R_US-aardonyx R44
 U 1 1 5E9B4B52
 P 1750 1500
-F 0 "R61" V 1700 1350 50  0000 C CNN
+F 0 "R44" V 1700 1350 50  0000 C CNN
 F 1 "22E,0402" V 1800 1650 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 1790 1490 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 1750 1500 50  0001 C CNN
@@ -2877,10 +2877,10 @@ F 7 "Yageo" H 1750 1500 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R62
+L Aardonyx-rescue:R_US-aardonyx R42
 U 1 1 5E9B4B58
 P 1750 1600
-F 0 "R62" V 1700 1450 50  0000 C CNN
+F 0 "R42" V 1700 1450 50  0000 C CNN
 F 1 "22E,0402" V 1800 1750 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 1790 1590 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 1750 1600 50  0001 C CNN
@@ -2892,10 +2892,10 @@ F 7 "Yageo" H 1750 1600 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R63
+L Aardonyx-rescue:R_US-aardonyx R52
 U 1 1 5E9B4B5E
 P 1750 1700
-F 0 "R63" V 1700 1550 50  0000 C CNN
+F 0 "R52" V 1700 1550 50  0000 C CNN
 F 1 "22E,0402" V 1800 1850 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 1790 1690 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 1750 1700 50  0001 C CNN
@@ -2907,10 +2907,10 @@ F 7 "Yageo" H 1750 1700 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R64
+L Aardonyx-rescue:R_US-aardonyx R47
 U 1 1 5E9B4B64
 P 1750 1800
-F 0 "R64" V 1700 1650 50  0000 C CNN
+F 0 "R47" V 1700 1650 50  0000 C CNN
 F 1 "22E,0402" V 1800 1950 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 1790 1790 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 1750 1800 50  0001 C CNN
@@ -2962,10 +2962,10 @@ Entry Wire Line
 Text HLabel 5700 4400 2    50   BiDi ~ 0
 SDRAM_D[0..31]
 $Comp
-L Aardonyx-rescue:SKT32E-skt32e_asic U15
+L Aardonyx-rescue:SKT32E-skt32e_asic U2
 U 1 1 5ED74BCE
 P 3250 2250
-F 0 "U15" H 2550 600 50  0000 C CNN
+F 0 "U2" H 2550 600 50  0000 C CNN
 F 1 "SKT32E" H 4000 600 50  0000 C CNN
 F 2 "Aardonyx:SKT32E_IITM_TH_SOCKET" H 2400 3650 50  0001 C CNN
 F 3 "https://gitlab.com/shaktiproject/cores/shakti-soc/-/tree/master/asic/e-class-aardonyx" H 2400 3650 50  0001 C CNN
@@ -2977,10 +2977,10 @@ F 7 "SCL / IITM" H 3250 2250 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:SKT32E-skt32e_asic U15
+L Aardonyx-rescue:SKT32E-skt32e_asic U2
 U 2 1 5ED8877B
 P 3350 5800
-F 0 "U15" H 2800 7400 50  0000 C CNN
+F 0 "U2" H 2800 7400 50  0000 C CNN
 F 1 "SKT32E" H 3950 7400 50  0000 C CNN
 F 2 "Aardonyx:SKT32E_IITM_TH_SOCKET" H 2500 7200 50  0001 C CNN
 F 3 "https://gitlab.com/shaktiproject/cores/shakti-soc/-/tree/master/asic/e-class-aardonyx" H 2500 7200 50  0001 C CNN
@@ -2992,10 +2992,10 @@ F 7 "SCL / IITM" H 3350 5800 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:SKT32E-skt32e_asic U15
+L Aardonyx-rescue:SKT32E-skt32e_asic U2
 U 3 1 5EDACC65
 P 7250 2700
-F 0 "U15" H 6750 4300 50  0000 C CNN
+F 0 "U2" H 6750 4300 50  0000 C CNN
 F 1 "SKT32E" H 7650 4300 50  0000 C CNN
 F 2 "Aardonyx:SKT32E_IITM_TH_SOCKET" H 6400 4100 50  0001 C CNN
 F 3 "https://gitlab.com/shaktiproject/cores/shakti-soc/-/tree/master/asic/e-class-aardonyx" H 6400 4100 50  0001 C CNN
@@ -3026,8 +3026,8 @@ U 1 1 5EBA1A90
 P 7850 5200
 AR Path="/5DB8A7DC/5EBA1A90" Ref="D?"  Part="1" 
 AR Path="/5E6E93B2/5EBA1A90" Ref="D?"  Part="1" 
-AR Path="/5D8B3740/5EBA1A90" Ref="D6"  Part="1" 
-F 0 "D6" H 8050 5150 50  0000 R CNN
+AR Path="/5D8B3740/5EBA1A90" Ref="D3"  Part="1" 
+F 0 "D3" H 8050 5150 50  0000 R CNN
 F 1 "LED,1206" H 7800 5300 50  0000 R CNN
 F 2 "LED_SMD:LED_0603_1608Metric" H 7850 5200 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/lumex-opto-components-inc/SML-LX1206GW-TR/67-1002-1-ND/270799" H 7850 5200 50  0001 C CNN
@@ -3058,8 +3058,8 @@ U 1 1 5EBA1AA0
 P 7400 5200
 AR Path="/5DB8A7DC/5EBA1AA0" Ref="R?"  Part="1" 
 AR Path="/5E6E93B2/5EBA1AA0" Ref="R?"  Part="1" 
-AR Path="/5D8B3740/5EBA1AA0" Ref="R42"  Part="1" 
-F 0 "R42" V 7450 5300 50  0000 L CNN
+AR Path="/5D8B3740/5EBA1AA0" Ref="R5"  Part="1" 
+F 0 "R5" V 7450 5300 50  0000 L CNN
 F 1 "220E,0402" V 7300 4950 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 7440 5190 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/yageo/RC0402FR-07220RL/311-220LRDKR-ND/732459" H 7400 5200 50  0001 C CNN
@@ -3080,8 +3080,8 @@ U 1 1 5EC90632
 P 7850 5450
 AR Path="/5DB8A7DC/5EC90632" Ref="D?"  Part="1" 
 AR Path="/5E6E93B2/5EC90632" Ref="D?"  Part="1" 
-AR Path="/5D8B3740/5EC90632" Ref="D7"  Part="1" 
-F 0 "D7" H 8050 5400 50  0000 R CNN
+AR Path="/5D8B3740/5EC90632" Ref="D2"  Part="1" 
+F 0 "D2" H 8050 5400 50  0000 R CNN
 F 1 "LED,1206" H 7800 5550 50  0000 R CNN
 F 2 "LED_SMD:LED_0603_1608Metric" H 7850 5450 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/lumex-opto-components-inc/SML-LX1206GW-TR/67-1002-1-ND/270799" H 7850 5450 50  0001 C CNN
@@ -3112,8 +3112,8 @@ U 1 1 5EC90642
 P 7400 5450
 AR Path="/5DB8A7DC/5EC90642" Ref="R?"  Part="1" 
 AR Path="/5E6E93B2/5EC90642" Ref="R?"  Part="1" 
-AR Path="/5D8B3740/5EC90642" Ref="R43"  Part="1" 
-F 0 "R43" V 7450 5550 50  0000 L CNN
+AR Path="/5D8B3740/5EC90642" Ref="R4"  Part="1" 
+F 0 "R4" V 7450 5550 50  0000 L CNN
 F 1 "220E,0402" V 7300 5200 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 7440 5440 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/yageo/RC0402FR-07220RL/311-220LRDKR-ND/732459" H 7400 5450 50  0001 C CNN
@@ -3142,8 +3142,8 @@ U 1 1 5EDB8D01
 P 7850 5800
 AR Path="/5DB8A7DC/5EDB8D01" Ref="D?"  Part="1" 
 AR Path="/5E6E93B2/5EDB8D01" Ref="D?"  Part="1" 
-AR Path="/5D8B3740/5EDB8D01" Ref="D8"  Part="1" 
-F 0 "D8" H 8050 5750 50  0000 R CNN
+AR Path="/5D8B3740/5EDB8D01" Ref="D1"  Part="1" 
+F 0 "D1" H 8050 5750 50  0000 R CNN
 F 1 "LED,1206" H 7800 5900 50  0000 R CNN
 F 2 "LED_SMD:LED_0603_1608Metric" H 7850 5800 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/lumex-opto-components-inc/SML-LX1206GW-TR/67-1002-1-ND/270799" H 7850 5800 50  0001 C CNN
@@ -3174,8 +3174,8 @@ U 1 1 5EDB8D11
 P 7400 5800
 AR Path="/5DB8A7DC/5EDB8D11" Ref="R?"  Part="1" 
 AR Path="/5E6E93B2/5EDB8D11" Ref="R?"  Part="1" 
-AR Path="/5D8B3740/5EDB8D11" Ref="R44"  Part="1" 
-F 0 "R44" V 7450 5900 50  0000 L CNN
+AR Path="/5D8B3740/5EDB8D11" Ref="R3"  Part="1" 
+F 0 "R3" V 7450 5900 50  0000 L CNN
 F 1 "220E,0402" V 7300 5550 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 7440 5790 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/yageo/RC0402FR-07220RL/311-220LRDKR-ND/732459" H 7400 5800 50  0001 C CNN

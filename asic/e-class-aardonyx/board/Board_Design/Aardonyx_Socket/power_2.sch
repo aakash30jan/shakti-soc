@@ -47,8 +47,8 @@ L Aardonyx-rescue:C_Small-aardonyx C?
 U 1 1 5E7227E3
 P 3650 1900
 AR Path="/5DB8A7DC/5E7227E3" Ref="C?"  Part="1" 
-AR Path="/5E6E93B2/5E7227E3" Ref="C56"  Part="1" 
-F 0 "C56" H 3742 1946 50  0000 L CNN
+AR Path="/5E6E93B2/5E7227E3" Ref="C91"  Part="1" 
+F 0 "C91" H 3742 1946 50  0000 L CNN
 F 1 "10UF,1206" H 3742 1855 50  0000 L CNN
 F 2 "Capacitor_SMD:C_1206_3216Metric" H 3650 1900 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/kemet/C1206C106J3RACAUTO/399-15734-1-ND/7427614" H 3650 1900 50  0001 C CNN
@@ -79,8 +79,8 @@ L Aardonyx-rescue:R_US-aardonyx R?
 U 1 1 5E72280C
 P 3000 2250
 AR Path="/5DB8A7DC/5E72280C" Ref="R?"  Part="1" 
-AR Path="/5E6E93B2/5E72280C" Ref="P_R42"  Part="1" 
-F 0 "P_R42" H 3068 2296 50  0000 L CNN
+AR Path="/5E6E93B2/5E72280C" Ref="R153"  Part="1" 
+F 0 "R153" H 3068 2296 50  0000 L CNN
 F 1 "30.1KE,0805" H 3068 2205 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" V 3040 2240 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/panasonic-electronic-components/ERA-6AEB3012V/P30-1KDACT-ND/3075076" H 3000 2250 50  0001 C CNN
@@ -96,8 +96,8 @@ L Aardonyx-rescue:R_US-aardonyx R?
 U 1 1 5E722817
 P 3000 1850
 AR Path="/5DB8A7DC/5E722817" Ref="R?"  Part="1" 
-AR Path="/5E6E93B2/5E722817" Ref="P_R41"  Part="1" 
-F 0 "P_R41" H 3068 1896 50  0000 L CNN
+AR Path="/5E6E93B2/5E722817" Ref="R151"  Part="1" 
+F 0 "R151" H 3068 1896 50  0000 L CNN
 F 1 "169KE,0805" H 3068 1805 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" V 3040 1840 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERA-6AEB1693V/P169KDACT-ND/3074985" H 3000 1850 50  0001 C CNN
@@ -126,8 +126,8 @@ L Aardonyx-rescue:C_Small-aardonyx C?
 U 1 1 5E722846
 P 1300 1500
 AR Path="/5DB8A7DC/5E722846" Ref="C?"  Part="1" 
-AR Path="/5E6E93B2/5E722846" Ref="C55"  Part="1" 
-F 0 "C55" H 1350 1600 50  0000 L CNN
+AR Path="/5E6E93B2/5E722846" Ref="C97"  Part="1" 
+F 0 "C97" H 1350 1600 50  0000 L CNN
 F 1 "4.7UF,1206" V 1150 1300 50  0000 L CNN
 F 2 "Capacitor_SMD:C_1206_3216Metric" H 1300 1500 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/kemet/T491A475K016AT/399-18027-1-ND/819022" H 1300 1500 50  0001 C CNN
@@ -143,8 +143,8 @@ L Device:LED_ALT D?
 U 1 1 5E7228A5
 P 5100 2000
 AR Path="/5DB8A7DC/5E7228A5" Ref="D?"  Part="1" 
-AR Path="/5E6E93B2/5E7228A5" Ref="D4"  Part="1" 
-F 0 "D4" V 5200 1950 50  0000 R CNN
+AR Path="/5E6E93B2/5E7228A5" Ref="D7"  Part="1" 
+F 0 "D7" V 5200 1950 50  0000 R CNN
 F 1 "LED,1206" V 4850 1950 50  0000 R CNN
 F 2 "LED_SMD:LED_0603_1608Metric" H 5100 2000 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/lumex-opto-components-inc/SML-LX1206GW-TR/67-1002-1-ND/270799" H 5100 2000 50  0001 C CNN
@@ -173,8 +173,8 @@ L Aardonyx-rescue:R_US-aardonyx R?
 U 1 1 5E7228B7
 P 5100 1550
 AR Path="/5DB8A7DC/5E7228B7" Ref="R?"  Part="1" 
-AR Path="/5E6E93B2/5E7228B7" Ref="P_R44"  Part="1" 
-F 0 "P_R44" H 5150 1650 50  0000 L CNN
+AR Path="/5E6E93B2/5E7228B7" Ref="R142"  Part="1" 
+F 0 "R142" H 5150 1650 50  0000 L CNN
 F 1 "220E,0402" H 5150 1500 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 5140 1540 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/yageo/RC0402FR-07220RL/311-220LRDKR-ND/732459" H 5100 1550 50  0001 C CNN
@@ -204,23 +204,8 @@ F 3 "" H 2300 2600 50  0001 C CNN
 $EndComp
 Text Notes 2000 900  0    100  ~ 20
 5V TO 3.3V LDO
-$Comp
-L Aardonyx-rescue:TPS7A7002DDAR-aardonyx U10
-U 1 1 5EC15037
-P 2300 1950
-F 0 "U10" H 2300 2565 50  0000 C CNN
-F 1 "TPS7A7002DDAR" H 2300 2474 50  0000 C CNN
-F 2 "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm_ThermalVias" H 2300 1950 50  0001 C CNN
-F 3 "https://www.digikey.in/product-detail/en/texas-instruments/TPS7A7002DDAR/296-40977-1-ND/5178854" H 2300 1950 50  0001 C CNN
-F 4 "IC REG LIN POS ADJ 3A 8SO PWRPAD" H 2300 1950 50  0001 C CNN "Description"
-F 5 "296-40977-1-ND" H 2300 1950 50  0001 C CNN "Digikey PartNumber"
-F 6 "TPS7A7002DDAR" H 2300 1950 50  0001 C CNN "Manufactured Part Number"
-F 7 "Texas Instruments" H 2300 1950 50  0001 C CNN "Maufaturer"
-	1    2300 1950
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
-	2750 1650 3000 1650
+	2750 1650 2900 1650
 Wire Wire Line
 	3000 1650 3000 1700
 Wire Wire Line
@@ -235,7 +220,7 @@ Connection ~ 3000 2050
 Wire Wire Line
 	3000 2050 3000 2100
 Wire Wire Line
-	2300 2500 2300 2600
+	2300 2500 2300 2550
 Wire Wire Line
 	3650 1650 3650 1800
 Wire Wire Line
@@ -252,9 +237,7 @@ Connection ~ 1650 1350
 Wire Wire Line
 	1300 1600 1300 1650
 Wire Wire Line
-	1650 1350 1650 1850
-Wire Wire Line
-	6650 1550 6650 2050
+	6650 1550 6650 1850
 Wire Wire Line
 	6300 1800 6300 1850
 Connection ~ 6650 1550
@@ -273,7 +256,7 @@ Wire Wire Line
 Wire Wire Line
 	8800 1850 9200 1850
 Wire Wire Line
-	7300 2700 7300 2800
+	7300 2700 7300 2750
 Wire Wire Line
 	8000 2250 8000 2300
 Connection ~ 8000 2250
@@ -287,13 +270,11 @@ Wire Wire Line
 	8000 2200 8000 2250
 Wire Wire Line
 	8000 1850 8000 1900
-Wire Wire Line
-	7750 1850 8000 1850
 $Comp
-L Aardonyx-rescue:TPS7A7002DDAR-aardonyx U13
+L Aardonyx-rescue:TPS7A7002DDAR-aardonyx U12
 U 1 1 5EC50BBC
 P 7300 2150
-F 0 "U13" H 7300 2765 50  0000 C CNN
+F 0 "U12" H 7300 2765 50  0000 C CNN
 F 1 "TPS7A7002DDAR" H 7300 2674 50  0000 C CNN
 F 2 "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm_ThermalVias" H 7300 2150 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/texas-instruments/TPS7A7002DDAR/296-40977-1-ND/5178854" H 7300 2150 50  0001 C CNN
@@ -322,8 +303,8 @@ L Aardonyx-rescue:C_Small-aardonyx C?
 U 1 1 5EC50BA4
 P 6300 1700
 AR Path="/5DB8A7DC/5EC50BA4" Ref="C?"  Part="1" 
-AR Path="/5E6E93B2/5EC50BA4" Ref="C59"  Part="1" 
-F 0 "C59" H 6350 1800 50  0000 L CNN
+AR Path="/5E6E93B2/5EC50BA4" Ref="C80"  Part="1" 
+F 0 "C80" H 6350 1800 50  0000 L CNN
 F 1 "4.7UF,1206" H 6350 1650 50  0000 L CNN
 F 2 "Capacitor_SMD:C_1206_3216Metric" H 6300 1700 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/kemet/T491A475K016AT/399-18027-1-ND/819022" H 6300 1700 50  0001 C CNN
@@ -352,8 +333,8 @@ L Aardonyx-rescue:R_US-aardonyx R?
 U 1 1 5EC50B98
 P 8000 2050
 AR Path="/5DB8A7DC/5EC50B98" Ref="R?"  Part="1" 
-AR Path="/5E6E93B2/5EC50B98" Ref="P_R49"  Part="1" 
-F 0 "P_R49" H 7750 2150 50  0000 L CNN
+AR Path="/5E6E93B2/5EC50B98" Ref="R138"  Part="1" 
+F 0 "R138" H 7750 2150 50  0000 L CNN
 F 1 "78.7KE,0805" H 8050 2150 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" V 8040 2040 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/panasonic-electronic-components/ERA-6AEB7872V/P78-7KDACT-ND/3075252" H 8000 2050 50  0001 C CNN
@@ -369,8 +350,8 @@ L Aardonyx-rescue:R_US-aardonyx R?
 U 1 1 5EC50B92
 P 8000 2450
 AR Path="/5DB8A7DC/5EC50B92" Ref="R?"  Part="1" 
-AR Path="/5E6E93B2/5EC50B92" Ref="P_R50"  Part="1" 
-F 0 "P_R50" H 8068 2496 50  0000 L CNN
+AR Path="/5E6E93B2/5EC50B92" Ref="R144"  Part="1" 
+F 0 "R144" H 8068 2496 50  0000 L CNN
 F 1 "30.1KE,0805" V 7900 2200 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" V 8040 2440 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/panasonic-electronic-components/ERA-6AEB3012V/P30-1KDACT-ND/3075076" H 8000 2450 50  0001 C CNN
@@ -401,8 +382,8 @@ L Aardonyx-rescue:C_Small-aardonyx C?
 U 1 1 5EC50B85
 P 8450 2100
 AR Path="/5DB8A7DC/5EC50B85" Ref="C?"  Part="1" 
-AR Path="/5E6E93B2/5EC50B85" Ref="C62"  Part="1" 
-F 0 "C62" H 8542 2146 50  0000 L CNN
+AR Path="/5E6E93B2/5EC50B85" Ref="C71"  Part="1" 
+F 0 "C71" H 8542 2146 50  0000 L CNN
 F 1 "10UF,1206" V 8350 1750 50  0000 L CNN
 F 2 "Capacitor_SMD:C_1206_3216Metric" H 8450 2100 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/kemet/C1206C106J3RACAUTO/399-15734-1-ND/7427614" H 8450 2100 50  0001 C CNN
@@ -433,8 +414,8 @@ L Device:LED_ALT D?
 U 1 1 5EC6670A
 P 10500 1800
 AR Path="/5DB8A7DC/5EC6670A" Ref="D?"  Part="1" 
-AR Path="/5E6E93B2/5EC6670A" Ref="D5"  Part="1" 
-F 0 "D5" V 10600 1750 50  0000 R CNN
+AR Path="/5E6E93B2/5EC6670A" Ref="D6"  Part="1" 
+F 0 "D6" V 10600 1750 50  0000 R CNN
 F 1 "LED,1206" V 10400 1650 50  0000 R CNN
 F 2 "LED_SMD:LED_0603_1608Metric" H 10500 1800 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/lumex-opto-components-inc/SML-LX1206GW-TR/67-1002-1-ND/270799" H 10500 1800 50  0001 C CNN
@@ -463,8 +444,8 @@ L Aardonyx-rescue:R_US-aardonyx R?
 U 1 1 5EC66716
 P 10500 1350
 AR Path="/5DB8A7DC/5EC66716" Ref="R?"  Part="1" 
-AR Path="/5E6E93B2/5EC66716" Ref="P_R56"  Part="1" 
-F 0 "P_R56" H 10550 1450 50  0000 L CNN
+AR Path="/5E6E93B2/5EC66716" Ref="R137"  Part="1" 
+F 0 "R137" H 10550 1450 50  0000 L CNN
 F 1 "120E,0402" H 10550 1300 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 10540 1340 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/yageo/RC1206JR-07120RL/311-120ERCT-ND/732162" H 10500 1350 50  0001 C CNN
@@ -486,8 +467,8 @@ L Aardonyx-rescue:R_US-aardonyx R?
 U 1 1 5ECF805D
 P 8550 5800
 AR Path="/5DB8A7DC/5ECF805D" Ref="R?"  Part="1" 
-AR Path="/5E6E93B2/5ECF805D" Ref="R48"  Part="1" 
-F 0 "R48" H 8618 5846 50  0000 L CNN
+AR Path="/5E6E93B2/5ECF805D" Ref="R50"  Part="1" 
+F 0 "R50" H 8618 5846 50  0000 L CNN
 F 1 "10KE,0402" H 8618 5755 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 8590 5790 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/koa-speer-electronics-inc/SG73S1ETTP103J/2019-SG73S1ETTP103JCT-ND/10280218" H 8550 5800 50  0001 C CNN
@@ -507,8 +488,8 @@ L Aardonyx-rescue:74AUP1G09GW-aardonyx U14
 U 1 1 5ED4950E
 P 9250 5300
 AR Path="/5ED4950E" Ref="U14"  Part="1" 
-AR Path="/5E6E93B2/5ED4950E" Ref="U14"  Part="1" 
-F 0 "U14" H 9150 5450 50  0000 C CNN
+AR Path="/5E6E93B2/5ED4950E" Ref="U7"  Part="1" 
+F 0 "U7" H 9150 5450 50  0000 C CNN
 F 1 "74AUP1G09GW" H 9550 5150 50  0000 C CNN
 F 2 "Package_TO_SOT_SMD:SOT-353_SC-70-5_Handsoldering" H 9250 5300 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/nexperia-usa-inc/74AUP1G09GW-125/1727-4492-1-ND/2530869" H 9250 5300 50  0001 C CNN
@@ -570,8 +551,8 @@ L Aardonyx-rescue:C_Small-aardonyx C?
 U 1 1 5ED5D11A
 P 8900 4750
 AR Path="/5DB8A7DC/5ED5D11A" Ref="C?"  Part="1" 
-AR Path="/5E6E93B2/5ED5D11A" Ref="C61"  Part="1" 
-F 0 "C61" H 8992 4796 50  0000 L CNN
+AR Path="/5E6E93B2/5ED5D11A" Ref="C47"  Part="1" 
+F 0 "C47" H 8992 4796 50  0000 L CNN
 F 1 "0.1UF,0402" H 8992 4705 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 8900 4750 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 8900 4750 50  0001 C CNN
@@ -609,8 +590,8 @@ L Aardonyx-rescue:R_US-aardonyx R?
 U 1 1 5ED6F07A
 P 10050 5300
 AR Path="/5DB8A7DC/5ED6F07A" Ref="R?"  Part="1" 
-AR Path="/5E6E93B2/5ED6F07A" Ref="R54"  Part="1" 
-F 0 "R54" V 10150 5250 50  0000 L CNN
+AR Path="/5E6E93B2/5ED6F07A" Ref="R46"  Part="1" 
+F 0 "R46" V 10150 5250 50  0000 L CNN
 F 1 "0E, 0402" V 9950 5300 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 10090 5290 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/vishay-dale/CRCW04020000Z0ED/541-0-0JCT-ND/1182611" H 10050 5300 50  0001 C CNN
@@ -626,8 +607,8 @@ L Aardonyx-rescue:R_US-aardonyx R?
 U 1 1 5ED71B3C
 P 10300 5000
 AR Path="/5DB8A7DC/5ED71B3C" Ref="R?"  Part="1" 
-AR Path="/5E6E93B2/5ED71B3C" Ref="R55"  Part="1" 
-F 0 "R55" H 10400 5150 50  0000 L CNN
+AR Path="/5E6E93B2/5ED71B3C" Ref="R45"  Part="1" 
+F 0 "R45" H 10400 5150 50  0000 L CNN
 F 1 "10KE,0402" H 10400 5050 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 10340 4990 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/koa-speer-electronics-inc/SG73S1ETTP103J/2019-SG73S1ETTP103JCT-ND/10280218" H 10300 5000 50  0001 C CNN
@@ -647,10 +628,10 @@ Wire Wire Line
 	10300 5300 10700 5300
 Connection ~ 10300 5300
 $Comp
-L Aardonyx-rescue:SW_DPST-aardonyx SW2
+L Aardonyx-rescue:SW_DPST-aardonyx SW1
 U 1 1 5ED8FAD8
 P 6550 5350
-F 0 "SW2" H 6600 5600 50  0000 C CNN
+F 0 "SW1" H 6600 5600 50  0000 C CNN
 F 1 "FSM2JSMAATR " H 6550 5100 50  0000 C CNN
 F 2 "Aardonyx:SW_PUSH_SPST_NO_4.5MM_7MM" H 6550 5350 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/te-connectivity-alcoswitch-switches/FSM2JSMAATR/450-1792-1-ND/3503931" H 6550 5350 50  0001 C CNN
@@ -699,8 +680,8 @@ L Aardonyx-rescue:R_US-aardonyx R?
 U 1 1 5EDCF57A
 P 7100 4950
 AR Path="/5DB8A7DC/5EDCF57A" Ref="R?"  Part="1" 
-AR Path="/5E6E93B2/5EDCF57A" Ref="R45"  Part="1" 
-F 0 "R45" H 7150 5100 50  0000 L CNN
+AR Path="/5E6E93B2/5EDCF57A" Ref="R63"  Part="1" 
+F 0 "R63" H 7150 5100 50  0000 L CNN
 F 1 "4.7KE,0402" H 7150 4950 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 7140 4940 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/yageo/RC0402JR-074K7L/311-4-7KJRCT-ND/726477" H 7100 4950 50  0001 C CNN
@@ -721,8 +702,8 @@ L Aardonyx-rescue:R_US-aardonyx R?
 U 1 1 5EDDABD4
 P 7350 5250
 AR Path="/5DB8A7DC/5EDDABD4" Ref="R?"  Part="1" 
-AR Path="/5E6E93B2/5EDDABD4" Ref="R46"  Part="1" 
-F 0 "R46" V 7450 5200 50  0000 L CNN
+AR Path="/5E6E93B2/5EDDABD4" Ref="R60"  Part="1" 
+F 0 "R60" V 7450 5200 50  0000 L CNN
 F 1 "1KE,0402" V 7250 5200 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 7390 5240 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/panasonic-electronic-components/ERJ-2GEJ102X/P1-0KJCT-ND/146897" H 7350 5250 50  0001 C CNN
@@ -740,8 +721,8 @@ L Aardonyx-rescue:C_Small-aardonyx C?
 U 1 1 5EDE585E
 P 7650 5500
 AR Path="/5DB8A7DC/5EDE585E" Ref="C?"  Part="1" 
-AR Path="/5E6E93B2/5EDE585E" Ref="C60"  Part="1" 
-F 0 "C60" H 7742 5546 50  0000 L CNN
+AR Path="/5E6E93B2/5EDE585E" Ref="C44"  Part="1" 
+F 0 "C44" H 7742 5546 50  0000 L CNN
 F 1 "0.1UF,0402" H 7742 5455 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 7650 5500 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 7650 5500 50  0001 C CNN
@@ -785,8 +766,8 @@ L Aardonyx-rescue:R_US-aardonyx R?
 U 1 1 5EE0CD3F
 P 8300 6200
 AR Path="/5DB8A7DC/5EE0CD3F" Ref="R?"  Part="1" 
-AR Path="/5E6E93B2/5EE0CD3F" Ref="R47"  Part="1" 
-F 0 "R47" V 8400 6150 50  0000 L CNN
+AR Path="/5E6E93B2/5EE0CD3F" Ref="R53"  Part="1" 
+F 0 "R53" V 8400 6150 50  0000 L CNN
 F 1 "0E, 0402" V 8200 6200 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 8340 6190 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/vishay-dale/CRCW04020000Z0ED/541-0-0JCT-ND/1182611" H 8300 6200 50  0001 C CNN
@@ -841,8 +822,8 @@ L Aardonyx-rescue:R_US-aardonyx R?
 U 1 1 5EC7E40B
 P 10000 2450
 AR Path="/5DB8A7DC/5EC7E40B" Ref="R?"  Part="1" 
-AR Path="/5E6E93B2/5EC7E40B" Ref="R41"  Part="1" 
-F 0 "R41" V 10100 2400 50  0000 L CNN
+AR Path="/5E6E93B2/5EC7E40B" Ref="R133"  Part="1" 
+F 0 "R133" V 10100 2400 50  0000 L CNN
 F 1 "1KE,0402" V 9900 2350 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 10040 2440 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/panasonic-electronic-components/ERJ-2GEJ102X/P1-0KJCT-ND/146897" H 10000 2450 50  0001 C CNN
@@ -858,8 +839,8 @@ L Aardonyx-rescue:R_US-aardonyx R?
 U 1 1 5EC80D82
 P 9700 2700
 AR Path="/5DB8A7DC/5EC80D82" Ref="R?"  Part="1" 
-AR Path="/5E6E93B2/5EC80D82" Ref="R40"  Part="1" 
-F 0 "R40" H 9768 2746 50  0000 L CNN
+AR Path="/5E6E93B2/5EC80D82" Ref="R131"  Part="1" 
+F 0 "R131" H 9768 2746 50  0000 L CNN
 F 1 "1KE,0402" H 9768 2655 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 9740 2690 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/panasonic-electronic-components/ERJ-2GEJ102X/P1-0KJCT-ND/146897" H 9700 2700 50  0001 C CNN
@@ -892,8 +873,8 @@ L Aardonyx-rescue:R_US-aardonyx P_R?
 U 1 1 5F47FAE4
 P 8650 1850
 AR Path="/5DB8A7DC/5F47FAE4" Ref="P_R?"  Part="1" 
-AR Path="/5E6E93B2/5F47FAE4" Ref="P_R2"  Part="1" 
-F 0 "P_R2" V 8600 1500 50  0000 L CNN
+AR Path="/5E6E93B2/5F47FAE4" Ref="R134"  Part="1" 
+F 0 "R134" V 8600 1500 50  0000 L CNN
 F 1 "0.02E,2512" V 8700 2000 50  0000 L CNN
 F 2 "Resistor_SMD:R_2512_6332Metric" V 8690 1840 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/PA2512FKF7W0R002E/YAG2142CT-ND/5139590" H 8650 1850 50  0001 C CNN
@@ -912,8 +893,8 @@ L Aardonyx-rescue:R_US-aardonyx P_R?
 U 1 1 5F499A38
 P 4050 1650
 AR Path="/5DB8A7DC/5F499A38" Ref="P_R?"  Part="1" 
-AR Path="/5E6E93B2/5F499A38" Ref="P_R1"  Part="1" 
-F 0 "P_R1" V 4000 1300 50  0000 L CNN
+AR Path="/5E6E93B2/5F499A38" Ref="R150"  Part="1" 
+F 0 "R150" V 4000 1300 50  0000 L CNN
 F 1 "0.02E,2512" V 4100 1800 50  0000 L CNN
 F 2 "Resistor_SMD:R_2512_6332Metric" V 4090 1640 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/PA2512FKF7W0R002E/YAG2142CT-ND/5139590" H 4050 1650 50  0001 C CNN
@@ -940,8 +921,8 @@ L Aardonyx-rescue:C_Small-aardonyx C?
 U 1 1 5EF66C33
 P 4950 5700
 AR Path="/5DB8A7DC/5EF66C33" Ref="C?"  Part="1" 
-AR Path="/5E6E93B2/5EF66C33" Ref="C93"  Part="1" 
-F 0 "C93" H 5042 5746 50  0000 L CNN
+AR Path="/5E6E93B2/5EF66C33" Ref="C56"  Part="1" 
+F 0 "C56" H 5042 5746 50  0000 L CNN
 F 1 "0.1UF,0402" H 5042 5655 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 4950 5700 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 4950 5700 50  0001 C CNN
@@ -972,8 +953,8 @@ L Aardonyx-rescue:C_Small-aardonyx C?
 U 1 1 5EF6BD45
 P 4350 5650
 AR Path="/5DB8A7DC/5EF6BD45" Ref="C?"  Part="1" 
-AR Path="/5E6E93B2/5EF6BD45" Ref="C94"  Part="1" 
-F 0 "C94" H 4442 5696 50  0000 L CNN
+AR Path="/5E6E93B2/5EF6BD45" Ref="C55"  Part="1" 
+F 0 "C55" H 4442 5696 50  0000 L CNN
 F 1 "0.1UF,0402" H 4442 5605 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 4350 5650 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 4350 5650 50  0001 C CNN
@@ -1000,10 +981,10 @@ $EndComp
 Wire Wire Line
 	4350 5750 4350 5800
 $Comp
-L Aardonyx-rescue:ADM1186 U11
+L Aardonyx-rescue:ADM1186 U10
 U 1 1 5EF5A16B
 P 3200 4900
-F 0 "U11" H 3225 6015 50  0000 C CNN
+F 0 "U10" H 3225 6015 50  0000 C CNN
 F 1 "ADM1186" H 3225 5924 50  0000 C CNN
 F 2 "Package_SO:QSOP-16_3.9x4.9mm_P0.635mm" H 3200 4900 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/analog-devices-inc/ADM1186-2ARQZ/ADM1186-2ARQZ-ND/1873703" H 3200 4900 50  0001 C CNN
@@ -1044,8 +1025,8 @@ L Aardonyx-rescue:C_Small-aardonyx C?
 U 1 1 5EFCC931
 P 2450 5550
 AR Path="/5DB8A7DC/5EFCC931" Ref="C?"  Part="1" 
-AR Path="/5E6E93B2/5EFCC931" Ref="C96"  Part="1" 
-F 0 "C96" H 2542 5596 50  0000 L CNN
+AR Path="/5E6E93B2/5EFCC931" Ref="C64"  Part="1" 
+F 0 "C64" H 2542 5596 50  0000 L CNN
 F 1 "0.1UF,0402" V 2350 5350 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 2450 5550 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 2450 5550 50  0001 C CNN
@@ -1076,8 +1057,8 @@ L Aardonyx-rescue:C_Small-aardonyx C?
 U 1 1 5EFD2707
 P 1250 5550
 AR Path="/5DB8A7DC/5EFD2707" Ref="C?"  Part="1" 
-AR Path="/5E6E93B2/5EFD2707" Ref="C58"  Part="1" 
-F 0 "C58" H 1342 5596 50  0000 L CNN
+AR Path="/5E6E93B2/5EFD2707" Ref="C61"  Part="1" 
+F 0 "C61" H 1342 5596 50  0000 L CNN
 F 1 "0.1UF,0402" V 1100 5400 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1250 5550 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 1250 5550 50  0001 C CNN
@@ -1108,8 +1089,8 @@ L Aardonyx-rescue:C_Small-aardonyx C?
 U 1 1 5EFD81D3
 P 1600 5550
 AR Path="/5DB8A7DC/5EFD81D3" Ref="C?"  Part="1" 
-AR Path="/5E6E93B2/5EFD81D3" Ref="C85"  Part="1" 
-F 0 "C85" H 1692 5596 50  0000 L CNN
+AR Path="/5E6E93B2/5EFD81D3" Ref="C62"  Part="1" 
+F 0 "C62" H 1692 5596 50  0000 L CNN
 F 1 "0.1UF,0402" V 1500 5400 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1600 5550 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 1600 5550 50  0001 C CNN
@@ -1140,8 +1121,8 @@ L Aardonyx-rescue:C_Small-aardonyx C?
 U 1 1 5EFDDD96
 P 1950 5550
 AR Path="/5DB8A7DC/5EFDDD96" Ref="C?"  Part="1" 
-AR Path="/5E6E93B2/5EFDDD96" Ref="C95"  Part="1" 
-F 0 "C95" H 2042 5596 50  0000 L CNN
+AR Path="/5E6E93B2/5EFDDD96" Ref="C63"  Part="1" 
+F 0 "C63" H 2042 5596 50  0000 L CNN
 F 1 "0.1UF,0402" V 1800 5400 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1950 5550 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 1950 5550 50  0001 C CNN
@@ -1193,8 +1174,8 @@ L Aardonyx-rescue:C_Small-aardonyx C?
 U 1 1 5F03E6B3
 P 850 5550
 AR Path="/5DB8A7DC/5F03E6B3" Ref="C?"  Part="1" 
-AR Path="/5E6E93B2/5F03E6B3" Ref="C57"  Part="1" 
-F 0 "C57" H 942 5596 50  0000 L CNN
+AR Path="/5E6E93B2/5F03E6B3" Ref="C60"  Part="1" 
+F 0 "C60" H 942 5596 50  0000 L CNN
 F 1 "0.1UF,0402" V 700 5400 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 850 5550 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 850 5550 50  0001 C CNN
@@ -1225,8 +1206,8 @@ L Aardonyx-rescue:R_US-aardonyx R?
 U 1 1 5F05EE2B
 P 1900 6700
 AR Path="/5DB8A7DC/5F05EE2B" Ref="R?"  Part="1" 
-AR Path="/5E6E93B2/5F05EE2B" Ref="R133"  Part="1" 
-F 0 "R133" V 2000 6650 50  0000 L CNN
+AR Path="/5E6E93B2/5F05EE2B" Ref="R118"  Part="1" 
+F 0 "R118" V 2000 6650 50  0000 L CNN
 F 1 "4.7KE,0402" V 1800 6700 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 1940 6690 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/yageo/RC0402JR-074K7L/311-4-7KJRCT-ND/726477" H 1900 6700 50  0001 C CNN
@@ -1242,8 +1223,8 @@ L Aardonyx-rescue:R_US-aardonyx R?
 U 1 1 5F0605C9
 P 1900 7250
 AR Path="/5DB8A7DC/5F0605C9" Ref="R?"  Part="1" 
-AR Path="/5E6E93B2/5F0605C9" Ref="R134"  Part="1" 
-F 0 "R134" V 2000 7200 50  0000 L CNN
+AR Path="/5E6E93B2/5F0605C9" Ref="R116"  Part="1" 
+F 0 "R116" V 2000 7200 50  0000 L CNN
 F 1 "1.2kE, 0402" V 1800 7250 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 1940 7240 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RT0402DRE071K2L/311-2241-1-ND/6128660" H 1900 7250 50  0001 C CNN
@@ -1272,8 +1253,8 @@ L Aardonyx-rescue:R_US-aardonyx R?
 U 1 1 5F0935FD
 P 1100 6750
 AR Path="/5DB8A7DC/5F0935FD" Ref="R?"  Part="1" 
-AR Path="/5E6E93B2/5F0935FD" Ref="R53"  Part="1" 
-F 0 "R53" V 1200 6700 50  0000 L CNN
+AR Path="/5E6E93B2/5F0935FD" Ref="R106"  Part="1" 
+F 0 "R106" V 1200 6700 50  0000 L CNN
 F 1 "4.7KE,0402" V 1000 6750 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 1140 6740 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/yageo/RC0402JR-074K7L/311-4-7KJRCT-ND/726477" H 1100 6750 50  0001 C CNN
@@ -1289,8 +1270,8 @@ L Aardonyx-rescue:R_US-aardonyx R?
 U 1 1 5F093607
 P 1100 7300
 AR Path="/5DB8A7DC/5F093607" Ref="R?"  Part="1" 
-AR Path="/5E6E93B2/5F093607" Ref="R56"  Part="1" 
-F 0 "R56" V 1200 7250 50  0000 L CNN
+AR Path="/5E6E93B2/5F093607" Ref="R107"  Part="1" 
+F 0 "R107" V 1200 7250 50  0000 L CNN
 F 1 "3.3kE, 0402" V 1000 7300 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 1140 7290 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402JR-073K3L/311-3-3KJRCT-ND/729403" H 1100 7300 50  0001 C CNN
@@ -1323,8 +1304,8 @@ L Aardonyx-rescue:R_US-aardonyx R?
 U 1 1 5F10DD01
 P 4800 4250
 AR Path="/5DB8A7DC/5F10DD01" Ref="R?"  Part="1" 
-AR Path="/5E6E93B2/5F10DD01" Ref="R138"  Part="1" 
-F 0 "R138" V 4750 4400 50  0000 L CNN
+AR Path="/5E6E93B2/5F10DD01" Ref="R109"  Part="1" 
+F 0 "R109" V 4750 4400 50  0000 L CNN
 F 1 "10KE,0402" V 4868 4205 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4840 4240 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/koa-speer-electronics-inc/SG73S1ETTP103J/2019-SG73S1ETTP103JCT-ND/10280218" H 4800 4250 50  0001 C CNN
@@ -1340,8 +1321,8 @@ L Aardonyx-rescue:R_US-aardonyx R?
 U 1 1 5F113ABC
 P 5000 6800
 AR Path="/5DB8A7DC/5F113ABC" Ref="R?"  Part="1" 
-AR Path="/5E6E93B2/5F113ABC" Ref="R140"  Part="1" 
-F 0 "R140" V 4950 6950 50  0000 L CNN
+AR Path="/5E6E93B2/5F113ABC" Ref="R119"  Part="1" 
+F 0 "R119" V 4950 6950 50  0000 L CNN
 F 1 "10KE,0402" V 5068 6755 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 5040 6790 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/koa-speer-electronics-inc/SG73S1ETTP103J/2019-SG73S1ETTP103JCT-ND/10280218" H 5000 6800 50  0001 C CNN
@@ -1357,8 +1338,8 @@ L Aardonyx-rescue:R_US-aardonyx R?
 U 1 1 5F119D12
 P 4950 6450
 AR Path="/5DB8A7DC/5F119D12" Ref="R?"  Part="1" 
-AR Path="/5E6E93B2/5F119D12" Ref="R139"  Part="1" 
-F 0 "R139" V 4900 6600 50  0000 L CNN
+AR Path="/5E6E93B2/5F119D12" Ref="R117"  Part="1" 
+F 0 "R117" V 4900 6600 50  0000 L CNN
 F 1 "10KE,0402" V 5018 6405 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4990 6440 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/koa-speer-electronics-inc/SG73S1ETTP103J/2019-SG73S1ETTP103JCT-ND/10280218" H 4950 6450 50  0001 C CNN
@@ -1374,8 +1355,8 @@ L Aardonyx-rescue:R_US-aardonyx R?
 U 1 1 5F11FDAC
 P 5000 7150
 AR Path="/5DB8A7DC/5F11FDAC" Ref="R?"  Part="1" 
-AR Path="/5E6E93B2/5F11FDAC" Ref="R141"  Part="1" 
-F 0 "R141" V 4950 7300 50  0000 L CNN
+AR Path="/5E6E93B2/5F11FDAC" Ref="R122"  Part="1" 
+F 0 "R122" V 4950 7300 50  0000 L CNN
 F 1 "10KE,0402" V 5068 7105 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 5040 7140 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/koa-speer-electronics-inc/SG73S1ETTP103J/2019-SG73S1ETTP103JCT-ND/10280218" H 5000 7150 50  0001 C CNN
@@ -1391,8 +1372,8 @@ L Aardonyx-rescue:R_US-aardonyx R?
 U 1 1 5F142CB9
 P 4800 4000
 AR Path="/5DB8A7DC/5F142CB9" Ref="R?"  Part="1" 
-AR Path="/5E6E93B2/5F142CB9" Ref="R137"  Part="1" 
-F 0 "R137" V 4750 4150 50  0000 L CNN
+AR Path="/5E6E93B2/5F142CB9" Ref="R108"  Part="1" 
+F 0 "R108" V 4750 4150 50  0000 L CNN
 F 1 "10KE,0402" V 4868 3955 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4840 3990 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/koa-speer-electronics-inc/SG73S1ETTP103J/2019-SG73S1ETTP103JCT-ND/10280218" H 4800 4000 50  0001 C CNN
@@ -1493,8 +1474,8 @@ L Aardonyx-rescue:R_US-aardonyx R?
 U 1 1 5F2A4D05
 P 2700 7250
 AR Path="/5DB8A7DC/5F2A4D05" Ref="R?"  Part="1" 
-AR Path="/5E6E93B2/5F2A4D05" Ref="R136"  Part="1" 
-F 0 "R136" V 2800 7200 50  0000 L CNN
+AR Path="/5E6E93B2/5F2A4D05" Ref="R128"  Part="1" 
+F 0 "R128" V 2800 7200 50  0000 L CNN
 F 1 "4.7KE,0402" V 2600 7250 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 2740 7240 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/yageo/RC0402JR-074K7L/311-4-7KJRCT-ND/726477" H 2700 7250 50  0001 C CNN
@@ -1510,8 +1491,8 @@ L Aardonyx-rescue:R_US-aardonyx R?
 U 1 1 5F2A4D0F
 P 2700 6700
 AR Path="/5DB8A7DC/5F2A4D0F" Ref="R?"  Part="1" 
-AR Path="/5E6E93B2/5F2A4D0F" Ref="R135"  Part="1" 
-F 0 "R135" V 2800 6650 50  0000 L CNN
+AR Path="/5E6E93B2/5F2A4D0F" Ref="R127"  Part="1" 
+F 0 "R127" V 2800 6650 50  0000 L CNN
 F 1 "1.2kE, 0402" V 2600 6700 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 2740 6690 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RT0402DRE071K2L/311-2241-1-ND/6128660" H 2700 6700 50  0001 C CNN
@@ -1842,4 +1823,74 @@ Wire Wire Line
 Connection ~ 5600 6800
 Wire Wire Line
 	5600 6800 5600 6450
+Wire Wire Line
+	2400 2500 2400 2550
+Wire Wire Line
+	2400 2550 2300 2550
+Connection ~ 2300 2550
+Wire Wire Line
+	2300 2550 2300 2600
+Wire Wire Line
+	7400 2700 7400 2750
+Wire Wire Line
+	7400 2750 7300 2750
+Connection ~ 7300 2750
+Wire Wire Line
+	7300 2750 7300 2800
+Wire Wire Line
+	1650 1350 1650 1650
+$Comp
+L Aardonyx-rescue:TPS7A7002DDAR-aardonyx U15
+U 1 1 5EC15037
+P 2300 1950
+F 0 "U15" H 2300 2565 50  0000 C CNN
+F 1 "TPS7A7002DDAR" H 2300 2474 50  0000 C CNN
+F 2 "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm_ThermalVias" H 2300 1950 50  0001 C CNN
+F 3 "https://www.digikey.in/product-detail/en/texas-instruments/TPS7A7002DDAR/296-40977-1-ND/5178854" H 2300 1950 50  0001 C CNN
+F 4 "IC REG LIN POS ADJ 3A 8SO PWRPAD" H 2300 1950 50  0001 C CNN "Description"
+F 5 "296-40977-1-ND" H 2300 1950 50  0001 C CNN "Digikey PartNumber"
+F 6 "TPS7A7002DDAR" H 2300 1950 50  0001 C CNN "Manufactured Part Number"
+F 7 "Texas Instruments" H 2300 1950 50  0001 C CNN "Maufaturer"
+	1    2300 1950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1650 1650 1850 1650
+Connection ~ 1650 1650
+Wire Wire Line
+	1650 1650 1650 1850
+Wire Wire Line
+	1850 2250 1700 2250
+Wire Wire Line
+	1700 2250 1700 2550
+Wire Wire Line
+	1700 2550 2300 2550
+Wire Wire Line
+	2750 1800 2900 1800
+Wire Wire Line
+	2900 1800 2900 1650
+Connection ~ 2900 1650
+Wire Wire Line
+	2900 1650 3000 1650
+Wire Wire Line
+	7750 2000 7850 2000
+Wire Wire Line
+	7850 2000 7850 1850
+Wire Wire Line
+	7750 1850 7850 1850
+Connection ~ 7850 1850
+Wire Wire Line
+	7850 1850 8000 1850
+Wire Wire Line
+	7300 2750 6700 2750
+Wire Wire Line
+	6700 2750 6700 2450
+Wire Wire Line
+	6700 2450 6850 2450
+Wire Wire Line
+	6850 1850 6650 1850
+Connection ~ 6650 1850
+Wire Wire Line
+	6650 1850 6650 2050
+Connection ~ 9700 2450
 $EndSCHEMATC

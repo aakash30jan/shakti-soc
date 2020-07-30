@@ -14,10 +14,10 @@ Comment3 "SKT32E - Clock Multiplier"
 Comment4 "SKT32E - SDRAM Interface"
 $EndDescr
 $Comp
-L Aardonyx-rescue:IS42S32160F-TSOP2-aardonyx U2
+L Aardonyx-rescue:IS42S32160F-TSOP2-aardonyx U3
 U 1 1 5DB67858
 P 3100 4800
-F 0 "U2" H 2350 6950 50  0000 C CNN
+F 0 "U3" H 2350 6950 50  0000 C CNN
 F 1 "IS42S32160F-TSOP2" H 3050 4800 50  0000 C CNN
 F 2 "Aardonyx:TSSOP-II-86_10.16x22.2mm_P0.5mm" H 3100 4950 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/issi-integrated-silicon-solution-inc/IS42S32160F-7TLI/706-1417-5-ND/5319838" H 3100 4950 50  0001 C CNN
@@ -255,10 +255,10 @@ Wire Wire Line
 Wire Wire Line
 	1650 3150 2100 3150
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C18
+L Aardonyx-rescue:C_Small-aardonyx C12
 U 1 1 5DBB071C
 P 1650 1400
-F 0 "C18" H 1650 1500 50  0000 L CNN
+F 0 "C12" H 1650 1500 50  0000 L CNN
 F 1 "0.1UF,0402" V 1600 900 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1650 1400 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 1650 1400 50  0001 C CNN
@@ -270,10 +270,10 @@ F 7 "AVX Corporation" H 1650 1400 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C19
+L Aardonyx-rescue:C_Small-aardonyx C14
 U 1 1 5DBD6F2F
 P 1900 1400
-F 0 "C19" H 1900 1500 50  0000 L CNN
+F 0 "C14" H 1900 1500 50  0000 L CNN
 F 1 "0.1UF,0402" V 1850 900 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1900 1400 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 1900 1400 50  0001 C CNN
@@ -285,10 +285,10 @@ F 7 "AVX Corporation" H 1900 1400 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C20
+L Aardonyx-rescue:C_Small-aardonyx C18
 U 1 1 5DBDAFB5
 P 2150 1400
-F 0 "C20" H 2150 1500 50  0000 L CNN
+F 0 "C18" H 2150 1500 50  0000 L CNN
 F 1 "0.1UF,0402" V 2100 900 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 2150 1400 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 2150 1400 50  0001 C CNN
@@ -300,10 +300,10 @@ F 7 "AVX Corporation" H 2150 1400 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C21
+L Aardonyx-rescue:C_Small-aardonyx C26
 U 1 1 5DBE0332
 P 2400 1400
-F 0 "C21" H 2400 1500 50  0000 L CNN
+F 0 "C26" H 2400 1500 50  0000 L CNN
 F 1 "0.1UF,0402" V 2350 900 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 2400 1400 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 2400 1400 50  0001 C CNN
@@ -315,10 +315,10 @@ F 7 "AVX Corporation" H 2400 1400 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C22
+L Aardonyx-rescue:C_Small-aardonyx C35
 U 1 1 5DBE0338
 P 2650 1400
-F 0 "C22" H 2650 1500 50  0000 L CNN
+F 0 "C35" H 2650 1500 50  0000 L CNN
 F 1 "0.1UF,0402" V 2600 900 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 2650 1400 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 2650 1400 50  0001 C CNN
@@ -330,10 +330,10 @@ F 7 "AVX Corporation" H 2650 1400 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C23
+L Aardonyx-rescue:C_Small-aardonyx C43
 U 1 1 5DBE033E
 P 2900 1400
-F 0 "C23" H 2900 1500 50  0000 L CNN
+F 0 "C43" H 2900 1500 50  0000 L CNN
 F 1 "0.1UF,0402" V 2850 900 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 2900 1400 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 2900 1400 50  0001 C CNN
@@ -345,10 +345,10 @@ F 7 "AVX Corporation" H 2900 1400 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C24
+L Aardonyx-rescue:C_Small-aardonyx C45
 U 1 1 5DBE55EF
 P 3150 1400
-F 0 "C24" H 3150 1500 50  0000 L CNN
+F 0 "C45" H 3150 1500 50  0000 L CNN
 F 1 "0.1UF,0402" V 3100 950 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 3150 1400 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 3150 1400 50  0001 C CNN
@@ -360,10 +360,10 @@ F 7 "AVX Corporation" H 3150 1400 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C25
+L Aardonyx-rescue:C_Small-aardonyx C38
 U 1 1 5DBE55F5
 P 3400 1400
-F 0 "C25" H 3400 1500 50  0000 L CNN
+F 0 "C38" H 3400 1500 50  0000 L CNN
 F 1 "0.1UF,0402" V 3350 950 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 3400 1400 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 3400 1400 50  0001 C CNN
@@ -375,10 +375,10 @@ F 7 "AVX Corporation" H 3400 1400 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C26
+L Aardonyx-rescue:C_Small-aardonyx C36
 U 1 1 5DBE55FB
 P 3650 1400
-F 0 "C26" H 3650 1500 50  0000 L CNN
+F 0 "C36" H 3650 1500 50  0000 L CNN
 F 1 "0.1UF,0402" V 3600 950 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 3650 1400 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 3650 1400 50  0001 C CNN
@@ -390,10 +390,10 @@ F 7 "AVX Corporation" H 3650 1400 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C27
+L Aardonyx-rescue:C_Small-aardonyx C21
 U 1 1 5DBE5601
 P 3900 1400
-F 0 "C27" H 3900 1500 50  0000 L CNN
+F 0 "C21" H 3900 1500 50  0000 L CNN
 F 1 "0.1UF,0402" V 3850 950 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 3900 1400 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 3900 1400 50  0001 C CNN
@@ -405,10 +405,10 @@ F 7 "AVX Corporation" H 3900 1400 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C28
+L Aardonyx-rescue:C_Small-aardonyx C15
 U 1 1 5DBE5607
 P 4150 1400
-F 0 "C28" H 4150 1500 50  0000 L CNN
+F 0 "C15" H 4150 1500 50  0000 L CNN
 F 1 "0.1UF,0402" V 4100 950 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 4150 1400 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 4150 1400 50  0001 C CNN
@@ -420,10 +420,10 @@ F 7 "AVX Corporation" H 4150 1400 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C29
+L Aardonyx-rescue:C_Small-aardonyx C40
 U 1 1 5DBE560D
 P 4400 1400
-F 0 "C29" H 4400 1500 50  0000 L CNN
+F 0 "C40" H 4400 1500 50  0000 L CNN
 F 1 "0.1UF,0402" V 4500 1000 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 4400 1400 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 4400 1400 50  0001 C CNN
@@ -700,8 +700,8 @@ L Aardonyx-rescue:R_US-aardonyx R?
 U 1 1 5EFB4D01
 P 7150 2200
 AR Path="/5D8B3740/5EFB4D01" Ref="R?"  Part="1" 
-AR Path="/5D8B37B8/5EFB4D01" Ref="R20"  Part="1" 
-F 0 "R20" H 7050 2400 50  0000 L CNN
+AR Path="/5D8B37B8/5EFB4D01" Ref="R2"  Part="1" 
+F 0 "R2" H 7050 2400 50  0000 L CNN
 F 1 "4.7KE,0402" V 7050 1900 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 7190 2190 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/yageo/RC0402JR-074K7L/311-4-7KJRCT-ND/726477" H 7150 2200 50  0001 C CNN
@@ -717,8 +717,8 @@ L Aardonyx-rescue:R_US-aardonyx R?
 U 1 1 5EFB4D07
 P 6850 2200
 AR Path="/5D8B3740/5EFB4D07" Ref="R?"  Part="1" 
-AR Path="/5D8B37B8/5EFB4D07" Ref="R19"  Part="1" 
-F 0 "R19" H 6850 2350 50  0000 L CNN
+AR Path="/5D8B37B8/5EFB4D07" Ref="R1"  Part="1" 
+F 0 "R1" H 6850 2350 50  0000 L CNN
 F 1 "4.7KE,0402" V 6750 1900 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 6890 2190 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/yageo/RC0402JR-074K7L/311-4-7KJRCT-ND/726477" H 6850 2200 50  0001 C CNN
@@ -734,8 +734,8 @@ L Aardonyx-rescue:Crystal-aardonyx Y?
 U 1 1 5EFB4D0D
 P 8750 1350
 AR Path="/5D8B3740/5EFB4D0D" Ref="Y?"  Part="1" 
-AR Path="/5D8B37B8/5EFB4D0D" Ref="Y2"  Part="1" 
-F 0 "Y2" H 8750 1200 50  0000 L CNN
+AR Path="/5D8B37B8/5EFB4D0D" Ref="Y1"  Part="1" 
+F 0 "Y1" H 8750 1200 50  0000 L CNN
 F 1 "27MHz" H 8650 1500 50  0000 L CNN
 F 2 "Aardonyx:Crystal_SMD_ROHS_CSM_7XDN_HandSoldering" H 8750 1350 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/ecs-inc/ECS-270-18-5PX-F-TR/XC1002CT-ND/813243" H 8750 1350 50  0001 C CNN
@@ -751,8 +751,8 @@ L Aardonyx-rescue:C_Small-aardonyx C?
 U 1 1 5EFB4D13
 P 10000 2000
 AR Path="/5D8B3740/5EFB4D13" Ref="C?"  Part="1" 
-AR Path="/5D8B37B8/5EFB4D13" Ref="C31"  Part="1" 
-F 0 "C31" V 10050 2050 50  0000 L CNN
+AR Path="/5D8B37B8/5EFB4D13" Ref="C27"  Part="1" 
+F 0 "C27" V 10050 2050 50  0000 L CNN
 F 1 "0.1UF,0402" V 9950 1650 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 10000 2000 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 10000 2000 50  0001 C CNN
@@ -768,8 +768,8 @@ L Aardonyx-rescue:C_Small-aardonyx C?
 U 1 1 5EFB4D19
 P 10250 2000
 AR Path="/5D8B3740/5EFB4D19" Ref="C?"  Part="1" 
-AR Path="/5D8B37B8/5EFB4D19" Ref="C32"  Part="1" 
-F 0 "C32" V 10200 2000 50  0000 L CNN
+AR Path="/5D8B37B8/5EFB4D19" Ref="C28"  Part="1" 
+F 0 "C28" V 10200 2000 50  0000 L CNN
 F 1 "0.1UF,0402" V 10300 1650 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 10250 2000 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 10250 2000 50  0001 C CNN
@@ -793,10 +793,10 @@ Wire Wire Line
 	7150 1950 7150 2050
 Text Label 10200 2600 0    50   ~ 0
 CLK
-Text Notes 7300 900  0    200  ~ 40
+Text Notes 10050 850  2    200  ~ 40
 CLOCK MULTIPLIER\n
 Wire Wire Line
-	8600 1350 7850 1350
+	8600 1350 8050 1350
 Wire Wire Line
 	7850 1350 7850 1700
 Wire Wire Line
@@ -881,8 +881,8 @@ L Aardonyx-rescue:R_US-aardonyx R?
 U 1 1 5EFB4D80
 P 9950 2600
 AR Path="/5D8B3740/5EFB4D80" Ref="R?"  Part="1" 
-AR Path="/5D8B37B8/5EFB4D80" Ref="R24"  Part="1" 
-F 0 "R24" V 9900 2450 50  0000 C CNN
+AR Path="/5D8B37B8/5EFB4D80" Ref="R35"  Part="1" 
+F 0 "R35" V 9900 2450 50  0000 C CNN
 F 1 "22E,0402" V 10000 2850 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 9990 2590 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 9950 2600 50  0001 C CNN
@@ -900,8 +900,8 @@ L Aardonyx-rescue:R_US-aardonyx R?
 U 1 1 5F80E136
 P 7400 2200
 AR Path="/5D8B3740/5F80E136" Ref="R?"  Part="1" 
-AR Path="/5D8B37B8/5F80E136" Ref="R21"  Part="1" 
-F 0 "R21" H 7400 2350 50  0000 L CNN
+AR Path="/5D8B37B8/5F80E136" Ref="R28"  Part="1" 
+F 0 "R28" H 7400 2350 50  0000 L CNN
 F 1 "4.7KE,0402" V 7300 1900 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 7440 2190 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/yageo/RC0402JR-074K7L/311-4-7KJRCT-ND/726477" H 7400 2200 50  0001 C CNN
@@ -924,8 +924,8 @@ L Aardonyx-rescue:R_US-aardonyx R?
 U 1 1 5F82D0FE
 P 7650 2800
 AR Path="/5D8B3740/5F82D0FE" Ref="R?"  Part="1" 
-AR Path="/5D8B37B8/5F82D0FE" Ref="R23"  Part="1" 
-F 0 "R23" H 7450 2800 50  0000 L CNN
+AR Path="/5D8B37B8/5F82D0FE" Ref="R29"  Part="1" 
+F 0 "R29" H 7450 2800 50  0000 L CNN
 F 1 "4.7KE,0402" H 7650 2700 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 7690 2790 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/yageo/RC0402JR-074K7L/311-4-7KJRCT-ND/726477" H 7650 2800 50  0001 C CNN
@@ -968,8 +968,8 @@ L Aardonyx-rescue:R_US-aardonyx R?
 U 1 1 5F8A4363
 P 7650 2000
 AR Path="/5D8B3740/5F8A4363" Ref="R?"  Part="1" 
-AR Path="/5D8B37B8/5F8A4363" Ref="R22"  Part="1" 
-F 0 "R22" H 7650 2150 50  0000 L CNN
+AR Path="/5D8B37B8/5F8A4363" Ref="R32"  Part="1" 
+F 0 "R32" H 7650 2150 50  0000 L CNN
 F 1 "4.7KE,0402" H 7700 1950 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 7690 1990 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/yageo/RC0402JR-074K7L/311-4-7KJRCT-ND/726477" H 7650 2000 50  0001 C CNN
@@ -1013,8 +1013,8 @@ L Aardonyx-rescue:C_Small-aardonyx C?
 U 1 1 5F8E5F7E
 P 7450 1550
 AR Path="/5D8B3740/5F8E5F7E" Ref="C?"  Part="1" 
-AR Path="/5D8B37B8/5F8E5F7E" Ref="C30"  Part="1" 
-F 0 "C30" H 7450 1650 50  0000 L CNN
+AR Path="/5D8B37B8/5F8E5F7E" Ref="C23"  Part="1" 
+F 0 "C23" H 7450 1650 50  0000 L CNN
 F 1 "0.1UF,0402" V 7550 1150 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 7450 1550 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 7450 1550 50  0001 C CNN
@@ -1153,10 +1153,10 @@ SDRAM_BA1
 Text HLabel 1650 3900 0    50   Input ~ 0
 SDRAM_BA0
 $Comp
-L Aardonyx-rescue:Conn_01x04-aardonyx J4
+L Aardonyx-rescue:Conn_01x04-aardonyx J1
 U 1 1 63AEA5D7
 P 6350 2450
-F 0 "J4" H 6430 2442 50  0000 L CNN
+F 0 "J1" H 6430 2442 50  0000 L CNN
 F 1 "Conn_1x4" H 6200 2100 50  0000 L CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 6350 2450 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/amphenol-icc-fci/68000-404HLF/609-3262-ND/1878463" H 6350 2450 50  0001 C CNN
@@ -1300,8 +1300,8 @@ L Aardonyx-rescue:R_US-aardonyx R?
 U 1 1 5EF94816
 P 9950 2800
 AR Path="/5D8B3740/5EF94816" Ref="R?"  Part="1" 
-AR Path="/5D8B37B8/5EF94816" Ref="R26"  Part="1" 
-F 0 "R26" V 9900 2650 50  0000 C CNN
+AR Path="/5D8B37B8/5EF94816" Ref="R39"  Part="1" 
+F 0 "R39" V 9900 2650 50  0000 C CNN
 F 1 "22E,0402" V 10000 3050 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 9990 2790 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 9950 2800 50  0001 C CNN
@@ -1317,8 +1317,8 @@ L Aardonyx-rescue:R_US-aardonyx R?
 U 1 1 5EF96060
 P 9950 2700
 AR Path="/5D8B3740/5EF96060" Ref="R?"  Part="1" 
-AR Path="/5D8B37B8/5EF96060" Ref="R25"  Part="1" 
-F 0 "R25" V 9900 2550 50  0000 C CNN
+AR Path="/5D8B37B8/5EF96060" Ref="R36"  Part="1" 
+F 0 "R36" V 9900 2550 50  0000 C CNN
 F 1 "22E,0402" V 10000 2950 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 9990 2690 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/yageo/RC0402FR-0722RL/311-22-0LRCT-ND/729509" H 9950 2700 50  0001 C CNN
@@ -1355,8 +1355,8 @@ L Aardonyx-rescue:CDCE913PW-skt32e_asic U3
 U 1 1 5ED5EB9F
 P 8750 2200
 AR Path="/5ED5EB9F" Ref="U3"  Part="1" 
-AR Path="/5D8B37B8/5ED5EB9F" Ref="U3"  Part="1" 
-F 0 "U3" H 8750 2970 50  0000 C CNN
+AR Path="/5D8B37B8/5ED5EB9F" Ref="U5"  Part="1" 
+F 0 "U5" H 8250 2850 50  0000 C CNN
 F 1 "CDCE913PW" H 9100 2850 50  0000 C CNN
 F 2 "Package_SO:TSSOP-14_4.4x5mm_P0.65mm" H 8900 2000 50  0001 L BNN
 F 3 "https://www.digikey.com/product-detail/en/texas-instruments/CDCE913PWR/296-38908-1-ND/5143014" H 8750 2200 50  0001 L BNN
@@ -1372,10 +1372,10 @@ F 11 "Texas Instruments" H 8750 2200 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:SKT32E-skt32e_asic U15
+L Aardonyx-rescue:SKT32E-skt32e_asic U2
 U 4 1 5ED60D0C
 P 9100 4500
-F 0 "U15" V 8200 5950 50  0000 R CNN
+F 0 "U2" V 8200 5950 50  0000 R CNN
 F 1 "SKT32E" V 9100 4000 50  0000 R CNN
 F 2 "Aardonyx:SKT32E_IITM_TH_SOCKET" H 8250 5900 50  0001 C CNN
 F 3 "https://gitlab.com/shaktiproject/cores/shakti-soc/-/tree/master/asic/e-class-aardonyx" H 8250 5900 50  0001 C CNN
@@ -1487,6 +1487,74 @@ $EndComp
 Wire Wire Line
 	7650 1400 7650 1300
 Connection ~ 7650 1400
+$Comp
+L Aardonyx-rescue:C_Small-aardonyx C17
+U 1 1 5F202590
+P 9950 1350
+F 0 "C17" H 9950 1450 50  0000 L CNN
+F 1 "18PF,0402" H 9950 1250 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 9950 1350 50  0001 C CNN
+F 3 "https://www.digikey.in/product-detail/en/yageo/CC0201JRNPO9BN180/311-1386-1-ND/2833692" H 9950 1350 50  0001 C CNN
+F 4 "311-1386-1-ND " H 9950 1350 50  0001 C CNN "Digikey PartNumber"
+F 5 "CAP CER 18PF 50V C0G/NPO 0201 " H 9950 1350 50  0001 C CNN "Description"
+F 6 "CC0201JRNPO9BN180 " H 9950 1350 50  0001 C CNN "Manufactured Part Number"
+F 7 "Yageo" H 9950 1350 50  0001 C CNN "Maufaturer"
+	1    9950 1350
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	9850 1350 9650 1350
+Connection ~ 9650 1350
+$Comp
+L Aardonyx-rescue:GND-aardonyx #PWR?
+U 1 1 5F21B9C6
+P 10050 1350
+AR Path="/5D8B3740/5F21B9C6" Ref="#PWR?"  Part="1" 
+AR Path="/5D8B37B8/5F21B9C6" Ref="#PWR0186"  Part="1" 
+F 0 "#PWR0186" H 10050 1100 50  0001 C CNN
+F 1 "GND" H 10055 1177 50  0000 C CNN
+F 2 "" H 10050 1350 50  0001 C CNN
+F 3 "" H 10050 1350 50  0001 C CNN
+	1    10050 1350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Aardonyx-rescue:C_Small-aardonyx C16
+U 1 1 5F229012
+P 8350 1000
+F 0 "C16" H 8350 1100 50  0000 L CNN
+F 1 "18PF,0402" H 8350 900 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 8350 1000 50  0001 C CNN
+F 3 "https://www.digikey.in/product-detail/en/yageo/CC0201JRNPO9BN180/311-1386-1-ND/2833692" H 8350 1000 50  0001 C CNN
+F 4 "311-1386-1-ND " H 8350 1000 50  0001 C CNN "Digikey PartNumber"
+F 5 "CAP CER 18PF 50V C0G/NPO 0201 " H 8350 1000 50  0001 C CNN "Description"
+F 6 "CC0201JRNPO9BN180 " H 8350 1000 50  0001 C CNN "Manufactured Part Number"
+F 7 "Yageo" H 8350 1000 50  0001 C CNN "Maufaturer"
+	1    8350 1000
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8250 1000 8050 1000
+Wire Wire Line
+	8750 1000 8450 1000
+$Comp
+L Aardonyx-rescue:GND-aardonyx #PWR?
+U 1 1 5F24315B
+P 8750 1000
+AR Path="/5D8B3740/5F24315B" Ref="#PWR?"  Part="1" 
+AR Path="/5D8B37B8/5F24315B" Ref="#PWR0232"  Part="1" 
+F 0 "#PWR0232" H 8750 750 50  0001 C CNN
+F 1 "GND" H 8755 827 50  0000 C CNN
+F 2 "" H 8750 1000 50  0001 C CNN
+F 3 "" H 8750 1000 50  0001 C CNN
+	1    8750 1000
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8050 1000 8050 1350
+Connection ~ 8050 1350
+Wire Wire Line
+	8050 1350 7850 1350
 Wire Bus Line
 	1550 5700 1550 6100
 Wire Bus Line
