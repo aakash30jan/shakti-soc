@@ -335,4 +335,15 @@ Wire Wire Line
 	7350 4950 8150 4950
 Text Label 7350 4950 0    50   ~ 0
 RESET
+$Comp
+L Mechanical:MountingHole H8
+U 1 1 5F2674E6
+P 3250 7200
+F 0 "H8" H 3350 7246 50  0000 L CNN
+F 1 "MountingHole" H 3350 7155 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 3250 7200 50  0001 C CNN
+F 3 "~" H 3250 7200 50  0001 C CNN
+	1    3250 7200
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
