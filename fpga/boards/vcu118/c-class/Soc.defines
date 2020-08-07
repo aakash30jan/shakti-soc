@@ -1,0 +1,30 @@
+`define Num_Masters 3
+`define Debug_master_num 0
+`define Mem_master_num 1
+`define Fetch_master_num 2
+
+`define Num_Slaves 8
+`define Uart_slave_num 0
+`define Clint_slave_num 1
+`define Boot_slave_num 2
+`define Err_slave_num 3
+`define TCM_slave_num 4
+`define Memory_slave_num 5
+`define PLIC_slave_num 6
+`define Debug_slave_num 7
+
+`define DebugBase   'h0000_0000
+`define DebugEnd    'h0000_000F
+`define BootBase    'h0000_1000
+`define BootEnd     'h0000_1FFF
+`define MemoryBase  'h8000_0000
+`define MemoryEnd   'hFFFF_FFFF
+`define TCMBase     'h1000_0000
+`define TCMEnd      'h1000_FFFF
+`define UartBase    'h0001_1300
+`define UartEnd     'h0001_1340
+`define ClintBase   'h0200_0000
+`define ClintEnd    'h020B_FFFF
+`define PLICBase    'h020D_0000
+`define PLICEnd	    'h020D_00FF
+
