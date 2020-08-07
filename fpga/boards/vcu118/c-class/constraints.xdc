@@ -1,11 +1,12 @@
 #-------------- MCS Generation ----------------------
 set_property BITSTREAM.CONFIG.EXTMASTERCCLK_EN div-1  [current_design]
-set_property BITSTREAM.CONFIG.BPI_SYNC_MODE Type1     [current_design]
+set_property BITSTREAM.CONFIG.SPI_FALL_EDGE YES       [current_design]
+set_property BITSTREAM.CONFIG.SPI_BUSWIDTH 8          [current_design]
 set_property BITSTREAM.GENERAL.COMPRESS TRUE          [current_design]
 set_property BITSTREAM.CONFIG.UNUSEDPIN Pulldown      [current_design]
 set_property CFGBVS GND                               [current_design]
 set_property CONFIG_VOLTAGE 1.8                       [current_design]
-set_property CONFIG_MODE BPI16                        [current_design]
+set_property CONFIG_MODE SPIx8                        [current_design]
 
 set_property PACKAGE_PIN E12 [get_ports c0_sys_clk_p]
 set_property IOSTANDARD DIFF_SSTL12 [get_ports c0_sys_clk_p]
