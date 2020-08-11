@@ -1743,29 +1743,14 @@ L Aardonyx-rescue:Ferrite_Bead_Small-aardonyx FB7
 U 1 1 5EF1A57F
 P 800 3750
 F 0 "FB7" V 700 3850 50  0000 C CNN
-F 1 "47E,FB,0402" V 900 3750 50  0000 C CNN
-F 2 "Inductor_SMD:L_0402_1005Metric" V 730 3750 50  0001 C CNN
+F 1 "47E,FB,0603" V 900 3750 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" V 730 3750 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/w%C3%BCrth-elektronik/742792608/732-1596-1-ND/1639540" H 800 3750 50  0001 C CNN
 F 4 "FERRITE BEAD 47 OHM 0603 1LN" H 800 3750 50  0001 C CNN "Description"
 F 5 "732-1596-1-ND" H 800 3750 50  0001 C CNN "Digikey PartNumber"
 F 6 "742792608" H 800 3750 50  0001 C CNN "Manufactured Part Number"
 F 7 "Wurth Elektronik" H 800 3750 50  0001 C CNN "Maufaturer"
 	1    800  3750
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Aardonyx-rescue:Ferrite_Bead_Small-aardonyx FB3
-U 1 1 5EF19677
-P 1300 2350
-F 0 "FB3" H 1200 2250 50  0000 C CNN
-F 1 "47E,FB,0402" V 1400 2350 50  0000 C CNN
-F 2 "Inductor_SMD:L_0402_1005Metric" V 1230 2350 50  0001 C CNN
-F 3 "https://www.digikey.in/product-detail/en/w%C3%BCrth-elektronik/742792608/732-1596-1-ND/1639540" H 1300 2350 50  0001 C CNN
-F 4 "FERRITE BEAD 47 OHM 0603 1LN" H 1300 2350 50  0001 C CNN "Description"
-F 5 "732-1596-1-ND" H 1300 2350 50  0001 C CNN "Digikey PartNumber"
-F 6 "742792608" H 1300 2350 50  0001 C CNN "Manufactured Part Number"
-F 7 "Wurth Elektronik" H 1300 2350 50  0001 C CNN "Maufaturer"
-	1    1300 2350
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
@@ -2108,4 +2093,19 @@ Text Label 9500 3650 2    50   ~ 0
 TDO
 Wire Wire Line
 	1000 2350 1200 2350
+$Comp
+L Aardonyx-rescue:Ferrite_Bead_Small-aardonyx FB3
+U 1 1 5EF19677
+P 1300 2350
+F 0 "FB3" H 1200 2250 50  0000 C CNN
+F 1 "47E,FB,0603" V 1400 2350 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" V 1230 2350 50  0001 C CNN
+F 3 "https://www.digikey.in/product-detail/en/w%C3%BCrth-elektronik/742792608/732-1596-1-ND/1639540" H 1300 2350 50  0001 C CNN
+F 4 "FERRITE BEAD 47 OHM 0603 1LN" H 1300 2350 50  0001 C CNN "Description"
+F 5 "732-1596-1-ND" H 1300 2350 50  0001 C CNN "Digikey PartNumber"
+F 6 "742792608" H 1300 2350 50  0001 C CNN "Manufactured Part Number"
+F 7 "Wurth Elektronik" H 1300 2350 50  0001 C CNN "Maufaturer"
+	1    1300 2350
+	0    -1   -1   0   
+$EndComp
 $EndSCHEMATC
