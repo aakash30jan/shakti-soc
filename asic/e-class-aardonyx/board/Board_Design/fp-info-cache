@@ -1,4 +1,4 @@
-18649801725712779
+18715762694899779
 Aardonyx
 Bourns_srn8040ta_L8.5_W6.6
 Shielded Coupled Inductor, Wuerth Elektronik, WE-DD, SMD, Typ L, Typ XL, Typ XXL, https://katalog.we-online.com/pbs/datasheet/744874001.pdf
@@ -56,12 +56,12 @@ resistor
 2
 2
 Aardonyx
-SKT32E_IITM
+SKT32E_IITM_TH_SOCKET
 
 
 0
-256
-256
+260
+257
 Aardonyx
 SW_PUSH_SPST_NO_4.5MM_7MM
 MEC 5G single pole normally-open tactile switch
