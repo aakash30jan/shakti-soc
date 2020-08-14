@@ -1181,10 +1181,10 @@ Connection ~ 9900 1150
 Wire Wire Line
 	8300 5800 8300 6050
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R98
+L Aardonyx-rescue:R_US-aardonyx R130
 U 1 1 5EFF848B
 P 950 3250
-F 0 "R98" H 950 3400 50  0000 L CNN
+F 0 "R130" V 1000 3400 50  0000 L CNN
 F 1 "10KE,0402" V 850 2950 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 990 3240 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/koa-speer-electronics-inc/SG73S1ETTP103J/2019-SG73S1ETTP103JCT-ND/10280218" H 950 3250 50  0001 C CNN
@@ -1196,10 +1196,10 @@ F 7 "KOA Speer Electronics, Inc." H 950 3250 50  0001 C CNN "Maufaturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L Aardonyx-rescue:Conn_1x3_M-aardonyx J10
+L Aardonyx-rescue:Conn_1x3_M-aardonyx J9
 U 1 1 5F09B665
 P 5150 7100
-F 0 "J10" H 5150 7300 50  0000 L CNN
+F 0 "J9" H 5150 7300 50  0000 L CNN
 F 1 "Conn_1x3_M" H 4800 6900 50  0000 L CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 5150 7100 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/amphenol-icc-fci/68000-203HLF/609-3464-ND/2023305" H 5150 7100 50  0001 C CNN
@@ -1211,10 +1211,10 @@ F 7 "Amphenol ICC (FCI)" H 5150 7100 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:ADC108S102CIMTX_NOPB-aardonyx U6
+L Aardonyx-rescue:ADC108S102CIMTX_NOPB-aardonyx U5
 U 1 1 5E6CD7B1
 P 4300 5900
-F 0 "U6" H 3900 6400 50  0000 C CNN
+F 0 "U5" H 3900 6400 50  0000 C CNN
 F 1 "ADC128S102CIMTX/NOPB" H 4750 5400 50  0000 C CNN
 F 2 "Package_SO:TSSOP-16_4.4x5mm_P0.65mm" H 4300 5900 50  0001 L BNN
 F 3 "https://www.digikey.in/product-detail/en/texas-instruments/ADC128S102CIMTX-NOPB/296-41184-1-ND/5222639" H 4300 5900 50  0001 L BNN
@@ -1226,10 +1226,10 @@ F 7 "Texas Instruments" H 4300 5900 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:Conn_1x6_F-aardonyx J9
+L Aardonyx-rescue:Conn_1x6_F-aardonyx J8
 U 1 1 638C40B5
 P 7250 5600
-F 0 "J9" H 7200 5900 50  0000 L CNN
+F 0 "J8" H 7200 5900 50  0000 L CNN
 F 1 "Conn_1x6" H 7100 5200 50  0000 L CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical" H 7250 5600 50  0001 C CNN
 F 3 "https://www.digikey.com/products/en?keywords=68000-406HLF" H 7250 5600 50  0001 C CNN
@@ -1256,10 +1256,10 @@ F 7 "Amphenol ICC (FCI)" H 3550 3200 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:Conn_01x04-aardonyx J14
+L Aardonyx-rescue:Conn_01x04-aardonyx J16
 U 1 1 62DE9728
 P 2900 7000
-F 0 "J14" H 2980 6992 50  0000 L CNN
+F 0 "J16" H 2850 7250 50  0000 L CNN
 F 1 "Conn_1x4" H 2800 6700 50  0000 L CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 2900 7000 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/amphenol-icc-fci/68000-404HLF/609-3262-ND/1878463" H 2900 7000 50  0001 C CNN
@@ -1286,10 +1286,10 @@ F 7 "Amphenol ICC (FCI)" H 4900 1750 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:Conn_1x6_F-aardonyx J2
+L Aardonyx-rescue:Conn_1x6_F-aardonyx J1
 U 1 1 628F7F78
 P 7250 4600
-F 0 "J2" H 7200 4900 50  0000 L CNN
+F 0 "J1" H 7200 4900 50  0000 L CNN
 F 1 "Conn_1x6" H 7100 4200 50  0000 L CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical" H 7250 4600 50  0001 C CNN
 F 3 "https://www.digikey.com/products/en?keywords=68000-406HLF" H 7250 4600 50  0001 C CNN
@@ -1301,10 +1301,10 @@ F 7 "Amphenol ICC (FCI)" H 7250 4600 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C46
+L Aardonyx-rescue:C_Small-aardonyx C23
 U 1 1 5F723E3A
 P 3700 5050
-F 0 "C46" H 3792 5096 50  0000 L CNN
+F 0 "C23" H 3792 5096 50  0000 L CNN
 F 1 "0.1UF,0402" H 3792 5005 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 3700 5050 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 3700 5050 50  0001 C CNN
@@ -1316,10 +1316,10 @@ F 7 "AVX Corporation" H 3700 5050 50  0001 C CNN "Maufaturer"
 	-1   0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R43
+L Aardonyx-rescue:R_US-aardonyx R39
 U 1 1 5F6D0204
 P 5450 6400
-F 0 "R43" V 5550 6350 50  0000 L CNN
+F 0 "R39" V 5550 6350 50  0000 L CNN
 F 1 "10KE,0402" V 5350 6300 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 5490 6390 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/koa-speer-electronics-inc/SG73S1ETTP103J/2019-SG73S1ETTP103JCT-ND/10280218" H 5450 6400 50  0001 C CNN
@@ -1331,10 +1331,10 @@ F 7 "KOA Speer Electronics, Inc." H 5450 6400 50  0001 C CNN "Maufaturer"
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C29
+L Aardonyx-rescue:C_Small-aardonyx C11
 U 1 1 5F6A55DE
 P 4900 5050
-F 0 "C29" H 4992 5096 50  0000 L CNN
+F 0 "C11" H 4992 5096 50  0000 L CNN
 F 1 "0.1UF,0402" H 4992 5005 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 4900 5050 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 4900 5050 50  0001 C CNN
@@ -1361,10 +1361,10 @@ F 7 "Amphenol ICC (FCI)" H 8750 6050 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:Conn_1x8-aardonyx J5
+L Aardonyx-rescue:Conn_1x8-aardonyx J4
 U 1 1 5DD27E26
 P 9650 4900
-F 0 "J5" H 9600 5300 50  0000 L CNN
+F 0 "J4" H 9600 5300 50  0000 L CNN
 F 1 "Conn_1x8_F" H 9550 4400 50  0000 L CNN
 F 2 "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical" H 9650 4900 50  0001 C CNN
 F 3 "https://www.digikey.com/products/en?keywords=%0968685-308LF" H 9650 4900 50  0001 C CNN
@@ -1377,10 +1377,10 @@ F 8 "609-3589-ND" H 9650 4900 50  0001 C CNN "Field4"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:Conn_1x10-aardonyx J3
+L Aardonyx-rescue:Conn_1x10-aardonyx J2
 U 1 1 5DD25582
 P 10750 4750
-F 0 "J3" H 10700 5250 50  0000 L CNN
+F 0 "J2" H 10700 5250 50  0000 L CNN
 F 1 "Conn_1x10_F" H 10600 4150 50  0000 L CNN
 F 2 "Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical" H 10750 4750 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/amphenol-icc-fci/68685-310LF/609-3584-ND/1525202" H 10750 4750 50  0001 C CNN
@@ -1392,10 +1392,10 @@ F 7 "Amphenol ICC (FCI)" H 10750 4750 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:Conn_1x8-aardonyx J4
+L Aardonyx-rescue:Conn_1x8-aardonyx J3
 U 1 1 5DD2482F
 P 10750 5900
-F 0 "J4" H 10700 6300 50  0000 L CNN
+F 0 "J3" H 10700 6300 50  0000 L CNN
 F 1 "Conn_1x8_F" H 10600 5400 50  0000 L CNN
 F 2 "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical" H 10750 5900 50  0001 C CNN
 F 3 "https://www.digikey.com/products/en?keywords=%0968685-308LF" H 10750 5900 50  0001 C CNN
@@ -1407,10 +1407,10 @@ F 7 "Amphenol ICC (FCI)" H 10750 5900 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:Conn_1x6_F-aardonyx J6
+L Aardonyx-rescue:Conn_1x6_F-aardonyx J5
 U 1 1 5DD23867
 P 9700 5900
-F 0 "J6" H 9650 6200 50  0000 L CNN
+F 0 "J5" H 9650 6200 50  0000 L CNN
 F 1 "Conn_1x6_F" H 9550 5500 50  0000 L CNN
 F 2 "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical" H 9700 5900 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/amphenol-icc-fci/75915-306LF/609-3558-ND/1523584" H 9700 5900 50  0001 C CNN
@@ -1422,10 +1422,10 @@ F 7 "Amphenol ICC (FCI)" H 9700 5900 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R105
+L Aardonyx-rescue:R_US-aardonyx R129
 U 1 1 5E31A798
 P 2650 5150
-F 0 "R105" H 2650 5300 50  0000 L CNN
+F 0 "R129" H 2650 5300 50  0000 L CNN
 F 1 "10KE,0402" H 2650 5000 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 2690 5140 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/koa-speer-electronics-inc/SG73S1ETTP103J/2019-SG73S1ETTP103JCT-ND/10280218" H 2650 5150 50  0001 C CNN
@@ -1437,10 +1437,10 @@ F 7 "KOA Speer Electronics, Inc." H 2650 5150 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R104
+L Aardonyx-rescue:R_US-aardonyx R128
 U 1 1 5E31A792
 P 2450 5150
-F 0 "R104" H 2450 5300 50  0000 L CNN
+F 0 "R128" H 2450 5300 50  0000 L CNN
 F 1 "10KE,0402" V 2350 4950 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 2490 5140 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/koa-speer-electronics-inc/SG73S1ETTP103J/2019-SG73S1ETTP103JCT-ND/10280218" H 2450 5150 50  0001 C CNN
@@ -1452,10 +1452,10 @@ F 7 "KOA Speer Electronics, Inc." H 2450 5150 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C58
+L Aardonyx-rescue:C_Small-aardonyx C75
 U 1 1 5E3046A9
 P 2050 5000
-F 0 "C58" H 2142 5046 50  0000 L CNN
+F 0 "C75" H 2142 5046 50  0000 L CNN
 F 1 "0.1UF,0402" V 1950 4700 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 2050 5000 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 2050 5000 50  0001 C CNN
@@ -1467,10 +1467,10 @@ F 7 "AVX Corporation" H 2050 5000 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R103
+L Aardonyx-rescue:R_US-aardonyx R131
 U 1 1 5E2C33CD
 P 1900 1350
-F 0 "R103" H 1900 1500 50  0000 L CNN
+F 0 "R131" H 1900 1500 50  0000 L CNN
 F 1 "10KE,0402" V 1800 1050 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 1940 1340 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/koa-speer-electronics-inc/SG73S1ETTP103J/2019-SG73S1ETTP103JCT-ND/10280218" H 1900 1350 50  0001 C CNN
@@ -1482,10 +1482,10 @@ F 7 "KOA Speer Electronics, Inc." H 1900 1350 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R120
+L Aardonyx-rescue:R_US-aardonyx R132
 U 1 1 5E2C54E1
 P 1650 1350
-F 0 "R120" H 1650 1500 50  0000 L CNN
+F 0 "R132" H 1650 1500 50  0000 L CNN
 F 1 "10KE,0402" V 1550 1050 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 1690 1340 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/koa-speer-electronics-inc/SG73S1ETTP103J/2019-SG73S1ETTP103JCT-ND/10280218" H 1650 1350 50  0001 C CNN
@@ -1497,10 +1497,10 @@ F 7 "KOA Speer Electronics, Inc." H 1650 1350 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R121
+L Aardonyx-rescue:R_US-aardonyx R133
 U 1 1 5E2B4C89
 P 2150 1350
-F 0 "R121" H 2150 1500 50  0000 L CNN
+F 0 "R133" H 2150 1500 50  0000 L CNN
 F 1 "10KE,0402" V 2050 1050 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 2190 1340 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/koa-speer-electronics-inc/SG73S1ETTP103J/2019-SG73S1ETTP103JCT-ND/10280218" H 2150 1350 50  0001 C CNN
@@ -1512,10 +1512,10 @@ F 7 "KOA Speer Electronics, Inc." H 2150 1350 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C57
+L Aardonyx-rescue:C_Small-aardonyx C76
 U 1 1 5E2ABAA3
 P 3300 1200
-F 0 "C57" H 3392 1246 50  0000 L CNN
+F 0 "C76" H 3392 1246 50  0000 L CNN
 F 1 "0.1UF,0402" H 3392 1155 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 3300 1200 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 3300 1200 50  0001 C CNN
@@ -1527,10 +1527,10 @@ F 7 "AVX Corporation" H 3300 1200 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C1
+L Aardonyx-rescue:C_Small-aardonyx C3
 U 1 1 5E2602BD
 P 10500 1350
-F 0 "C1" H 10592 1396 50  0000 L CNN
+F 0 "C3" H 10592 1396 50  0000 L CNN
 F 1 "0.1UF,0402" H 10592 1305 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 10500 1350 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 10500 1350 50  0001 C CNN
@@ -1557,10 +1557,10 @@ F 7 "Texas Instruments" H 6800 2550 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C22
+L Aardonyx-rescue:C_Small-aardonyx C8
 U 1 1 5E26A35A
 P 6250 1300
-F 0 "C22" H 6342 1346 50  0000 L CNN
+F 0 "C8" H 6342 1346 50  0000 L CNN
 F 1 "0.1UF,0402" H 6342 1255 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 6250 1300 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 6250 1300 50  0001 C CNN
@@ -1572,10 +1572,10 @@ F 7 "AVX Corporation" H 6250 1300 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C4
+L Aardonyx-rescue:C_Small-aardonyx C5
 U 1 1 5E266913
 P 9150 1350
-F 0 "C4" H 9242 1396 50  0000 L CNN
+F 0 "C5" H 9242 1396 50  0000 L CNN
 F 1 "0.1UF,0402" H 9242 1305 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 9150 1350 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 9150 1350 50  0001 C CNN
@@ -1587,10 +1587,10 @@ F 7 "AVX Corporation" H 9150 1350 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R6
+L Aardonyx-rescue:R_US-aardonyx R9
 U 1 1 5E2602B7
 P 9900 1400
-F 0 "R6" H 9968 1446 50  0000 L CNN
+F 0 "R9" H 9968 1446 50  0000 L CNN
 F 1 "200KE,0402" H 9968 1355 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 9940 1390 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/koa-speer-electronics-inc/RN73H1ETTP2003B25/2019-RN73H1ETTP2003B25CT-ND/9916930" H 9900 1400 50  0001 C CNN
@@ -1602,10 +1602,10 @@ F 7 "KOA Speer Electronics, Inc." H 9900 1400 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:C_Small-aardonyx C11
+L Aardonyx-rescue:C_Small-aardonyx C7
 U 1 1 5E253D0A
 P 7550 1300
-F 0 "C11" H 7642 1346 50  0000 L CNN
+F 0 "C7" H 7642 1346 50  0000 L CNN
 F 1 "0.1UF,0402" H 7642 1255 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 7550 1300 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 7550 1300 50  0001 C CNN
@@ -1617,10 +1617,10 @@ F 7 "AVX Corporation" H 7550 1300 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:R_US-aardonyx R18
+L Aardonyx-rescue:R_US-aardonyx R25
 U 1 1 5E2531D9
 P 6950 1350
-F 0 "R18" H 7018 1396 50  0000 L CNN
+F 0 "R25" H 7018 1396 50  0000 L CNN
 F 1 "200KE,0402" H 7018 1305 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 6990 1340 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/koa-speer-electronics-inc/RN73H1ETTP2003B25/2019-RN73H1ETTP2003B25CT-ND/9916930" H 6950 1350 50  0001 C CNN
@@ -1632,10 +1632,10 @@ F 7 "KOA Speer Electronics, Inc." H 6950 1350 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:LSF0108PWR-aardonyx U1
+L Aardonyx-rescue:LSF0108PWR-aardonyx U2
 U 1 1 5E250FD7
 P 9750 2600
-F 0 "U1" H 9400 3350 50  0000 C CNN
+F 0 "U2" H 9400 3350 50  0000 C CNN
 F 1 "LSF0108PWR" H 10050 1850 50  0000 C CNN
 F 2 "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm" H 9750 2600 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/texas-instruments/LSF0108PWR/296-37828-1-ND/4876357" H 9750 2600 50  0001 C CNN
@@ -1647,10 +1647,10 @@ F 7 "Texas Instruments" H 9750 2600 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:CAT24M01WI-GT3-aardonyx U9
+L Aardonyx-rescue:CAT24M01WI-GT3-aardonyx U11
 U 1 1 5DF07821
 P 1500 5650
-F 0 "U9" H 1200 6150 50  0000 C CNN
+F 0 "U11" H 1200 6150 50  0000 C CNN
 F 1 "CAT24M01WI-GT3" H 1900 5150 50  0000 C CNN
 F 2 "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm" H 1500 5650 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/on-semiconductor/CAT24M01WI-GT3/CAT24M01WI-GT3OSCT-ND/2698362" H 1500 5650 50  0001 C CNN
@@ -1662,10 +1662,10 @@ F 7 "ON Semiconductor" H 1500 5650 50  0001 C CNN "Maufaturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Aardonyx-rescue:IS25LP256x-xM-aardonyx U8
+L Aardonyx-rescue:IS25LP256x-xM-aardonyx U12
 U 1 1 5DEF65AC
 P 2750 1950
-F 0 "U8" H 2400 2400 50  0000 C CNN
+F 0 "U12" H 2400 2400 50  0000 C CNN
 F 1 "IS25LP256x-xM" H 3150 1500 50  0000 C CNN
 F 2 "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm" H 2800 2550 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/issi-integrated-silicon-solution-inc/IS25LP256D-JMLE/706-1611-ND/7567432" H 2800 1450 50  0001 C CNN
@@ -1815,8 +1815,8 @@ U 1 1 5F781C57
 P 7750 5050
 AR Path="/5DB8A7DC/5F781C57" Ref="C?"  Part="1" 
 AR Path="/5E6E93B2/5F781C57" Ref="C?"  Part="1" 
-AR Path="/5D8B37DE/5F781C57" Ref="C49"  Part="1" 
-F 0 "C49" H 7750 5150 50  0000 L CNN
+AR Path="/5D8B37DE/5F781C57" Ref="C32"  Part="1" 
+F 0 "C32" H 7750 5150 50  0000 L CNN
 F 1 "1UF,0805" V 7700 4650 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric" H 7750 5050 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/kemet/C0805C105J3RACTU/399-10060-6-ND/3739580" H 7750 5050 50  0001 C CNN
@@ -1833,8 +1833,8 @@ U 1 1 5F781C61
 P 8100 5050
 AR Path="/5DB8A7DC/5F781C61" Ref="C?"  Part="1" 
 AR Path="/5E6E93B2/5F781C61" Ref="C?"  Part="1" 
-AR Path="/5D8B37DE/5F781C61" Ref="C50"  Part="1" 
-F 0 "C50" H 8100 5150 50  0000 L CNN
+AR Path="/5D8B37DE/5F781C61" Ref="C36"  Part="1" 
+F 0 "C36" H 8100 5150 50  0000 L CNN
 F 1 "0.1UF,0402" V 8300 4750 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 8100 5050 50  0001 C CNN
 F 3 "https://www.digikey.in/product-detail/en/avx-corporation/04023C104JAT2A/478-10050-1-ND/6564273" H 8100 5050 50  0001 C CNN
