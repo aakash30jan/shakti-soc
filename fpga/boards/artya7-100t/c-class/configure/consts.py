@@ -71,5 +71,5 @@ common_verilog:
   patch:
 devices:
   url: https://gitlab.com/shaktiproject/uncore/devices
-  checkout: 6.3.0
+  checkout: 6.5.1
 '''
